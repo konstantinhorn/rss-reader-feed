@@ -1,0 +1,41 @@
+name: Cleanup Old Articles
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # daily at 04:00 UTC
+  workflow_dispatch:        # also triggerable manually
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history for commit dates)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Delete articles older than 30 days
+        run: python cleanup_articles.py
+
+      - name: Regenerate RSS feed
+        run: python generate_feed.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing changed, skipping commit"
+          else
+            git commit -m "Cleanup: Artikel älter als 30 Tage entfernt [skip ci]"
+            git push
+          fi
