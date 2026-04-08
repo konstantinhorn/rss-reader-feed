@@ -7,8 +7,344 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:30:16 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Alek - NEW Claude A.I. Digital Product Nobody is Talking About</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Alek - NEW Claude A.I. Digital Product Nobody is Talking About.md</guid>
+    <pubDate>Wed, 08 Apr 2026 21:29:50 +0200</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>This video outlines a comprehensive strategy for creating and scaling an online business selling digital art prints using AI tools like Midjourney v8 and Claude. It demonstrates how to generate unique artwork, prepare it for sale, optimize listings on platforms like Etsy, and automate much of the process to potentially generate significant passive income.</p>
+
+<h2>Key Points</h2>
+<li>Digital art prints on Etsy can generate substantial monthly income, with examples showing earnings from $1,760 to $22,000 per month from single listings or small shops.</li>
+<li>Midjourney v8 and Claude are leveraged for creating original artwork, automating image preparation (cropping), and optimizing product listings.</li>
+<li>Etsy is recommended as the primary sales platform due to its organic reach, off-site advertising program (where Etsy pays for ads and only charges a fee upon sale), and low-risk entry for digital products.</li>
+<li>The process involves setting up a shop, conducting product research to identify selling styles, using AI for art creation, preparing images (multiple aspect ratios, mockups), and automating listing creation and SEO.</li>
+<li>A key strategy for art creation is &quot;reverse prompting&quot; in Midjourney, using existing successful designs as a reference to generate original artwork in a similar style.</li>
+<li>Full automation using Claude skills is demonstrated for the entire workflow, though some manual intervention is currently required for tasks like downloading and uploading files.</li>
+<li>Scaling to thousands of listings through consistent effort is highlighted as essential for achieving significant income levels.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Business Model Introduction:</strong> The video introduces the concept of selling digital art prints online, showcasing examples of Etsy shops making thousands of dollars monthly from simple designs and gallery packs. It emphasizes the high-profit margin of digital products.</p>
+
+<p><strong>Etsy as a Platform:</strong> The benefits of starting on Etsy are detailed, including its free organic reach, Etsy-funded off-site ads (which only incur a fee if a sale results from the ad), and its suitability for low-risk digital product ventures before scaling to other platforms.</p>
+
+<p><strong>Shop Setup &amp; Product Research:</strong> A quick guide for setting up an Etsy shop is mentioned, along with a link for free listings. The importance of product research is stressed, focusing on identifying currently best-selling art styles and niches to inform the creation of original AI-generated artwork that targets existing buyer demand.</p>
+
+<p><strong>AI Art Creation with Midjourney v8:</strong> Various methods for generating artwork are demonstrated:</p>
+<p>    - <strong>Reverse Prompting:</strong> Uploading a screenshot of a successful design to Midjourney's <code>describe</code> function to get prompts for similar styles.</p>
+<p>    - <strong>Explore Tab (Images):</strong> Browsing user-generated images for style inspiration and injecting their prompts or using them as style references.</p>
+<p>    - <strong>Explore Tab (Styles):</strong> Applying curated style profiles to prompts to achieve specific aesthetics (e.g., rustic, vibrant).</p>
+<p>    High-resolution generation (HD mode, v8) is emphasized.</p>
+
+<p><strong>Artwork Preparation:</strong></p>
+<p>    - <strong>Automated Cropping:</strong> A custom Claude-generated web application (&quot;wall art cropper&quot;) is introduced to automatically crop the generated artwork into various standard print aspect ratios (e.g., 2:3, 3:4, 4:5, 5:7, 11:14) in bulk, with options for manual adjustment.</p>
+<p>    - <strong>Mockup Creation:</strong> Midjourney is used to generate blank mockup frames. The creator's tool, Listing View, is then used to efficiently place the artwork onto these mockups, creating professional-looking product images.</p>
+
+<p><strong>Listing Creation &amp; Automation:</strong></p>
+<p>    - <strong>Listing View Integration:</strong> The video demonstrates using Listing View to upload mockups and artwork, and then leveraging its integrated AI (powered by Claude Sonnet) to generate SEO-optimized titles, tags, and descriptions based on user-provided keywords.</p>
+<p>    - <strong>File Delivery:</strong> Listing View bundles all digital files into a branded, downloadable PDF, circumventing Etsy's file limits and simplifying delivery for customers.</p>
+<p>    - <strong>Presets:</strong> The ability to save listing details as presets is shown, allowing for rapid creation of new listings by simply swapping out artwork and re-running the AI for new SEO.</p>
+
+<p><strong>Full Automation with Claude Skills:</strong> The video showcases four individual Claude skills (for research, art creation, cropping, and listing) combined into a &quot;master skill&quot; for end-to-end automation. It acknowledges current limitations requiring user intervention for downloads/uploads and token management, suggesting that using individual skills for specific tasks might be more efficient.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Leverage AI for Efficiency:** AI tools like Midjourney and Claude dramatically reduce the time and skill required to create high-quality digital art and prepare it for sale, making this business model accessible.</li>
+<li>**Strategic Product Research is Paramount:** Don't guess what to sell. Analyze existing successful listings on platforms like Etsy to understand buyer demand and create original AI art that fits those proven niches.</li>
+<li>**Etsy is a Strong Starting Point:** Its built-in marketing features, especially the off-site ads, provide a significant advantage for new sellers of digital products, offering organic reach and low-risk advertising.</li>
+<li>**Automate Repetitive Tasks:** Tools that automate image cropping, mockup generation, and SEO-optimized listing creation are crucial for scaling efficiently and minimizing manual effort.</li>
+<li>**Build a Large Catalog Consistently:** Achieving substantial passive income requires a significant volume of listings. Consistency in creating and posting new products over time is key to building a successful shop.</li>
+<li>**Consider a Hybrid Automation Approach:** While full end-to-end automation is possible, a hybrid model where AI handles creation and repetitive tasks, with human oversight for strategic decisions and final quality checks, might be more effective and faster.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>This video outlines a comprehensive strategy for creating and scaling an online business selling digital art prints using AI tools like Midjourney v8 and Claude. It demonstrates how to generate unique artwork, prepare it for sale, optimize listings on platforms like Etsy, and automate much of the process to potentially generate significant passive income.</p>
+
+<h2>Key Points</h2>
+<li>Digital art prints on Etsy can generate substantial monthly income, with examples showing earnings from $1,760 to $22,000 per month from single listings or small shops.</li>
+<li>Midjourney v8 and Claude are leveraged for creating original artwork, automating image preparation (cropping), and optimizing product listings.</li>
+<li>Etsy is recommended as the primary sales platform due to its organic reach, off-site advertising program (where Etsy pays for ads and only charges a fee upon sale), and low-risk entry for digital products.</li>
+<li>The process involves setting up a shop, conducting product research to identify selling styles, using AI for art creation, preparing images (multiple aspect ratios, mockups), and automating listing creation and SEO.</li>
+<li>A key strategy for art creation is &quot;reverse prompting&quot; in Midjourney, using existing successful designs as a reference to generate original artwork in a similar style.</li>
+<li>Full automation using Claude skills is demonstrated for the entire workflow, though some manual intervention is currently required for tasks like downloading and uploading files.</li>
+<li>Scaling to thousands of listings through consistent effort is highlighted as essential for achieving significant income levels.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Business Model Introduction:</strong> The video introduces the concept of selling digital art prints online, showcasing examples of Etsy shops making thousands of dollars monthly from simple designs and gallery packs. It emphasizes the high-profit margin of digital products.</p>
+
+<p><strong>Etsy as a Platform:</strong> The benefits of starting on Etsy are detailed, including its free organic reach, Etsy-funded off-site ads (which only incur a fee if a sale results from the ad), and its suitability for low-risk digital product ventures before scaling to other platforms.</p>
+
+<p><strong>Shop Setup &amp; Product Research:</strong> A quick guide for setting up an Etsy shop is mentioned, along with a link for free listings. The importance of product research is stressed, focusing on identifying currently best-selling art styles and niches to inform the creation of original AI-generated artwork that targets existing buyer demand.</p>
+
+<p><strong>AI Art Creation with Midjourney v8:</strong> Various methods for generating artwork are demonstrated:</p>
+<p>    - <strong>Reverse Prompting:</strong> Uploading a screenshot of a successful design to Midjourney's <code>describe</code> function to get prompts for similar styles.</p>
+<p>    - <strong>Explore Tab (Images):</strong> Browsing user-generated images for style inspiration and injecting their prompts or using them as style references.</p>
+<p>    - <strong>Explore Tab (Styles):</strong> Applying curated style profiles to prompts to achieve specific aesthetics (e.g., rustic, vibrant).</p>
+<p>    High-resolution generation (HD mode, v8) is emphasized.</p>
+
+<p><strong>Artwork Preparation:</strong></p>
+<p>    - <strong>Automated Cropping:</strong> A custom Claude-generated web application (&quot;wall art cropper&quot;) is introduced to automatically crop the generated artwork into various standard print aspect ratios (e.g., 2:3, 3:4, 4:5, 5:7, 11:14) in bulk, with options for manual adjustment.</p>
+<p>    - <strong>Mockup Creation:</strong> Midjourney is used to generate blank mockup frames. The creator's tool, Listing View, is then used to efficiently place the artwork onto these mockups, creating professional-looking product images.</p>
+
+<p><strong>Listing Creation &amp; Automation:</strong></p>
+<p>    - <strong>Listing View Integration:</strong> The video demonstrates using Listing View to upload mockups and artwork, and then leveraging its integrated AI (powered by Claude Sonnet) to generate SEO-optimized titles, tags, and descriptions based on user-provided keywords.</p>
+<p>    - <strong>File Delivery:</strong> Listing View bundles all digital files into a branded, downloadable PDF, circumventing Etsy's file limits and simplifying delivery for customers.</p>
+<p>    - <strong>Presets:</strong> The ability to save listing details as presets is shown, allowing for rapid creation of new listings by simply swapping out artwork and re-running the AI for new SEO.</p>
+
+<p><strong>Full Automation with Claude Skills:</strong> The video showcases four individual Claude skills (for research, art creation, cropping, and listing) combined into a &quot;master skill&quot; for end-to-end automation. It acknowledges current limitations requiring user intervention for downloads/uploads and token management, suggesting that using individual skills for specific tasks might be more efficient.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Leverage AI for Efficiency:** AI tools like Midjourney and Claude dramatically reduce the time and skill required to create high-quality digital art and prepare it for sale, making this business model accessible.</li>
+<li>**Strategic Product Research is Paramount:** Don't guess what to sell. Analyze existing successful listings on platforms like Etsy to understand buyer demand and create original AI art that fits those proven niches.</li>
+<li>**Etsy is a Strong Starting Point:** Its built-in marketing features, especially the off-site ads, provide a significant advantage for new sellers of digital products, offering organic reach and low-risk advertising.</li>
+<li>**Automate Repetitive Tasks:** Tools that automate image cropping, mockup generation, and SEO-optimized listing creation are crucial for scaling efficiently and minimizing manual effort.</li>
+<li>**Build a Large Catalog Consistently:** Achieving substantial passive income requires a significant volume of listings. Consistency in creating and posting new products over time is key to building a successful shop.</li>
+<li>**Consider a Hybrid Automation Approach:** While full end-to-end automation is possible, a hybrid model where AI handles creation and repetitive tasks, with human oversight for strategic decisions and final quality checks, might be more effective and faster.</li>]]></content:encoded>
+  </item>
+  <item>
+    <title>Daily Stoic - Give me 25 minutes to fix your focus (from the Stoics)</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Daily Stoic - Give me 25 minutes to fix your focus (from the Stoics).md</guid>
+    <pubDate>Wed, 08 Apr 2026 21:29:50 +0200</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>The video addresses the pervasive issues of distraction, overwhelm, and anxiety in modern life, offering practical Stoic-inspired strategies to regain focus and productivity. It emphasizes resetting one's daily routines, mental habits, and physical environment to achieve greater clarity, effectiveness, and inner peace.</p>
+
+<h2>Key Points</h2>
+<li>  **Start the day strong**: Wake up early to claim quiet, productive &quot;you time&quot; before distractions begin.</li>
+<li>  **Prioritize sleep**: Go to bed early to avoid &quot;revenge bedtime&quot; and ensure adequate rest, which is crucial for discipline and good decision-making.</li>
+<li>  **Ruthlessly eliminate the inessential**: Learn to say &quot;no&quot; to non-critical obligations to create space for what truly matters.</li>
+<li>  **Declutter your physical space**: Organize and remove unnecessary possessions, as external clutter reflects and contributes to mental clutter.</li>
+<li>  **Break free from bad habits**: Identify and overcome addictions or compulsive behaviors that exert control over your autonomy and focus.</li>
+<li>  **Limit your digital reachability**: Reduce the number of ways people can contact you and turn off alerts to protect your focus from constant interruptions.</li>
+<li>  **Resolve lingering grievances**: Address and make amends for past conflicts or guilt to lift emotional burdens and free up mental energy.</li>
+<li>  **Curate your information diet**: Be mindful of what you consume, prioritizing enriching content like books over constant news and social media noise.</li>
+<li>  **Embrace physical activity**: Take regular walks and engage in rigorous exercise to clear your mind, reduce stress, and assert self-control.</li>
+<li>  **Practice daily journaling**: Use journaling as a tool for self-reflection, processing thoughts, and reinforcing Stoic principles.</li>
+<li>  **Meditate on mortality (Memento Mori)**: Regularly contemplate your own death to gain perspective, eliminate trivial concerns, and focus on what truly matters in the present moment.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Morning and Night Routines</strong>: The video stresses the importance of waking up early to leverage the quietest, most productive hours, citing examples like Tony Morrison and Hemingway. It also highlights the necessity of going to bed early, warning against &quot;revenge bedtime&quot; which sabotages morning discipline and overall well-being.</p>
+
+<p><strong>Eliminating Distractions and Clutter</strong>: A significant portion focuses on decluttering both one's schedule and physical environment. This includes learning to say &quot;no&quot; to non-essential tasks and commitments, as well as organizing and removing physical clutter (dubbed &quot;doom bins&quot;) that symbolize and contribute to mental disarray.</p>
+
+<p><strong>Mindful Consumption and Self-Control</strong>: The speaker advises being highly selective about information consumption, advocating for reading books over constant news and social media. It also delves into identifying and breaking free from bad habits and addictions that diminish personal autonomy, urging viewers to reassert control over their impulses.</p>
+
+<p><strong>Protecting Focus and Mental Space</strong>: Strategies for safeguarding mental focus are discussed, such as limiting one's digital reachability by turning off alerts and reducing communication channels. The video also encourages resolving past grievances and conflicts to lighten emotional burdens and free up mental energy.</p>
+
+<p><strong>Physical and Philosophical Practices</strong>: The importance of physical activity, particularly walking and rigorous exercise, is emphasized for both mental clarity and asserting self-discipline. Finally, the video champions journaling as a Stoic practice for self-reflection and processing thoughts, and meditating on mortality (Memento Mori) as a powerful tool for gaining perspective and focusing on what truly matters.</p>
+
+<h2>Key Takeaways</h2>
+<li>  Your day is won or lost in the morning, which is largely determined by your actions the night before. Prioritize sleep and an early start.</li>
+<li>  True productivity and tranquility come from ruthlessly eliminating the non-essential, both in your schedule and physical surroundings, rather than just doing more.</li>
+<li>  You are not truly free if you are a slave to your habits, digital notifications, or unresolved conflicts; reclaim your autonomy by asserting control.</li>
+<li>  Be intentional about what you allow into your mind – choose enriching content over constant noise and trivia.</li>
+<li>  Simple, consistent practices like walking, journaling, and contemplating mortality are powerful tools for focus, perspective, and inner peace.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>The video addresses the pervasive issues of distraction, overwhelm, and anxiety in modern life, offering practical Stoic-inspired strategies to regain focus and productivity. It emphasizes resetting one's daily routines, mental habits, and physical environment to achieve greater clarity, effectiveness, and inner peace.</p>
+
+<h2>Key Points</h2>
+<li>  **Start the day strong**: Wake up early to claim quiet, productive &quot;you time&quot; before distractions begin.</li>
+<li>  **Prioritize sleep**: Go to bed early to avoid &quot;revenge bedtime&quot; and ensure adequate rest, which is crucial for discipline and good decision-making.</li>
+<li>  **Ruthlessly eliminate the inessential**: Learn to say &quot;no&quot; to non-critical obligations to create space for what truly matters.</li>
+<li>  **Declutter your physical space**: Organize and remove unnecessary possessions, as external clutter reflects and contributes to mental clutter.</li>
+<li>  **Break free from bad habits**: Identify and overcome addictions or compulsive behaviors that exert control over your autonomy and focus.</li>
+<li>  **Limit your digital reachability**: Reduce the number of ways people can contact you and turn off alerts to protect your focus from constant interruptions.</li>
+<li>  **Resolve lingering grievances**: Address and make amends for past conflicts or guilt to lift emotional burdens and free up mental energy.</li>
+<li>  **Curate your information diet**: Be mindful of what you consume, prioritizing enriching content like books over constant news and social media noise.</li>
+<li>  **Embrace physical activity**: Take regular walks and engage in rigorous exercise to clear your mind, reduce stress, and assert self-control.</li>
+<li>  **Practice daily journaling**: Use journaling as a tool for self-reflection, processing thoughts, and reinforcing Stoic principles.</li>
+<li>  **Meditate on mortality (Memento Mori)**: Regularly contemplate your own death to gain perspective, eliminate trivial concerns, and focus on what truly matters in the present moment.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Morning and Night Routines</strong>: The video stresses the importance of waking up early to leverage the quietest, most productive hours, citing examples like Tony Morrison and Hemingway. It also highlights the necessity of going to bed early, warning against &quot;revenge bedtime&quot; which sabotages morning discipline and overall well-being.</p>
+
+<p><strong>Eliminating Distractions and Clutter</strong>: A significant portion focuses on decluttering both one's schedule and physical environment. This includes learning to say &quot;no&quot; to non-essential tasks and commitments, as well as organizing and removing physical clutter (dubbed &quot;doom bins&quot;) that symbolize and contribute to mental disarray.</p>
+
+<p><strong>Mindful Consumption and Self-Control</strong>: The speaker advises being highly selective about information consumption, advocating for reading books over constant news and social media. It also delves into identifying and breaking free from bad habits and addictions that diminish personal autonomy, urging viewers to reassert control over their impulses.</p>
+
+<p><strong>Protecting Focus and Mental Space</strong>: Strategies for safeguarding mental focus are discussed, such as limiting one's digital reachability by turning off alerts and reducing communication channels. The video also encourages resolving past grievances and conflicts to lighten emotional burdens and free up mental energy.</p>
+
+<p><strong>Physical and Philosophical Practices</strong>: The importance of physical activity, particularly walking and rigorous exercise, is emphasized for both mental clarity and asserting self-discipline. Finally, the video champions journaling as a Stoic practice for self-reflection and processing thoughts, and meditating on mortality (Memento Mori) as a powerful tool for gaining perspective and focusing on what truly matters.</p>
+
+<h2>Key Takeaways</h2>
+<li>  Your day is won or lost in the morning, which is largely determined by your actions the night before. Prioritize sleep and an early start.</li>
+<li>  True productivity and tranquility come from ruthlessly eliminating the non-essential, both in your schedule and physical surroundings, rather than just doing more.</li>
+<li>  You are not truly free if you are a slave to your habits, digital notifications, or unresolved conflicts; reclaim your autonomy by asserting control.</li>
+<li>  Be intentional about what you allow into your mind – choose enriching content over constant noise and trivia.</li>
+<li>  Simple, consistent practices like walking, journaling, and contemplating mortality are powerful tools for focus, perspective, and inner peace.</li>]]></content:encoded>
+  </item>
+  <item>
+    <title>Nick Saraev - Claude Managed Agents Just Dropped, And It Kills n8n</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Nick Saraev - Claude Managed Agents Just Dropped, And It Kills n8n.md</guid>
+    <pubDate>Wed, 08 Apr 2026 21:29:50 +0200</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>Anthropic's new &quot;Managed Agents&quot; platform simplifies the creation and deployment of automated processes, allowing users to build sophisticated integrations using natural language. The video demonstrates building an agent that converts sales call transcripts into ClickUp tasks, highlighting the platform's ease of use, robust testing tools, and seamless frontend integration capabilities. This infrastructure aims to standardize and scale knowledge process automation with unprecedented ease.</p>
+
+<h2>Key Points</h2>
+<li>  **Automated Agent Creation**: Users can define complex automation tasks using natural language prompts, which Anthropic then translates into a functional agent.</li>
+<li>  **Seamless Third-Party Integration**: The platform facilitates easy connection to external tools like ClickUp using OAuth, eliminating the need for direct API key management by the user.</li>
+<li>  **Comprehensive Testing &amp; Debugging**: Managed Agents offer an end-to-end testing environment with detailed conversation logs, raw API event visibility, and visual debugging tools for full interpretability.</li>
+<li>  **Integrated Frontend Development**: Users can leverage Claude Code directly within the platform to quickly generate and connect frontend chat interfaces to their agents.</li>
+<li>  **Robust Management Dashboard**: The dashboard provides centralized control over agents, environments, credential vaults, analytics (token usage, cost), and access logs, ensuring transparency and oversight.</li>
+<li>  **Enterprise-Grade Security**: Environments are highly limited and scoped, with secure credential management, making the platform suitable for mid-market and enterprise business use cases.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Introduction to Managed Agents</strong></p>
+<p>The video introduces Anthropic's Managed Agents as a solution for automating process automation. It emphasizes the platform's ability to simplify the development and deployment of complex workflows, making it accessible even without extensive coding knowledge.</p>
+
+<p><strong>Agent Creation and Configuration</strong></p>
+<p>The demonstration begins by using a natural language prompt to define an agent that parses sales call transcripts and creates tasks in ClickUp. The platform automatically generates the agent's schema, handles backend hosting, and guides the user through connecting to ClickUp via OAuth, securely storing credentials in a dedicated &quot;vault.&quot;</p>
+
+<p><strong>Testing and Debugging</strong></p>
+<p>A key feature is the integrated testing environment. Users can provide sample transcripts, observe the agent's &quot;thinking&quot; process, and interact with it to refine outputs. The debug panel offers deep insights into API calls, model responses, and the agent's internal state, providing full transparency and accountability for each step of the automation.</p>
+
+<p><strong>Agent Refinement and Deployment</strong></p>
+<p>After initial testing, the platform suggests improvements, such as adding default values or mapping guidance, which can be incorporated by simply conversing with the agent. Once refined, agents can be easily integrated with other platforms or deployed as standalone applications.</p>
+
+<p><strong>Frontend Integration with Claude Code</strong></p>
+<p>The video showcases how to use the &quot;Ask Claude&quot; feature to generate code for a simple frontend chat application (e.g., on Netlify) that connects directly to the Managed Agent. This allows for rapid development of user-facing interfaces that leverage the backend automation.</p>
+
+<p><strong>Dashboard Features</strong></p>
+<p>A detailed walkthrough of the Managed Agents dashboard covers:</p>
+<li>  **Agents**: Listing and managing all created agents, with options to archive or access specific agent and session views.</li>
+<li>  **Sessions**: Viewing individual conversations or &quot;runs&quot; with an agent, complete with debug information and visual timelines of agent activity.</li>
+<li>  **Environments**: Managing the isolated execution environments for agents, noting the importance of separate archiving/deletion.</li>
+<li>  **Vaults**: Securely managing and sharing credentials across agents and organizations.</li>
+<li>  **Analytics**: Tracking token usage, costs, and rate-limited requests across all workspaces and agents.</li>
+<li>  **Access Logs**: Providing granular details of every request made to the platform.</li>
+
+<p><strong>Security and Control</strong></p>
+<p>The platform emphasizes security through highly limited and scoped environments, ensuring that agents only have necessary permissions (e.g., access to a specific ClickUp domain). This design choice is crucial for enabling real-world business applications and maintaining data integrity.</p>
+
+<p><strong>Future Outlook</strong></p>
+<p>The presenter predicts that Anthropic will likely introduce visual programming interfaces (similar to drag-and-drop tools like N8N or Zapier) to complement the text-based interaction, further enhancing usability and making the platform a comprehensive replacement for traditional automation infrastructure.</p>
+
+<h2>Key Takeaways</h2>
+<li>  Anthropic's Managed Agents drastically lower the barrier to entry for building and deploying complex process automations.</li>
+<li>  The platform provides a complete ecosystem, handling everything from agent creation and hosting to secure credential management and detailed analytics.</li>
+<li>  Users can achieve sophisticated integrations and even deploy simple frontend applications with minimal coding, primarily through natural language interaction.</li>
+<li>  The emphasis on transparency, debuggability, and controlled environments makes it a powerful tool for both individual developers and enterprise-level automation.</li>
+<li>  Expect future enhancements, particularly in visual programming, to make these powerful capabilities even more accessible.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>Anthropic's new &quot;Managed Agents&quot; platform simplifies the creation and deployment of automated processes, allowing users to build sophisticated integrations using natural language. The video demonstrates building an agent that converts sales call transcripts into ClickUp tasks, highlighting the platform's ease of use, robust testing tools, and seamless frontend integration capabilities. This infrastructure aims to standardize and scale knowledge process automation with unprecedented ease.</p>
+
+<h2>Key Points</h2>
+<li>  **Automated Agent Creation**: Users can define complex automation tasks using natural language prompts, which Anthropic then translates into a functional agent.</li>
+<li>  **Seamless Third-Party Integration**: The platform facilitates easy connection to external tools like ClickUp using OAuth, eliminating the need for direct API key management by the user.</li>
+<li>  **Comprehensive Testing &amp; Debugging**: Managed Agents offer an end-to-end testing environment with detailed conversation logs, raw API event visibility, and visual debugging tools for full interpretability.</li>
+<li>  **Integrated Frontend Development**: Users can leverage Claude Code directly within the platform to quickly generate and connect frontend chat interfaces to their agents.</li>
+<li>  **Robust Management Dashboard**: The dashboard provides centralized control over agents, environments, credential vaults, analytics (token usage, cost), and access logs, ensuring transparency and oversight.</li>
+<li>  **Enterprise-Grade Security**: Environments are highly limited and scoped, with secure credential management, making the platform suitable for mid-market and enterprise business use cases.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Introduction to Managed Agents</strong></p>
+<p>The video introduces Anthropic's Managed Agents as a solution for automating process automation. It emphasizes the platform's ability to simplify the development and deployment of complex workflows, making it accessible even without extensive coding knowledge.</p>
+
+<p><strong>Agent Creation and Configuration</strong></p>
+<p>The demonstration begins by using a natural language prompt to define an agent that parses sales call transcripts and creates tasks in ClickUp. The platform automatically generates the agent's schema, handles backend hosting, and guides the user through connecting to ClickUp via OAuth, securely storing credentials in a dedicated &quot;vault.&quot;</p>
+
+<p><strong>Testing and Debugging</strong></p>
+<p>A key feature is the integrated testing environment. Users can provide sample transcripts, observe the agent's &quot;thinking&quot; process, and interact with it to refine outputs. The debug panel offers deep insights into API calls, model responses, and the agent's internal state, providing full transparency and accountability for each step of the automation.</p>
+
+<p><strong>Agent Refinement and Deployment</strong></p>
+<p>After initial testing, the platform suggests improvements, such as adding default values or mapping guidance, which can be incorporated by simply conversing with the agent. Once refined, agents can be easily integrated with other platforms or deployed as standalone applications.</p>
+
+<p><strong>Frontend Integration with Claude Code</strong></p>
+<p>The video showcases how to use the &quot;Ask Claude&quot; feature to generate code for a simple frontend chat application (e.g., on Netlify) that connects directly to the Managed Agent. This allows for rapid development of user-facing interfaces that leverage the backend automation.</p>
+
+<p><strong>Dashboard Features</strong></p>
+<p>A detailed walkthrough of the Managed Agents dashboard covers:</p>
+<li>  **Agents**: Listing and managing all created agents, with options to archive or access specific agent and session views.</li>
+<li>  **Sessions**: Viewing individual conversations or &quot;runs&quot; with an agent, complete with debug information and visual timelines of agent activity.</li>
+<li>  **Environments**: Managing the isolated execution environments for agents, noting the importance of separate archiving/deletion.</li>
+<li>  **Vaults**: Securely managing and sharing credentials across agents and organizations.</li>
+<li>  **Analytics**: Tracking token usage, costs, and rate-limited requests across all workspaces and agents.</li>
+<li>  **Access Logs**: Providing granular details of every request made to the platform.</li>
+
+<p><strong>Security and Control</strong></p>
+<p>The platform emphasizes security through highly limited and scoped environments, ensuring that agents only have necessary permissions (e.g., access to a specific ClickUp domain). This design choice is crucial for enabling real-world business applications and maintaining data integrity.</p>
+
+<p><strong>Future Outlook</strong></p>
+<p>The presenter predicts that Anthropic will likely introduce visual programming interfaces (similar to drag-and-drop tools like N8N or Zapier) to complement the text-based interaction, further enhancing usability and making the platform a comprehensive replacement for traditional automation infrastructure.</p>
+
+<h2>Key Takeaways</h2>
+<li>  Anthropic's Managed Agents drastically lower the barrier to entry for building and deploying complex process automations.</li>
+<li>  The platform provides a complete ecosystem, handling everything from agent creation and hosting to secure credential management and detailed analytics.</li>
+<li>  Users can achieve sophisticated integrations and even deploy simple frontend applications with minimal coding, primarily through natural language interaction.</li>
+<li>  The emphasis on transparency, debuggability, and controlled environments makes it a powerful tool for both individual developers and enterprise-level automation.</li>
+<li>  Expect future enhancements, particularly in visual programming, to make these powerful capabilities even more accessible.</li>]]></content:encoded>
+  </item>
+  <item>
+    <title>Starter Story - I Left College to Build This Niche App (Now I Make $20K-Month)</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Starter Story - I Left College to Build This Niche App (Now I Make $20K-Month).md</guid>
+    <pubDate>Wed, 08 Apr 2026 21:29:50 +0200</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>Ethan, a 19-year-old college dropout, built a niche mobile app called &quot;Cut Coach&quot; that helps combat sport athletes manage weight cutting, generating over $20,000 per month. The video details his journey, highlighting the power of solving highly specific problems for passionate communities, leveraging AI tools like Cursor for rapid development, and focusing on targeted marketing strategies. His success demonstrates that anyone can build a profitable app without extensive coding experience by identifying a painful problem within a niche.</p>
+
+<h2>Key Points</h2>
+<li>**Niche apps can be highly profitable:** Ethan's app solves a very specific, painful problem for combat sport athletes (weight cutting) and generates significant revenue despite its narrow focus.</li>
+<li>**AI tools accelerate development:** He used Cursor and ChatGPT to build his MVP in about a month, demonstrating that extensive coding knowledge isn't a prerequisite for app creation.</li>
+<li>**Marketing is crucial for success:** Ethan learned marketing after realizing his previous apps failed due to lack of promotion, shifting his focus from just development to sales and marketing.</li>
+<li>**High-intent audience drives conversions:** Even with low view counts on organic social media posts, the app achieved high conversion rates because it solved a unique and pressing problem for its target users.</li>
+<li>**Leverage existing designs:** Instead of reinventing the wheel, adapt successful UI/UX elements and layouts from popular apps in similar niches.</li>
+<li>**Solve problems within your hobbies:** Identifying problems in areas you're passionate about provides inherent understanding and makes the solution more relatable to others.</li>
+<li>**Influencer marketing and paid ads scale growth:** Starting with small niche influencers and then converting successful influencer content into paid ads proved to be an effective scaling strategy.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>The &quot;Cut Coach&quot; App:</strong> Ethan's app, Cut Coach, provides a science-based protocol to help combat sport athletes (like wrestlers and UFC fighters) cut weight for competitions. It tracks nutrition, logs meals, and recommends meals to help users stay within their limits. Launched in September, it quickly grew to over $20,000 per month in revenue and accumulated around 39,000 downloads, demonstrating the viability of niche solutions.</p>
+
+<p><strong>Ethan's Background and Journey:</strong> Ethan dropped out of college after realizing how quickly AI was changing software development. He had prior experience building apps, including one for his mom's workflow and another using only AI tools. This experience, combined with discovering Cursor, allowed him to shift his focus from solely development to learning sales and marketing, which he identified as a critical missing piece in his previous attempts.</p>
+
+<p><strong>Idea Generation:</strong> The idea for Cut Coach stemmed from Ethan's personal experience as a provincial judo champion and national wrestling champion, where he frequently had to cut weight. He combined his passion for combat sports with his hobby of creating apps. He advises others to solve problems within their hobbies, using AI tools like ChatGPT for brainstorming app ideas, and then designing the app in Figma by adapting layouts from popular apps in similar niches.</p>
+
+<p><strong>App Development Process:</strong> Ethan built the MVP of Cut Coach in about a month using Cursor and ChatGPT. He initially beta-tested it with his wrestling club, realizing the first concept (coach-led plans) had too much friction. He then redesigned the app to provide weight cut plans directly to athletes. His tech stack includes Superbase for the database, Vercel for hosting, OpenAI API for AI functionality, and tools like RevenueCat, Mixpanel, and Superwall for payments and analytics.</p>
+
+<p><strong>Marketing Strategies:</strong> Ethan started with organic social media posts (TikTok, Instagram Reels) by adapting content ideas from similar niche pages. He observed that even videos with low views (200-500) yielded high conversion rates (10-15 downloads/day) due to the app's unique solution to a specific problem. He then scaled by partnering with small niche influencers, eventually using successful influencer videos as paid ads to significantly boost revenue and efficiency.</p>
+
+<p><strong>Step-by-Step Process for Niche Apps:</strong> Ethan outlines a clear process: 1) Solve a problem within your hobby, using AI for brainstorming. 2) Design the app in Figma, adapting layouts from successful apps. 3) Code the app quickly using AI tools like Cursor and ChatGPT, integrating necessary backend and analytics services. 4) Market through organic social media posts, focusing on high-intent viewers, then scale with influencer marketing and paid ads.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Embrace the Niche:** Don't underestimate the profitability of solving &quot;tiny&quot; problems for &quot;tiny&quot; communities, especially when the problem is painful and the community is passionate.</li>
+<li>**AI is Your Co-Pilot:** Leverage AI tools like Cursor and ChatGPT to drastically accelerate app development, allowing you to build and iterate rapidly without extensive coding expertise.</li>
+<li>**Marketing is Non-Negotiable:** Even the best app won't succeed without effective marketing. Focus on understanding your audience and finding channels where they congregate, even if it means starting small.</li>
+<li>**Personal Experience Fuels Innovation:** Your hobbies and personal struggles can be fertile ground for identifying unique and valuable app ideas that resonate with others.</li>
+<li>**Adapt, Don't Always Create:** Save time and effort by studying successful apps in similar niches and adapting their proven UI/UX designs rather than starting from scratch.</li>
+<li>**Trust Your Inner Voice:** While seeking advice is valuable, ultimately make decisions that align with your own insights and purpose to live a more fulfilled life and build something truly meaningful.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>Ethan, a 19-year-old college dropout, built a niche mobile app called &quot;Cut Coach&quot; that helps combat sport athletes manage weight cutting, generating over $20,000 per month. The video details his journey, highlighting the power of solving highly specific problems for passionate communities, leveraging AI tools like Cursor for rapid development, and focusing on targeted marketing strategies. His success demonstrates that anyone can build a profitable app without extensive coding experience by identifying a painful problem within a niche.</p>
+
+<h2>Key Points</h2>
+<li>**Niche apps can be highly profitable:** Ethan's app solves a very specific, painful problem for combat sport athletes (weight cutting) and generates significant revenue despite its narrow focus.</li>
+<li>**AI tools accelerate development:** He used Cursor and ChatGPT to build his MVP in about a month, demonstrating that extensive coding knowledge isn't a prerequisite for app creation.</li>
+<li>**Marketing is crucial for success:** Ethan learned marketing after realizing his previous apps failed due to lack of promotion, shifting his focus from just development to sales and marketing.</li>
+<li>**High-intent audience drives conversions:** Even with low view counts on organic social media posts, the app achieved high conversion rates because it solved a unique and pressing problem for its target users.</li>
+<li>**Leverage existing designs:** Instead of reinventing the wheel, adapt successful UI/UX elements and layouts from popular apps in similar niches.</li>
+<li>**Solve problems within your hobbies:** Identifying problems in areas you're passionate about provides inherent understanding and makes the solution more relatable to others.</li>
+<li>**Influencer marketing and paid ads scale growth:** Starting with small niche influencers and then converting successful influencer content into paid ads proved to be an effective scaling strategy.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>The &quot;Cut Coach&quot; App:</strong> Ethan's app, Cut Coach, provides a science-based protocol to help combat sport athletes (like wrestlers and UFC fighters) cut weight for competitions. It tracks nutrition, logs meals, and recommends meals to help users stay within their limits. Launched in September, it quickly grew to over $20,000 per month in revenue and accumulated around 39,000 downloads, demonstrating the viability of niche solutions.</p>
+
+<p><strong>Ethan's Background and Journey:</strong> Ethan dropped out of college after realizing how quickly AI was changing software development. He had prior experience building apps, including one for his mom's workflow and another using only AI tools. This experience, combined with discovering Cursor, allowed him to shift his focus from solely development to learning sales and marketing, which he identified as a critical missing piece in his previous attempts.</p>
+
+<p><strong>Idea Generation:</strong> The idea for Cut Coach stemmed from Ethan's personal experience as a provincial judo champion and national wrestling champion, where he frequently had to cut weight. He combined his passion for combat sports with his hobby of creating apps. He advises others to solve problems within their hobbies, using AI tools like ChatGPT for brainstorming app ideas, and then designing the app in Figma by adapting layouts from popular apps in similar niches.</p>
+
+<p><strong>App Development Process:</strong> Ethan built the MVP of Cut Coach in about a month using Cursor and ChatGPT. He initially beta-tested it with his wrestling club, realizing the first concept (coach-led plans) had too much friction. He then redesigned the app to provide weight cut plans directly to athletes. His tech stack includes Superbase for the database, Vercel for hosting, OpenAI API for AI functionality, and tools like RevenueCat, Mixpanel, and Superwall for payments and analytics.</p>
+
+<p><strong>Marketing Strategies:</strong> Ethan started with organic social media posts (TikTok, Instagram Reels) by adapting content ideas from similar niche pages. He observed that even videos with low views (200-500) yielded high conversion rates (10-15 downloads/day) due to the app's unique solution to a specific problem. He then scaled by partnering with small niche influencers, eventually using successful influencer videos as paid ads to significantly boost revenue and efficiency.</p>
+
+<p><strong>Step-by-Step Process for Niche Apps:</strong> Ethan outlines a clear process: 1) Solve a problem within your hobby, using AI for brainstorming. 2) Design the app in Figma, adapting layouts from successful apps. 3) Code the app quickly using AI tools like Cursor and ChatGPT, integrating necessary backend and analytics services. 4) Market through organic social media posts, focusing on high-intent viewers, then scale with influencer marketing and paid ads.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Embrace the Niche:** Don't underestimate the profitability of solving &quot;tiny&quot; problems for &quot;tiny&quot; communities, especially when the problem is painful and the community is passionate.</li>
+<li>**AI is Your Co-Pilot:** Leverage AI tools like Cursor and ChatGPT to drastically accelerate app development, allowing you to build and iterate rapidly without extensive coding expertise.</li>
+<li>**Marketing is Non-Negotiable:** Even the best app won't succeed without effective marketing. Focus on understanding your audience and finding channels where they congregate, even if it means starting small.</li>
+<li>**Personal Experience Fuels Innovation:** Your hobbies and personal struggles can be fertile ground for identifying unique and valuable app ideas that resonate with others.</li>
+<li>**Adapt, Don't Always Create:** Save time and effort by studying successful apps in similar niches and adapting their proven UI/UX designs rather than starting from scratch.</li>
+<li>**Trust Your Inner Voice:** While seeking advice is valuable, ultimately make decisions that align with your own insights and purpose to live a more fulfilled life and build something truly meaningful.</li>]]></content:encoded>
+  </item>
   <item>
     <title>Ali Abdaal - How I'd Create Content in 2026 (If I Had To Start Over)</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
