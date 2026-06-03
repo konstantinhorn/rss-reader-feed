@@ -7,8 +7,86 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Wed, 03 Jun 2026 03:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:09:40 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nick Saraev - I Built a $1M-y SaaS with Claude Code, Here's How</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Nick Saraev - I Built a $1M-y SaaS with Claude Code, Here's How.md</guid>
+    <pubDate>Wed, 03 Jun 2026 00:09:30 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>The video details the journey of building Clarbo, an AI-enabled power dialer, to $1 million in Annual Recurring Revenue (ARR) using Cloud Code. It outlines a structured approach to problem identification, AI-assisted ideation, simulation, and real-world implementation, emphasizing the importance of solving high-value problems and building sustainable moats in an AI-driven market. The speaker shares practical advice on pricing, avoiding unnecessary frameworks, and maintaining a model-agnostic codebase.</p>
+
+<h2>Key Points</h2>
+<li>Clarbo, an AI-enabled power dialer, achieved $1M ARR by significantly improving call pickup rates and volume (50-80% improvement for clients).</li>
+<li>Cloud Code was instrumental for extensive ideation, simulation design, and optimizing algorithms like predictive pacing.</li>
+<li>A structured 7-step loop for SaaS development involves defining problems, enumerating AI solutions, human filtering, designing simulations, running statistical models, iterating, and real-life stress testing.</li>
+<li>Pricing should be determined empirically (start low, increase until resistance) rather than complex models.</li>
+<li>In the AI era, the value lies in &quot;what to build and how to price,&quot; not just &quot;can you build it.&quot;</li>
+<li>Avoid complex AI agent frameworks; the core intelligence of the base model is usually sufficient and more consistent.</li>
+<li>Focus on &quot;red-hot problems&quot; in industries with large budgets and pre-existing pain points that cost companies millions.</li>
+<li>Build moats through human implementation, onboarding, and navigating regulatory environments (e.g., A2P registration, HIPAA), which AI cannot easily replicate.</li>
+<li>Maintain a model-agnostic codebase to easily hot-swap between different AI models (Cloud Code, Codex, Gemini) due to fluctuating quality and availability.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Clarbo's Success Story:</strong> An introduction to Clarbo, an AI-powered dialer that boosts call efficiency and pickup rates for call-heavy industries, leading to significant revenue increases for clients and achieving $1M ARR.</p>
+
+<p><strong>AI-Assisted Problem Solving:</strong> A detailed walkthrough of how Cloud Code was used for ideation, generating hundreds of potential solutions to improve call pickup rates, followed by human filtering to select feasible ideas. This included designing simulations and using optimization techniques like Bayesian optimization to refine algorithms.</p>
+
+<p><strong>SaaS Development Framework:</strong> A seven-step iterative process for building SaaS products, starting from problem definition, leveraging AI for solution enumeration and simulation, human validation, and finally real-world deployment and testing.</p>
+
+<p><strong>Pricing Strategy and Business Models:</strong> Discussion on a simple, empirical pricing approach (start low, increase until resistance) and the distinction between &quot;low-touch&quot; (self-serve, easily replicable by AI) and &quot;high-touch&quot; (enterprise, human-involved, harder to automate) SaaS models, advocating for the latter in the current AI landscape.</p>
+
+<p><strong>Building Moats in the AI Era:</strong> Strategies for creating sustainable competitive advantages, including focusing on high-value problems that generate significant revenue for clients, avoiding unnecessary AI frameworks, leveraging the base model's intelligence, and building moats around human-dependent processes or regulatory hurdles.</p>
+
+<p><strong>Model Agnostic Development:</strong> The importance of designing a codebase that can easily switch between different AI models (e.g., Cloud Code, Codex, Gemini) to adapt to changes in model quality, cost, or availability, ensuring flexibility and resilience.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Solve Big Problems:** Target &quot;red-hot&quot; problems that cost organizations millions, as they are willing to pay significantly for solutions. Aim for high LTV and low churn.</li>
+<li>**AI for Ideation, Humans for Filtering:** Use AI to generate a vast array of solutions, but apply human judgment to filter for feasibility and impact.</li>
+<li>**Simulate and Iterate:** Design simulations with AI to test and optimize solutions before real-world deployment, but always validate with live stress tests.</li>
+<li>**Simple Pricing Works Best:** Don't overcomplicate pricing. Start with a reasonable price and increase it until you hit resistance.</li>
+<li>**Focus on &quot;What to Build &amp; How to Price&quot;:** In an era where AI can build almost anything, the true competitive advantage lies in identifying valuable problems and effectively pricing their solutions.</li>
+<li>**Avoid Framework Overload:** Resist the urge to use numerous AI agent frameworks; they often add complexity and can hinder consistency without significant performance gains.</li>
+<li>**Build Regulatory/Human Moats:** Seek out problems that require human intervention, relationships, or navigation of regulatory complexities, as these are harder for AI to fully automate and provide natural barriers to entry.</li>
+<li>**Future-Proof Your Codebase:** Design your system to be model-agnostic, allowing for easy swapping between different AI models to adapt to the rapidly evolving AI landscape.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>The video details the journey of building Clarbo, an AI-enabled power dialer, to $1 million in Annual Recurring Revenue (ARR) using Cloud Code. It outlines a structured approach to problem identification, AI-assisted ideation, simulation, and real-world implementation, emphasizing the importance of solving high-value problems and building sustainable moats in an AI-driven market. The speaker shares practical advice on pricing, avoiding unnecessary frameworks, and maintaining a model-agnostic codebase.</p>
+
+<h2>Key Points</h2>
+<li>Clarbo, an AI-enabled power dialer, achieved $1M ARR by significantly improving call pickup rates and volume (50-80% improvement for clients).</li>
+<li>Cloud Code was instrumental for extensive ideation, simulation design, and optimizing algorithms like predictive pacing.</li>
+<li>A structured 7-step loop for SaaS development involves defining problems, enumerating AI solutions, human filtering, designing simulations, running statistical models, iterating, and real-life stress testing.</li>
+<li>Pricing should be determined empirically (start low, increase until resistance) rather than complex models.</li>
+<li>In the AI era, the value lies in &quot;what to build and how to price,&quot; not just &quot;can you build it.&quot;</li>
+<li>Avoid complex AI agent frameworks; the core intelligence of the base model is usually sufficient and more consistent.</li>
+<li>Focus on &quot;red-hot problems&quot; in industries with large budgets and pre-existing pain points that cost companies millions.</li>
+<li>Build moats through human implementation, onboarding, and navigating regulatory environments (e.g., A2P registration, HIPAA), which AI cannot easily replicate.</li>
+<li>Maintain a model-agnostic codebase to easily hot-swap between different AI models (Cloud Code, Codex, Gemini) due to fluctuating quality and availability.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Clarbo's Success Story:</strong> An introduction to Clarbo, an AI-powered dialer that boosts call efficiency and pickup rates for call-heavy industries, leading to significant revenue increases for clients and achieving $1M ARR.</p>
+
+<p><strong>AI-Assisted Problem Solving:</strong> A detailed walkthrough of how Cloud Code was used for ideation, generating hundreds of potential solutions to improve call pickup rates, followed by human filtering to select feasible ideas. This included designing simulations and using optimization techniques like Bayesian optimization to refine algorithms.</p>
+
+<p><strong>SaaS Development Framework:</strong> A seven-step iterative process for building SaaS products, starting from problem definition, leveraging AI for solution enumeration and simulation, human validation, and finally real-world deployment and testing.</p>
+
+<p><strong>Pricing Strategy and Business Models:</strong> Discussion on a simple, empirical pricing approach (start low, increase until resistance) and the distinction between &quot;low-touch&quot; (self-serve, easily replicable by AI) and &quot;high-touch&quot; (enterprise, human-involved, harder to automate) SaaS models, advocating for the latter in the current AI landscape.</p>
+
+<p><strong>Building Moats in the AI Era:</strong> Strategies for creating sustainable competitive advantages, including focusing on high-value problems that generate significant revenue for clients, avoiding unnecessary AI frameworks, leveraging the base model's intelligence, and building moats around human-dependent processes or regulatory hurdles.</p>
+
+<p><strong>Model Agnostic Development:</strong> The importance of designing a codebase that can easily switch between different AI models (e.g., Cloud Code, Codex, Gemini) to adapt to changes in model quality, cost, or availability, ensuring flexibility and resilience.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Solve Big Problems:** Target &quot;red-hot&quot; problems that cost organizations millions, as they are willing to pay significantly for solutions. Aim for high LTV and low churn.</li>
+<li>**AI for Ideation, Humans for Filtering:** Use AI to generate a vast array of solutions, but apply human judgment to filter for feasibility and impact.</li>
+<li>**Simulate and Iterate:** Design simulations with AI to test and optimize solutions before real-world deployment, but always validate with live stress tests.</li>
+<li>**Simple Pricing Works Best:** Don't overcomplicate pricing. Start with a reasonable price and increase it until you hit resistance.</li>
+<li>**Focus on &quot;What to Build &amp; How to Price&quot;:** In an era where AI can build almost anything, the true competitive advantage lies in identifying valuable problems and effectively pricing their solutions.</li>
+<li>**Avoid Framework Overload:** Resist the urge to use numerous AI agent frameworks; they often add complexity and can hinder consistency without significant performance gains.</li>
+<li>**Build Regulatory/Human Moats:** Seek out problems that require human intervention, relationships, or navigation of regulatory complexities, as these are harder for AI to fully automate and provide natural barriers to entry.</li>
+<li>**Future-Proof Your Codebase:** Design your system to be model-agnostic, allowing for easy swapping between different AI models to adapt to the rapidly evolving AI landscape.</li>]]></content:encoded>
+  </item>
   <item>
     <title>Albert Olgaard - Start a 1-Person Business with Claude (4 HOUR COURSE 2026)</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
