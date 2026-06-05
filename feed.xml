@@ -7,8 +7,82 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Fri, 05 Jun 2026 22:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:45:43 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Brock Mesarich - AI for Non Techies - Anthropic Just Dropped Their Claude Skills Secrets (steal these)</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Brock Mesarich - AI for Non Techies - Anthropic Just Dropped Their Claude Skills Secrets (steal these).md</guid>
+    <pubDate>Fri, 05 Jun 2026 18:45:34 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>This video breaks down Anthropic's key lessons and best practices for building and utilizing &quot;skills&quot; within Claude, particularly from their experience with Claude Code. It emphasizes that skills are more than just markdown files, offering insights into structuring, categorizing, and optimizing them for better agent performance. The aim is to help users become more effective Claude skill builders by understanding common misconceptions and advanced techniques.</p>
+
+<h2>Key Points</h2>
+<li>  **Skills are Folders, Not Just Markdown Files:** They can contain scripts, assets, and data, not just instructions.</li>
+<li>  **Categorize Skills Clearly:** The best skills fit cleanly into one of nine categories; trying to do too much confuses the agent.</li>
+<li>  **Include a &quot;Gotchas&quot; Section:** Document common failure points and what Claude should *not* do for higher signal content.</li>
+<li>  **Utilize the File System for Progressive Disclosure:** Use separate markdown files within a skill folder for troubleshooting, examples, or specific contexts.</li>
+<li>  **Avoid Railroading Claude:** Give the model flexibility to adapt and figure out tasks rather than being overly prescriptive.</li>
+<li>  **Write Skill Descriptions for the Model:** The description should tell Claude *when* to trigger the skill, not just summarize it for a human.</li>
+<li>  **Start Simple and Iterate:** Most effective skills begin small and improve over time as new edge cases are encountered and addressed.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Understanding Claude Skills:</strong> Anthropic defines skills as folders containing instructions, scripts, and resources that agents can discover and use for accuracy and efficiency. A common misconception is that they are merely markdown files; in reality, they are comprehensive folders.</p>
+
+<p><strong>Nine Categories of Skills:</strong> Anthropic has identified nine distinct categories for internal skills, including Library/API References, Product Verification, Data and Analysis, Business Automation, Scaffolding/Templates, Code Quality/Review, CD Deployment, Incident Runbooks, and Infrastructure Ops. The crucial advice is to ensure skills fit cleanly into one category to avoid confusing the agent.</p>
+
+<p><strong>Building a &quot;Gotchas&quot; Section:</strong> This is highlighted as the most valuable content within a skill. It involves documenting common failure points and what Claude should avoid doing, helping to reverse-engineer perfect execution. These sections should be updated iteratively.</p>
+
+<p><strong>Leveraging the File System for Context:</strong> The video explains that the entire skill folder, not just the main <code>skill.md</code> file, acts as context. Users can create additional markdown files (e.g., for debugging, examples, or specific scenarios) that Claude will read at appropriate times, enabling progressive disclosure of information.</p>
+
+<p><strong>Avoiding Over-Prescription (&quot;Railroading&quot;):</strong> Contrary to intuition, Anthropic advises against being too strict with instructions. Giving Claude the necessary information but allowing it flexibility to adapt to situations leads to better outcomes.</p>
+
+<p><strong>Optimizing Skill Descriptions:</strong> The description field for a skill should be written for the AI model, not for human understanding. Its purpose is to inform Claude <em>when</em> to trigger that specific skill, which can improve performance and reduce token costs.</p>
+
+<p><strong>Distributing and Iterating on Skills:</strong> Skills can be shared by checking them into a <code>.skills</code> repository folder or by creating plugins. Anthropic's experience shows that most successful skills start small, often with just a few lines and a &quot;gotcha&quot; section, and are continuously improved as new edge cases arise.</p>
+
+<h2>Key Takeaways</h2>
+<li>  **Think of skills as intelligent folders:** Utilize the full capability of skill folders by including examples, &quot;gotchas,&quot; and troubleshooting files alongside your main instructions.</li>
+<li>  **Be precise with skill scope:** Design skills to address a single, well-defined purpose that fits into one category to maximize efficiency and prevent agent confusion.</li>
+<li>  **Guide Claude by what *not* to do:** Proactively include &quot;gotchas&quot; or &quot;avoid&quot; sections to steer Claude away from common mistakes and refine its behavior.</li>
+<li>  **Empower Claude with flexibility:** Instead of rigid step-by-step instructions, provide context and allow the model to adapt and problem-solve within the given task.</li>
+<li>  **Optimize descriptions for AI triggering:** Re-evaluate your skill descriptions to clearly state the conditions under which Claude should activate them, rather than just summarizing their function.</li>
+<li>  **Embrace iterative development:** Start simple, deploy, observe Claude's performance, and continuously refine your skills based on real-world interactions and edge cases.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>This video breaks down Anthropic's key lessons and best practices for building and utilizing &quot;skills&quot; within Claude, particularly from their experience with Claude Code. It emphasizes that skills are more than just markdown files, offering insights into structuring, categorizing, and optimizing them for better agent performance. The aim is to help users become more effective Claude skill builders by understanding common misconceptions and advanced techniques.</p>
+
+<h2>Key Points</h2>
+<li>  **Skills are Folders, Not Just Markdown Files:** They can contain scripts, assets, and data, not just instructions.</li>
+<li>  **Categorize Skills Clearly:** The best skills fit cleanly into one of nine categories; trying to do too much confuses the agent.</li>
+<li>  **Include a &quot;Gotchas&quot; Section:** Document common failure points and what Claude should *not* do for higher signal content.</li>
+<li>  **Utilize the File System for Progressive Disclosure:** Use separate markdown files within a skill folder for troubleshooting, examples, or specific contexts.</li>
+<li>  **Avoid Railroading Claude:** Give the model flexibility to adapt and figure out tasks rather than being overly prescriptive.</li>
+<li>  **Write Skill Descriptions for the Model:** The description should tell Claude *when* to trigger the skill, not just summarize it for a human.</li>
+<li>  **Start Simple and Iterate:** Most effective skills begin small and improve over time as new edge cases are encountered and addressed.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Understanding Claude Skills:</strong> Anthropic defines skills as folders containing instructions, scripts, and resources that agents can discover and use for accuracy and efficiency. A common misconception is that they are merely markdown files; in reality, they are comprehensive folders.</p>
+
+<p><strong>Nine Categories of Skills:</strong> Anthropic has identified nine distinct categories for internal skills, including Library/API References, Product Verification, Data and Analysis, Business Automation, Scaffolding/Templates, Code Quality/Review, CD Deployment, Incident Runbooks, and Infrastructure Ops. The crucial advice is to ensure skills fit cleanly into one category to avoid confusing the agent.</p>
+
+<p><strong>Building a &quot;Gotchas&quot; Section:</strong> This is highlighted as the most valuable content within a skill. It involves documenting common failure points and what Claude should avoid doing, helping to reverse-engineer perfect execution. These sections should be updated iteratively.</p>
+
+<p><strong>Leveraging the File System for Context:</strong> The video explains that the entire skill folder, not just the main <code>skill.md</code> file, acts as context. Users can create additional markdown files (e.g., for debugging, examples, or specific scenarios) that Claude will read at appropriate times, enabling progressive disclosure of information.</p>
+
+<p><strong>Avoiding Over-Prescription (&quot;Railroading&quot;):</strong> Contrary to intuition, Anthropic advises against being too strict with instructions. Giving Claude the necessary information but allowing it flexibility to adapt to situations leads to better outcomes.</p>
+
+<p><strong>Optimizing Skill Descriptions:</strong> The description field for a skill should be written for the AI model, not for human understanding. Its purpose is to inform Claude <em>when</em> to trigger that specific skill, which can improve performance and reduce token costs.</p>
+
+<p><strong>Distributing and Iterating on Skills:</strong> Skills can be shared by checking them into a <code>.skills</code> repository folder or by creating plugins. Anthropic's experience shows that most successful skills start small, often with just a few lines and a &quot;gotcha&quot; section, and are continuously improved as new edge cases arise.</p>
+
+<h2>Key Takeaways</h2>
+<li>  **Think of skills as intelligent folders:** Utilize the full capability of skill folders by including examples, &quot;gotchas,&quot; and troubleshooting files alongside your main instructions.</li>
+<li>  **Be precise with skill scope:** Design skills to address a single, well-defined purpose that fits into one category to maximize efficiency and prevent agent confusion.</li>
+<li>  **Guide Claude by what *not* to do:** Proactively include &quot;gotchas&quot; or &quot;avoid&quot; sections to steer Claude away from common mistakes and refine its behavior.</li>
+<li>  **Empower Claude with flexibility:** Instead of rigid step-by-step instructions, provide context and allow the model to adapt and problem-solve within the given task.</li>
+<li>  **Optimize descriptions for AI triggering:** Re-evaluate your skill descriptions to clearly state the conditions under which Claude should activate them, rather than just summarizing their function.</li>
+<li>  **Embrace iterative development:** Start simple, deploy, observe Claude's performance, and continuously refine your skills based on real-world interactions and edge cases.</li>]]></content:encoded>
+  </item>
   <item>
     <title>Ali Abdaal – Lifestyle Business Academy - Sell to the Rich</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
