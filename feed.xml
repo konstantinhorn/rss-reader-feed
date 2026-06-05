@@ -7,8 +7,76 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Fri, 05 Jun 2026 21:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:59:08 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Claude - Live coding session with Boris Cherny and Jarred Sumner</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Claude - Live coding session with Boris Cherny and Jarred Sumner.md</guid>
+    <pubDate>Fri, 05 Jun 2026 17:58:59 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>The video demonstrates how Bun, a JavaScript runtime, leverages Anthropic's Claude Code and other AI agents to automate its development workflow. This advanced setup includes bots that automatically reproduce GitHub issues, submit tested pull requests, and engage in &quot;adversarial&quot; code review, significantly reducing developer time and making AI a major contributor to the project. The discussion highlights the transformative impact of recent AI model capabilities, particularly Claude Opus 47, in enabling this level of autonomous software development.</p>
+
+<h2>Key Points</h2>
+<li>  Bun utilizes Claude bots (RoboBun) to automatically reproduce GitHub issues, generate fixes, and submit pull requests complete with tests.</li>
+<li>  RoboBun has become a larger contributor to Bun than its human creator, Jared Sumner, in terms of merged pull requests.</li>
+<li>  A combination of Claude Code Review and Code Rabbit bots perform &quot;adversarial code review,&quot; engaging in back-and-forth discussions to refine and resolve code issues.</li>
+<li>  &quot;Claude MD&quot; (documentation specifically for Claude) is crucial for setting up the development environment, defining testing procedures, and documenting common issues, enabling maintainable automation.</li>
+<li>  Recent AI model advancements, especially Claude Opus 47, are key to making this level of efficient, autonomous development truly feasible and practical.</li>
+<li>  The automated workflow significantly saves developer time by eliminating &quot;switching costs&quot; and allowing human developers to focus on higher-level tasks.</li>
+<li>  The concept of &quot;hill climbing&quot; is applied, where Claude iterates and optimizes code based on a given metric and a way to verify its results (e.g., making image processing faster than existing libraries).</li>
+<li>  Future bottlenecks include achieving deeper verification, strategic planning, and incorporating &quot;engineering taste&quot; for feature implementation.</li>
+<li>  Claude Code's &quot;auto mode&quot; and &quot;no flicker mode&quot; are essential CLI features that enable long-running, autonomous agent operations without constant human intervention.</li>
+
+<h2>Topics Covered</h2>
+<li>  **Automated Issue Reproduction and Fixing**: The presentation details how Bun's bot, RoboBun, automatically detects, reproduces, and fixes GitHub issues. It then submits pull requests that include built-in tests, ensuring the proposed fix works and doesn't introduce regressions. This process significantly streamlines the initial debugging and fixing phases.</li>
+<li>  **AI-Powered Code Review**: The speakers explain the use of multiple AI agents, including Claude Code Review and Code Rabbit, for comprehensive code review. These bots identify stylistic issues, subtle bugs, and engage in iterative feedback loops, autonomously resolving comments and refining the code, often with extensive back-and-forth interactions.</li>
+<li>  **Enabling Autonomous Agents (Claude MD)**: A critical component of Bun's setup is well-structured documentation, referred to as &quot;Claude MD.&quot; This documentation guides AI agents on environment setup, build processes, testing methodologies, and common pitfalls, ensuring the AI operates effectively within the project's standards and learns from past mistakes.</li>
+<li>  **Impact of Advanced AI Models**: The discussion highlights how the latest AI models, particularly Claude Opus 47, have been instrumental in making this level of sophisticated and efficient automation feasible. Previous models often required more extensive scaffolding or were not efficient enough for day-to-day, large-scale use.</li>
+<li>  **Developer Workflow Transformation**: The speakers illustrate how AI automation reduces manual, repetitive tasks and &quot;switching costs&quot; (e.g., locally fixing lint errors), allowing human developers to concentrate on complex problem-solving, architectural decisions, and higher-value work.</li>
+<li>  **&quot;Hill Climbing&quot; for Optimization**: The concept of &quot;hill climbing&quot; is demonstrated through an example where Claude was tasked with making an image processing library faster than an existing solution. By providing a metric and a verification mechanism, Claude iteratively improved the code's performance autonomously.</li>
+<li>  **Future of AI in Software Engineering**: The presentation reflects on remaining challenges, such as achieving full trust for autonomous merging of PRs, integrating &quot;engineering taste&quot; into feature development, and the evolving role of human oversight in an increasingly automated development landscape.</li>
+
+<h2>Key Takeaways</h2>
+<li>  AI agents can profoundly automate software development, from issue reproduction and bug fixing to code review, allowing human developers to focus on more complex, strategic tasks.</li>
+<li>  Comprehensive, AI-specific documentation (like &quot;Claude MD&quot;) is crucial for effectively guiding AI agents, maintaining automated workflows, and ensuring consistency.</li>
+<li>  Recent advancements in AI models (e.g., Claude Opus 47) are making sophisticated, autonomous development pipelines practical and efficient for daily use, transforming what's possible in engineering.</li>
+<li>  The &quot;hill climbing&quot; approach, where AI iteratively optimizes code based on a metric with continuous verification, is a powerful paradigm for achieving significant performance improvements.</li>
+<li>  The role of human developers is shifting from direct, hands-on coding to overseeing, guiding, and making high-level strategic decisions, while AI handles the repetitive and detailed implementation.</li>
+<li>  Embrace continuous experimentation and automation of new bottlenecks in your development process to leverage AI's full potential and stay at the forefront of engineering innovation.</li>
+<li>  Features like &quot;auto mode&quot; in AI coding tools are essential for enabling truly autonomous, long-running agent operations without constant human intervention.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>The video demonstrates how Bun, a JavaScript runtime, leverages Anthropic's Claude Code and other AI agents to automate its development workflow. This advanced setup includes bots that automatically reproduce GitHub issues, submit tested pull requests, and engage in &quot;adversarial&quot; code review, significantly reducing developer time and making AI a major contributor to the project. The discussion highlights the transformative impact of recent AI model capabilities, particularly Claude Opus 47, in enabling this level of autonomous software development.</p>
+
+<h2>Key Points</h2>
+<li>  Bun utilizes Claude bots (RoboBun) to automatically reproduce GitHub issues, generate fixes, and submit pull requests complete with tests.</li>
+<li>  RoboBun has become a larger contributor to Bun than its human creator, Jared Sumner, in terms of merged pull requests.</li>
+<li>  A combination of Claude Code Review and Code Rabbit bots perform &quot;adversarial code review,&quot; engaging in back-and-forth discussions to refine and resolve code issues.</li>
+<li>  &quot;Claude MD&quot; (documentation specifically for Claude) is crucial for setting up the development environment, defining testing procedures, and documenting common issues, enabling maintainable automation.</li>
+<li>  Recent AI model advancements, especially Claude Opus 47, are key to making this level of efficient, autonomous development truly feasible and practical.</li>
+<li>  The automated workflow significantly saves developer time by eliminating &quot;switching costs&quot; and allowing human developers to focus on higher-level tasks.</li>
+<li>  The concept of &quot;hill climbing&quot; is applied, where Claude iterates and optimizes code based on a given metric and a way to verify its results (e.g., making image processing faster than existing libraries).</li>
+<li>  Future bottlenecks include achieving deeper verification, strategic planning, and incorporating &quot;engineering taste&quot; for feature implementation.</li>
+<li>  Claude Code's &quot;auto mode&quot; and &quot;no flicker mode&quot; are essential CLI features that enable long-running, autonomous agent operations without constant human intervention.</li>
+
+<h2>Topics Covered</h2>
+<li>  **Automated Issue Reproduction and Fixing**: The presentation details how Bun's bot, RoboBun, automatically detects, reproduces, and fixes GitHub issues. It then submits pull requests that include built-in tests, ensuring the proposed fix works and doesn't introduce regressions. This process significantly streamlines the initial debugging and fixing phases.</li>
+<li>  **AI-Powered Code Review**: The speakers explain the use of multiple AI agents, including Claude Code Review and Code Rabbit, for comprehensive code review. These bots identify stylistic issues, subtle bugs, and engage in iterative feedback loops, autonomously resolving comments and refining the code, often with extensive back-and-forth interactions.</li>
+<li>  **Enabling Autonomous Agents (Claude MD)**: A critical component of Bun's setup is well-structured documentation, referred to as &quot;Claude MD.&quot; This documentation guides AI agents on environment setup, build processes, testing methodologies, and common pitfalls, ensuring the AI operates effectively within the project's standards and learns from past mistakes.</li>
+<li>  **Impact of Advanced AI Models**: The discussion highlights how the latest AI models, particularly Claude Opus 47, have been instrumental in making this level of sophisticated and efficient automation feasible. Previous models often required more extensive scaffolding or were not efficient enough for day-to-day, large-scale use.</li>
+<li>  **Developer Workflow Transformation**: The speakers illustrate how AI automation reduces manual, repetitive tasks and &quot;switching costs&quot; (e.g., locally fixing lint errors), allowing human developers to concentrate on complex problem-solving, architectural decisions, and higher-value work.</li>
+<li>  **&quot;Hill Climbing&quot; for Optimization**: The concept of &quot;hill climbing&quot; is demonstrated through an example where Claude was tasked with making an image processing library faster than an existing solution. By providing a metric and a verification mechanism, Claude iteratively improved the code's performance autonomously.</li>
+<li>  **Future of AI in Software Engineering**: The presentation reflects on remaining challenges, such as achieving full trust for autonomous merging of PRs, integrating &quot;engineering taste&quot; into feature development, and the evolving role of human oversight in an increasingly automated development landscape.</li>
+
+<h2>Key Takeaways</h2>
+<li>  AI agents can profoundly automate software development, from issue reproduction and bug fixing to code review, allowing human developers to focus on more complex, strategic tasks.</li>
+<li>  Comprehensive, AI-specific documentation (like &quot;Claude MD&quot;) is crucial for effectively guiding AI agents, maintaining automated workflows, and ensuring consistency.</li>
+<li>  Recent advancements in AI models (e.g., Claude Opus 47) are making sophisticated, autonomous development pipelines practical and efficient for daily use, transforming what's possible in engineering.</li>
+<li>  The &quot;hill climbing&quot; approach, where AI iteratively optimizes code based on a metric with continuous verification, is a powerful paradigm for achieving significant performance improvements.</li>
+<li>  The role of human developers is shifting from direct, hands-on coding to overseeing, guiding, and making high-level strategic decisions, while AI handles the repetitive and detailed implementation.</li>
+<li>  Embrace continuous experimentation and automation of new bottlenecks in your development process to leverage AI's full potential and stay at the forefront of engineering innovation.</li>
+<li>  Features like &quot;auto mode&quot; in AI coding tools are essential for enabling truly autonomous, long-running agent operations without constant human intervention.</li>]]></content:encoded>
+  </item>
   <item>
     <title>Arda Saatçi - 15 TIPPS FÜR LAUF EINSTEIGER 🏃 - Arda Saatci</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
