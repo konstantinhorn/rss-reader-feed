@@ -7,8 +7,92 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Fri, 05 Jun 2026 22:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:47:23 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Starter Story - I Built A $30K-Month in 35 Days</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">Starter Story - I Built A $30K-Month in 35 Days.md</guid>
+    <pubDate>Fri, 05 Jun 2026 18:47:14 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>A college student, Cedric Roberge, built an app called Pep AI, which helps users safely track peptides, access research, and manage related lifestyle aspects. The app achieved $50,000 in revenue within just 7 weeks by leveraging AI tools for rapid development and capitalizing on a rapidly growing social media trend.</p>
+
+<h2>Key Points</h2>
+<li>Cedric built Pep AI, an app for safe peptide tracking, research, and lifestyle management, achieving $50,000 in revenue in 7 weeks.</li>
+<li>The app was developed in approximately 2 weeks using AI coding tools like Replit and Claude, with Firebase for the backend.</li>
+<li>The core idea came from spotting a growing trend (peptides) on social media and validating it by analyzing existing, less successful apps and user reviews.</li>
+<li>Apple App Store approval was a significant hurdle, requiring iterative adjustments to avoid appearing to give medical advice.</li>
+<li>Influencer marketing and organic search, driven by the trending topic, were crucial for rapid user acquisition and revenue generation.</li>
+<li>Cedric emphasized the paramount importance of having a clear marketing and distribution strategy before building an app.</li>
+<li>His advice for aspiring founders centers on never giving up and fully believing in one's vision, despite skepticism from others.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>The Founder and Pep AI:</strong> Cedric Roberge, a college student, developed Pep AI, an application designed to help individuals safely track their peptide usage, understand their effects through research, and integrate with lifestyle tracking. The app quickly generated $50,000 in revenue within its first seven weeks.</p>
+
+<p><strong>Building Process and Tools:</strong> Cedric built the app in about two weeks, primarily utilizing AI coding tools such as Replit for code generation and Claude as a &quot;senior developer&quot; for guidance on complex setups like in-app subscriptions (RevenueCat) and email services (Resend). Firebase was used for the backend. The most time-consuming part of the launch was navigating Apple's App Store approval process, which involved multiple rejections due to concerns about providing medical advice.</p>
+
+<p><strong>Finding the Idea and Niche:</strong> The idea for Pep AI originated from a roommate's suggestion and subsequent exposure to the peptide trend on TikTok. Cedric validated the niche by observing its popularity on social media, noting the absence of successful dedicated apps, and meticulously analyzing reviews of existing, less effective peptide-related apps to identify user needs and desired features.</p>
+
+<p><strong>Growth Strategy and Marketing:</strong> Pep AI's rapid growth was largely organic, fueled by the inherent virality of the peptide trend. Cedric also successfully employed influencer marketing, generating thousands of dollars in revenue from single social media posts. He stressed that a robust marketing and distribution plan is more critical than the product idea itself, advocating for its development <em>before</em> building.</p>
+
+<p><strong>Step-by-Step Trend Spotting and App Building:</strong> Cedric outlined a five-step process:</p>
+<p>1.  <strong>Live on Social Media:</strong> Constantly scroll platforms like TikTok and Instagram to identify emerging trends and topics people are &quot;obsessed over.&quot;</p>
+<p>2.  <strong>Investigate Existing Apps:</strong> Determine if apps already exist in the trending space. Their presence can validate market demand, but analyze why none have become widely successful.</p>
+<p>3.  <strong>Analyze Competitor Reviews:</strong> Scrutinize reviews of existing apps to understand what users like, dislike, and wish for, then use AI (Claude/ChatGPT) to formulate a superior app idea.</p>
+<p>4.  <strong>Engage Influencers Pre-Launch:</strong> Identify and reach out to influencers in the niche to gauge interest and build a waitlist before the app even launches.</p>
+<p>5.  <strong>Prioritize Marketing:</strong> Develop a comprehensive marketing and distribution plan (influencer marketing, ads, etc.) before investing time in building the app.</p>
+
+<p><strong>App Demo:</strong> The video included a demonstration of Pep AI's core features: a calculator for precise dosing, a logging system for tracking peptide intake and injection sites, a research library with quizzes and PubMed-sourced information, and lifestyle features like meal scanning, nutrition tracking, and Apple Health integration.</p>
+
+<p><strong>Advice for Aspiring Founders:</strong> Cedric's primary advice is to &quot;never give up&quot; and maintain unwavering self-belief. He shared his personal journey of always wanting to build his own company and how AI tools finally made it possible. He encouraged aspiring entrepreneurs to persevere through skepticism and setbacks, emphasizing that success often comes from relentless effort.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Leverage AI for Speed:** AI coding tools dramatically reduce development time, enabling non-technical founders to build and launch apps quickly.</li>
+<li>**Ride the Trend Wave:** Building an app around a rapidly growing social media trend provides immense organic traction, significantly reducing marketing effort and cost.</li>
+<li>**Competitor Analysis is Gold:** Don't fear competitors; instead, meticulously analyze their app reviews to identify unmet needs and build a superior product.</li>
+<li>**Distribution First:** A strong marketing and distribution strategy is more vital than the product itself. Plan how you'll reach users *before* you start building.</li>
+<li>**Influencer Marketing Power:** Early engagement with niche influencers can generate substantial revenue and user acquisition, especially in trending spaces.</li>
+<li>**Perseverance Pays Off:** Entrepreneurship requires unwavering self-belief and persistence, even when facing skepticism or initial failures.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>A college student, Cedric Roberge, built an app called Pep AI, which helps users safely track peptides, access research, and manage related lifestyle aspects. The app achieved $50,000 in revenue within just 7 weeks by leveraging AI tools for rapid development and capitalizing on a rapidly growing social media trend.</p>
+
+<h2>Key Points</h2>
+<li>Cedric built Pep AI, an app for safe peptide tracking, research, and lifestyle management, achieving $50,000 in revenue in 7 weeks.</li>
+<li>The app was developed in approximately 2 weeks using AI coding tools like Replit and Claude, with Firebase for the backend.</li>
+<li>The core idea came from spotting a growing trend (peptides) on social media and validating it by analyzing existing, less successful apps and user reviews.</li>
+<li>Apple App Store approval was a significant hurdle, requiring iterative adjustments to avoid appearing to give medical advice.</li>
+<li>Influencer marketing and organic search, driven by the trending topic, were crucial for rapid user acquisition and revenue generation.</li>
+<li>Cedric emphasized the paramount importance of having a clear marketing and distribution strategy before building an app.</li>
+<li>His advice for aspiring founders centers on never giving up and fully believing in one's vision, despite skepticism from others.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>The Founder and Pep AI:</strong> Cedric Roberge, a college student, developed Pep AI, an application designed to help individuals safely track their peptide usage, understand their effects through research, and integrate with lifestyle tracking. The app quickly generated $50,000 in revenue within its first seven weeks.</p>
+
+<p><strong>Building Process and Tools:</strong> Cedric built the app in about two weeks, primarily utilizing AI coding tools such as Replit for code generation and Claude as a &quot;senior developer&quot; for guidance on complex setups like in-app subscriptions (RevenueCat) and email services (Resend). Firebase was used for the backend. The most time-consuming part of the launch was navigating Apple's App Store approval process, which involved multiple rejections due to concerns about providing medical advice.</p>
+
+<p><strong>Finding the Idea and Niche:</strong> The idea for Pep AI originated from a roommate's suggestion and subsequent exposure to the peptide trend on TikTok. Cedric validated the niche by observing its popularity on social media, noting the absence of successful dedicated apps, and meticulously analyzing reviews of existing, less effective peptide-related apps to identify user needs and desired features.</p>
+
+<p><strong>Growth Strategy and Marketing:</strong> Pep AI's rapid growth was largely organic, fueled by the inherent virality of the peptide trend. Cedric also successfully employed influencer marketing, generating thousands of dollars in revenue from single social media posts. He stressed that a robust marketing and distribution plan is more critical than the product idea itself, advocating for its development <em>before</em> building.</p>
+
+<p><strong>Step-by-Step Trend Spotting and App Building:</strong> Cedric outlined a five-step process:</p>
+<p>1.  <strong>Live on Social Media:</strong> Constantly scroll platforms like TikTok and Instagram to identify emerging trends and topics people are &quot;obsessed over.&quot;</p>
+<p>2.  <strong>Investigate Existing Apps:</strong> Determine if apps already exist in the trending space. Their presence can validate market demand, but analyze why none have become widely successful.</p>
+<p>3.  <strong>Analyze Competitor Reviews:</strong> Scrutinize reviews of existing apps to understand what users like, dislike, and wish for, then use AI (Claude/ChatGPT) to formulate a superior app idea.</p>
+<p>4.  <strong>Engage Influencers Pre-Launch:</strong> Identify and reach out to influencers in the niche to gauge interest and build a waitlist before the app even launches.</p>
+<p>5.  <strong>Prioritize Marketing:</strong> Develop a comprehensive marketing and distribution plan (influencer marketing, ads, etc.) before investing time in building the app.</p>
+
+<p><strong>App Demo:</strong> The video included a demonstration of Pep AI's core features: a calculator for precise dosing, a logging system for tracking peptide intake and injection sites, a research library with quizzes and PubMed-sourced information, and lifestyle features like meal scanning, nutrition tracking, and Apple Health integration.</p>
+
+<p><strong>Advice for Aspiring Founders:</strong> Cedric's primary advice is to &quot;never give up&quot; and maintain unwavering self-belief. He shared his personal journey of always wanting to build his own company and how AI tools finally made it possible. He encouraged aspiring entrepreneurs to persevere through skepticism and setbacks, emphasizing that success often comes from relentless effort.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Leverage AI for Speed:** AI coding tools dramatically reduce development time, enabling non-technical founders to build and launch apps quickly.</li>
+<li>**Ride the Trend Wave:** Building an app around a rapidly growing social media trend provides immense organic traction, significantly reducing marketing effort and cost.</li>
+<li>**Competitor Analysis is Gold:** Don't fear competitors; instead, meticulously analyze their app reviews to identify unmet needs and build a superior product.</li>
+<li>**Distribution First:** A strong marketing and distribution strategy is more vital than the product itself. Plan how you'll reach users *before* you start building.</li>
+<li>**Influencer Marketing Power:** Early engagement with niche influencers can generate substantial revenue and user acquisition, especially in trending spaces.</li>
+<li>**Perseverance Pays Off:** Entrepreneurship requires unwavering self-belief and persistence, even when facing skepticism or initial failures.</li>]]></content:encoded>
+  </item>
   <item>
     <title>Brock Mesarich - AI for Non Techies - Anthropic Just Dropped Their Claude Skills Secrets (steal these)</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
