@@ -7,8 +7,82 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Sun, 07 Jun 2026 20:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:13:10 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>2026-06-07-FromSergio - It's Finally Time To Start Using Apple Reminders</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">2026-06-07-FromSergio - It's Finally Time To Start Using Apple Reminders.md</guid>
+    <pubDate>Sun, 07 Jun 2026 16:13:02 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>Apple Reminders has evolved from a basic checklist app into a powerful and deeply integrated task manager, rivaling third-party solutions. This video details a comprehensive setup that leverages its advanced features, deep OS integration, and unique functionalities to manage all aspects of life, emphasizing quick capture, organized lists, and efficient daily planning.</p>
+
+<h2>Key Points</h2>
+<li>  **Inbox System**: Set up a dedicated &quot;Inbox&quot; as the default list for rapid task capture, preventing immediate organizational friction.</li>
+<li>  **Structured Lists**: Organize tasks into specific lists like &quot;Work,&quot; &quot;Personal,&quot; &quot;House,&quot; &quot;Waiting,&quot; and &quot;Recurring&quot; to categorize and manage different life areas effectively.</li>
+<li>  **Daily Planning with Priorities**: Utilize the &quot;Today&quot; view for daily focus and assign priorities (High, Medium, Low) to tasks for clear decision-making and efficient execution.</li>
+<li>  **Cross-List Tagging**: Employ tags to group tasks across different lists based on common attributes, such as estimated time (e.g., &quot;10 min,&quot; &quot;on phone&quot;), for context-aware task selection.</li>
+<li>  **Advanced Reminder Options**: Leverage features like &quot;Urgent&quot; notifications, &quot;Early Reminders,&quot; and &quot;Location-Based Reminders&quot; for critical, pre-emptive, or context-specific alerts.</li>
+<li>  **Deep OS Integration**: Capitalize on Reminders' seamless integration with other Apple services (Mail, Calendar, Messages, Siri, Action Button) for unparalleled workflow efficiency.</li>
+<li>  **Unique Features**: Utilize specialized list types like &quot;Grocery Lists&quot; for automatic sorting and &quot;Templates&quot; for reusable checklists to streamline recurring tasks.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Inbox Setup</strong>: The video begins by demonstrating how to create and set an &quot;Inbox&quot; list as the default for all new reminders. This ensures that any task added, especially via Siri or the Action Button, is quickly captured without needing immediate categorization, allowing for later organization.</p>
+
+<p><strong>List Organization</strong>: It then delves into creating various lists to categorize tasks, such as &quot;Work,&quot; &quot;Personal,&quot; &quot;House,&quot; and a crucial &quot;Waiting&quot; list for tasks pending external action (e.g., deliveries, email responses). The speaker also highlights a separate &quot;Recurring&quot; list for scheduled tasks and a shared list for collaborative items.</p>
+
+<p><strong>Daily Planning and Priorities</strong>: The &quot;Today&quot; view is presented as the central hub for daily work. The speaker explains a nightly routine of populating this view with tomorrow's tasks and how to use task priorities (High, Medium, Low) to sort and focus on the most important items, including custom keyboard shortcuts for efficiency.</p>
+
+<p><strong>Effective Tagging</strong>: Tags are introduced as a powerful, often underrated feature for grouping tasks across different lists. The speaker demonstrates using tags for time-boxing (e.g., &quot;10 min,&quot; &quot;20 min&quot;) and contextual filtering (e.g., &quot;on phone&quot;) to quickly find suitable tasks for available time slots or situations.</p>
+
+<p><strong>Advanced Reminder Features</strong>: The video covers advanced options accessible by double-clicking a reminder, including &quot;Urgent&quot; notifications (alarm-like alerts for critical tasks), &quot;Early Reminders&quot; (a reminder for your reminder), and &quot;Location-Based Reminders&quot; for context-specific alerts when arriving at or leaving a location.</p>
+
+<p><strong>Deep Apple OS Integration</strong>: A significant portion highlights Reminders' unparalleled integration with the Apple ecosystem. This includes linking reminders to emails, showing scheduled tasks in the Calendar app, creating callback reminders from missed calls, and using the &quot;When Messaging&quot; feature to trigger reminders when contacting someone. It also covers widgets, Siri, Shortcuts, and quick-add methods via the iPhone's Action Button or Mac's Spotlight/Raycast.</p>
+
+<p><strong>Unique List Types and Templates</strong>: Finally, the video showcases special features like the &quot;Grocery List,&quot; which automatically sorts items into categories for easier shopping, and &quot;Templates&quot; for creating reusable checklists (e.g., packing lists, video production checklists) that can be generated, used, and deleted as needed.</p>
+
+<h2>Key Takeaways</h2>
+<li>  **Prioritize Quick Capture**: Always have a designated &quot;Inbox&quot; to quickly jot down ideas or tasks the moment they arise, deferring organization for later.</li>
+<li>  **Structure for Clarity**: Use distinct lists to segment your life and work, making it easier to focus on specific areas without being overwhelmed. The &quot;Waiting&quot; list is particularly useful for managing dependencies.</li>
+<li>  **Proactive Daily Planning**: End each day by planning the next using the &quot;Today&quot; view and task priorities. This sets you up for immediate action and reduces decision fatigue in the morning.</li>
+<li>  **Contextual Task Selection with Tags**: Implement tags for attributes like estimated time or required context (e.g., &quot;on phone,&quot; &quot;at computer&quot;) to efficiently find tasks that fit short breaks or specific environments.</li>
+<li>  **Leverage OS Integration**: Explore and utilize Reminders' deep integration with other Apple apps and system features (like the Action Button, Mail, Calendar, and Siri) to streamline workflows and reduce friction.</li>
+<li>  **Automate with Templates**: For recurring checklists or processes, create templates to save time and ensure consistency, generating a fresh list each time it's needed.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>Apple Reminders has evolved from a basic checklist app into a powerful and deeply integrated task manager, rivaling third-party solutions. This video details a comprehensive setup that leverages its advanced features, deep OS integration, and unique functionalities to manage all aspects of life, emphasizing quick capture, organized lists, and efficient daily planning.</p>
+
+<h2>Key Points</h2>
+<li>  **Inbox System**: Set up a dedicated &quot;Inbox&quot; as the default list for rapid task capture, preventing immediate organizational friction.</li>
+<li>  **Structured Lists**: Organize tasks into specific lists like &quot;Work,&quot; &quot;Personal,&quot; &quot;House,&quot; &quot;Waiting,&quot; and &quot;Recurring&quot; to categorize and manage different life areas effectively.</li>
+<li>  **Daily Planning with Priorities**: Utilize the &quot;Today&quot; view for daily focus and assign priorities (High, Medium, Low) to tasks for clear decision-making and efficient execution.</li>
+<li>  **Cross-List Tagging**: Employ tags to group tasks across different lists based on common attributes, such as estimated time (e.g., &quot;10 min,&quot; &quot;on phone&quot;), for context-aware task selection.</li>
+<li>  **Advanced Reminder Options**: Leverage features like &quot;Urgent&quot; notifications, &quot;Early Reminders,&quot; and &quot;Location-Based Reminders&quot; for critical, pre-emptive, or context-specific alerts.</li>
+<li>  **Deep OS Integration**: Capitalize on Reminders' seamless integration with other Apple services (Mail, Calendar, Messages, Siri, Action Button) for unparalleled workflow efficiency.</li>
+<li>  **Unique Features**: Utilize specialized list types like &quot;Grocery Lists&quot; for automatic sorting and &quot;Templates&quot; for reusable checklists to streamline recurring tasks.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Inbox Setup</strong>: The video begins by demonstrating how to create and set an &quot;Inbox&quot; list as the default for all new reminders. This ensures that any task added, especially via Siri or the Action Button, is quickly captured without needing immediate categorization, allowing for later organization.</p>
+
+<p><strong>List Organization</strong>: It then delves into creating various lists to categorize tasks, such as &quot;Work,&quot; &quot;Personal,&quot; &quot;House,&quot; and a crucial &quot;Waiting&quot; list for tasks pending external action (e.g., deliveries, email responses). The speaker also highlights a separate &quot;Recurring&quot; list for scheduled tasks and a shared list for collaborative items.</p>
+
+<p><strong>Daily Planning and Priorities</strong>: The &quot;Today&quot; view is presented as the central hub for daily work. The speaker explains a nightly routine of populating this view with tomorrow's tasks and how to use task priorities (High, Medium, Low) to sort and focus on the most important items, including custom keyboard shortcuts for efficiency.</p>
+
+<p><strong>Effective Tagging</strong>: Tags are introduced as a powerful, often underrated feature for grouping tasks across different lists. The speaker demonstrates using tags for time-boxing (e.g., &quot;10 min,&quot; &quot;20 min&quot;) and contextual filtering (e.g., &quot;on phone&quot;) to quickly find suitable tasks for available time slots or situations.</p>
+
+<p><strong>Advanced Reminder Features</strong>: The video covers advanced options accessible by double-clicking a reminder, including &quot;Urgent&quot; notifications (alarm-like alerts for critical tasks), &quot;Early Reminders&quot; (a reminder for your reminder), and &quot;Location-Based Reminders&quot; for context-specific alerts when arriving at or leaving a location.</p>
+
+<p><strong>Deep Apple OS Integration</strong>: A significant portion highlights Reminders' unparalleled integration with the Apple ecosystem. This includes linking reminders to emails, showing scheduled tasks in the Calendar app, creating callback reminders from missed calls, and using the &quot;When Messaging&quot; feature to trigger reminders when contacting someone. It also covers widgets, Siri, Shortcuts, and quick-add methods via the iPhone's Action Button or Mac's Spotlight/Raycast.</p>
+
+<p><strong>Unique List Types and Templates</strong>: Finally, the video showcases special features like the &quot;Grocery List,&quot; which automatically sorts items into categories for easier shopping, and &quot;Templates&quot; for creating reusable checklists (e.g., packing lists, video production checklists) that can be generated, used, and deleted as needed.</p>
+
+<h2>Key Takeaways</h2>
+<li>  **Prioritize Quick Capture**: Always have a designated &quot;Inbox&quot; to quickly jot down ideas or tasks the moment they arise, deferring organization for later.</li>
+<li>  **Structure for Clarity**: Use distinct lists to segment your life and work, making it easier to focus on specific areas without being overwhelmed. The &quot;Waiting&quot; list is particularly useful for managing dependencies.</li>
+<li>  **Proactive Daily Planning**: End each day by planning the next using the &quot;Today&quot; view and task priorities. This sets you up for immediate action and reduces decision fatigue in the morning.</li>
+<li>  **Contextual Task Selection with Tags**: Implement tags for attributes like estimated time or required context (e.g., &quot;on phone,&quot; &quot;at computer&quot;) to efficiently find tasks that fit short breaks or specific environments.</li>
+<li>  **Leverage OS Integration**: Explore and utilize Reminders' deep integration with other Apple apps and system features (like the Action Button, Mail, Calendar, and Siri) to streamline workflows and reduce friction.</li>
+<li>  **Automate with Templates**: For recurring checklists or processes, create templates to save time and ensure consistency, generating a fresh list each time it's needed.</li>]]></content:encoded>
+  </item>
   <item>
     <title>2026-06-07-Levi Jäger - Erfolg bringt Dir NICHTS, wenn du ihn nicht fühlen kannst (VLOG)</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
