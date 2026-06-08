@@ -7,8 +7,328 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:50:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:02:04 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aufstellung der zentralen Rechtsquellen und Standards zur KI-Regulierung (EU, Deutschland, USA) — Stand Juni 2026</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">compass_artifact_wf-6c1e64f8-a0a1-43c7-b3dd-5751118fa3a2_text_markdown.md</guid>
+    <pubDate>Mon, 08 Jun 2026 14:01:53 -0400</pubDate>
+    <description><![CDATA[<h1>Aufstellung der zentralen Rechtsquellen und Standards zur KI-Regulierung (EU, Deutschland, USA) — Stand Juni 2026</h1>
+
+<h2>TL;DR</h2>
+<li>Das Rückgrat der KI-Regulierung ist die **EU-KI-VO (VO (EU) 2024/1689)**; ihre Hochrisiko-Pflichten wurden durch den **AI-Omnibus** (provisorische politische Einigung 7.5.2026, nach gescheitertem Trilog vom 28.4. und Bestätigung im Rat am 13.5.2026) auf den 2.12.2027 (Anhang III) bzw. 2.8.2028 (Anhang I) verschoben — Deutschland flankiert dies mit dem noch im Verfahren befindlichen **KI-MIG** (Bundesnetzagentur als zentrale Aufsicht).</li>
+<li>Die **AI Liability Directive wurde im Oktober 2025 förmlich zurückgezogen**; AI-Haftung läuft nun über die neue **Produkthaftungs-RL (EU) 2024/2853** (Umsetzung bis 9.12.2026) plus nationales Deliktsrecht.</li>
+<li>Die **USA** verfolgen einen deregulatorischen, exekutiv-getriebenen Kurs (Biden-EO 14110 aufgehoben; Trump-EO 14179; AI Action Plan 7/2025; EO 14365 v. 11.12.2025 gegen Landesgesetze) — **kein umfassendes Bundes-KI-Gesetz**; Bindewirkung entsteht v.a. durch Landesgesetze und sektorale Aufsicht.</li>
+
+<h2>Key Findings</h2>
+<p>1. <strong>Risikobasierter EU-Ansatz mit gestaffelter Geltung.</strong> Die KI-VO ist seit 1.8.2024 in Kraft, gilt aber stufenweise; Verbote (Art. 5) + KI-Kompetenz (Art. 4) seit 2.2.2025, GPAI seit 2.8.2025, Hochrisiko verschoben (16-Monats-Deferral für Anhang III, von 2.8.2026 auf 2.12.2027).</p>
+<p>2. <strong>Deregulierungswelle 2025/26 auf beiden Seiten des Atlantiks.</strong> EU: AI-Omnibus, Rückzug AILD/ePrivacy. USA: Trump-Kehrtwende. Selbst Colorado hat sein KI-Gesetz vor Inkrafttreten ersetzt.</p>
+<p>3. <strong>Berufsrecht ist „technologieneutral&quot;.</strong> BRAK-Leitfaden (12/2024) und DAV-Stellungnahme SN 32/2025 betonen: § 43a Abs. 2 BRAO (Verschwiegenheit), § 203 StGB und § 43e BRAO (IT-Outsourcing) sind der Maßstab; öffentlich zugängliche Tools (z. B. ChatGPT-Free) sind für Mandatsdaten tabu.</p>
+<p>4. <strong>Standards als Brücke.</strong> ISO/IEC 42001 (Managementsystem) und NIST AI RMF 1.0 sind die zentralen freiwilligen Rahmenwerke; harmonisierte EU-Normen für Hochrisiko fehlen noch (Mitgrund der Fristverschiebung).</p>
+
+<h2>Details</h2>
+
+<h3>A. EU-Ebene</h3>
+
+<p>#### A.1 Querschnitt KI</p>
+<p><strong>KI-Verordnung / AI Act</strong></p>
+<li>Offizieller Name: Verordnung (EU) 2024/1689 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz; Abk. KI-VO / AI Act.</li>
+<li>Fundstelle: ABl. L, 2024/1689, 12.7.2024; Interinstitutionelles Dossier 2021/0106(COD); ELI: data.europa.eu/eli/reg/2024/1689/oj. 113 Artikel, 13 Anhänge.</li>
+<li>Anwendungsbereich: horizontal, risikobasiert; adressiert Anbieter, Betreiber (Deployer), Importeure, Händler, Bevollmächtigte; extraterritoriale Reichweite (Art. 2). Vier Risikoklassen: unannehmbar (Art. 5, verboten), hoch (Art. 6 i.V.m. Anhang I/III), begrenzt (Transparenz, Art. 50), minimal. GPAI-Modelle gesondert (Kap. V), inkl. Modelle mit systemischem Risiko (Art. 55).</li>
+<li>Status/Daten: in Kraft seit 1.8.2024. Geltungsbeginne: 2.2.2025 (Verbote Art. 5 + KI-Kompetenz Art. 4); 2.8.2025 (GPAI, Governance, Sanktionsrahmen — bis 35 Mio. €/7 % weltweiter Umsatz, höher als bei der DSGVO); 2.8.2026 (urspr. Hochrisiko Anhang III, Großteil); 2.8.2027 (Hochrisiko Anhang I). Durch AI-Omnibus verschoben (s.u.).</li>
+<li>Verhältnis: lex generalis für KI; verweist auf sektorale Produktvorschriften (Anhang I: u.a. Maschinen-VO, Medizinprodukte-VO/MDR, Spielzeug, Funkanlagen); Schnittstelle zur DSGVO.</li>
+
+<p><strong>AI-Omnibus (Digital Omnibus on AI)</strong></p>
+<li>Vorschlag der Kommission 19.11.2025; nach gescheitertem Trilog vom 28.4.2026 wurde am 6./7.5.2026 eine provisorische politische Einigung zwischen Parlament und Rat erreicht, am 13.5.2026 durch die Mitgliedstaaten im Rat bestätigt; förmliche Annahme + Veröffentlichung im ABl. vor dem 2.8.2026 erwartet (Inkrafttreten 3 Tage nach Veröffentlichung).</li>
+<li>Inhalt: Verschiebung Hochrisiko-Pflichten — 2.12.2027 (Standalone Anhang III; 16-Monats-Deferral von urspr. 2.8.2026), 2.8.2028 (in Produkte eingebettet, Anhang I; von urspr. 2.8.2027); neues Verbot von „Nudifier&quot;-/CSAM-Systemen (Art. 5, ab 2.12.2026; Verstöße können mit bis zu 35 Mio. €/7 % des weltweiten Jahresumsatzes geahndet werden); Verschiebung Watermarking Art. 50(2) auf 2.12.2026 (Schonfrist von urspr. 6 auf 3 Monate verkürzt); nationale Sandboxes bis 2.8.2027; Erleichterungen für KMU/Small Mid-Caps; Klärung Doppelregulierung mit sektoralem Recht; gestärkte Rolle des AI Office. Achtung: bis zur förmlichen Annahme bleibt 2.8.2026 rechtlich aktive Frist.</li>
+<li>Status: „close to adoption&quot; (provisorische Einigung); Teil des größeren „Digital Omnibus&quot;-Pakets (auch GDPR, ePrivacy, NIS2, Data Act).</li>
+
+<p><strong>Europäische KI-Behördenstruktur</strong></p>
+<li>AI Office (innerhalb GD CONNECT der Kommission, operativ seit Februar 2024): exklusive Durchsetzung der GPAI-Pflichten (Kap. V).</li>
+<li>European AI Board, wissenschaftliches Gremium, Beratungsforum.</li>
+<li>Guidance: Leitlinien zu verbotenen Praktiken (4.2.2025); GPAI Code of Practice (Juli 2025, freiwillig, „presumption of conformity&quot;); Leitlinien zum Anwendungsbereich der GPAI-Pflichten; Entwurfsleitlinien zur Klassifizierung von Hochrisiko-Systemen (Annex I + III).</li>
+
+<p>#### A.2 Haftung</p>
+<p><strong>Produkthaftungs-Richtlinie (Neufassung)</strong></p>
+<li>RL (EU) 2024/2853 über die Haftung für fehlerhafte Produkte; Abk. PLD (New PLD); ABl. 18.11.2024; ELI: data.europa.eu/eli/dir/2024/2853.</li>
+<li>Anwendungsbereich: verschuldensunabhängige Haftung; „Produkt&quot; umfasst nun ausdrücklich Software, KI-Systeme, digitale Bauteile und SaaS-nahe Dienste; erweiterte Haftungsadressaten (auch Fulfilment-Dienstleister, ggf. Online-Plattformen); Beweiserleichterungen (Offenlegungspflicht, Fehlervermutung); Open-Source außerhalb kommerzieller Tätigkeit ausgenommen.</li>
+<li>Status: in Kraft 9.12.2024; Umsetzung durch Mitgliedstaaten bis 9.12.2026; gilt für Produkte, die nach dem 9.12.2026 in Verkehr gebracht werden; alte RL 85/374/EWG aufgehoben mit Wirkung 9.12.2026. Deutscher Referentenentwurf September 2025, fristgerechte Umsetzung 2026 erwartet.</li>
+<li>Verhältnis: zentrale zivilrechtliche AI-Haftungsquelle nach Rückzug der AILD; komplementär zum Cyber Resilience Act und zur KI-VO (Nichteinhaltung von Sicherheitsvorgaben → Fehlervermutung).</li>
+
+<p><strong>KI-Haftungsrichtlinie (zurückgezogen)</strong></p>
+<li>Vorschlag KOM 28.9.2022, 2022/0303(COD); Abk. AILD.</li>
+<li>Status: ZURÜCKGEZOGEN. Ankündigung im Kommissions-Arbeitsprogramm 2025 (11.2.2025), förmlicher Rückzug im ABl. C/2025/5423 vom 6.10.2025 („no foreseeable agreement&quot;). Keine EU-Harmonisierung der verschuldensabhängigen KI-Haftung; insoweit gilt nationales Deliktsrecht.</li>
+
+<p>#### A.3 Datenschutz</p>
+<p><strong>DSGVO/GDPR</strong></p>
+<li>VO (EU) 2016/679; in Kraft/anwendbar seit 25.5.2018.</li>
+<li>Relevanz für KI: Rechtsgrundlagen für Trainings-/Verarbeitungsvorgänge; besondere Schnittstelle Art. 22 (automatisierte Entscheidungen im Einzelfall inkl. Profiling); Betroffenenrechte, DSFA. AI-Omnibus enthält Anpassungen (u.a. Verarbeitung sensibler Daten zur Bias-Korrektur, „strikt erforderlich&quot;).</li>
+<li>Verhältnis: bleibt voll anwendbar neben KI-VO und Data Act.</li>
+
+<p>#### A.4 Plattformregulierung</p>
+<p><strong>Digital Services Act (DSA)</strong></p>
+<li>VO (EU) 2022/2065; ABl. 27.10.2022; in Kraft 16.11.2022; allgemeine Geltung ab 17.2.2024; VLOPs/VLOSEs ab 25.8.2023 (nach Benennung).</li>
+<li>Anwendungsbereich: gestufte Pflichten für Vermittlungsdienste; strengste Pflichten für Very Large Online Platforms / Search Engines (&gt;45 Mio. monatliche Nutzer EU): Risikobewertung (Art. 34), Risikominderung (Art. 35), Audits, Transparenz. Durchsetzung VLOPs durch Kommission; sonst nationale Digital Services Coordinators. Bußgelder bis 6 % weltw. Umsatz.</li>
+
+<p><strong>Digital Markets Act (DMA)</strong></p>
+<li>VO (EU) 2022/1925; ABl. 12.10.2022; in Kraft 1.11.2022; anwendbar 2.5.2023; Gatekeeper-Compliance seit 7.3.2024.</li>
+<li>Anwendungsbereich: „Gatekeeper&quot; mit „Core Platform Services&quot;; Ge-/Verbote (Art. 5–7) zur Marktoffenheit; Bußgelder bis 10 % (Wiederholung 20 %) weltw. Umsatz. Benannte Gatekeeper u.a. Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft, Booking.</li>
+
+<p>#### A.5 Daten</p>
+<p><strong>Data Act</strong></p>
+<li>VO (EU) 2023/2854; in Kraft 11.1.2024; allgemein anwendbar ab 12.9.2025 (einzelne Vorgaben gestaffelt bis 2026/2027). Zugang zu/Nutzung von Daten vernetzter Produkte (IoT), Wechsel von Cloud-Diensten, faire Vertragsklauseln; GDPR bleibt vorrangig für personenbezogene Daten.</li>
+
+<p><strong>Data Governance Act</strong></p>
+<li>VO (EU) 2022/868; in Kraft 23.6.2022; anwendbar seit 24.9.2023. Rahmen für Datenweiterverwendung (öffentlicher Sektor), Datenintermediäre, Datenaltruismus.</li>
+
+<p>#### A.6 Cybersecurity</p>
+<p><strong>NIS2-Richtlinie</strong></p>
+<li>RL (EU) 2022/2555; Umsetzungsfrist 17.10.2024. Erweiterter Adressatenkreis (wesentliche/wichtige Einrichtungen); Risikomanagement, Meldepflichten. (Deutsche Umsetzung s. B.4.)</li>
+
+<p><strong>Cyber Resilience Act (CRA)</strong></p>
+<li>VO (EU) 2024/2847; ABl. 20.11.2024; in Kraft 10.12.2024. Anwendungsbereich: „Produkte mit digitalen Elementen&quot; (Hard-/Software, IoT); CE-Kennzeichnung um Cybersicherheit erweitert. Geltung: Meldepflichten für aktiv ausgenutzte Schwachstellen ab 11.9.2026; Notifizierung Konformitätsstellen ab 11.6.2026; Hauptpflichten ab 11.12.2027. Unmittelbar geltend, keine nationale Umsetzung nötig. Bußgelder bis 15 Mio. €/2,5 % Umsatz. Durchführungs-VO (EU) 2025/2392 (28.11.2025) zur Produktkategorisierung.</li>
+
+<h3>B. Deutschland</h3>
+
+<p><strong>B.1 KI-MIG (Durchführungsgesetz zur KI-VO)</strong></p>
+<li>KI-Marktüberwachungs- und Innovationsförderungsgesetz; Abk. KI-MIG. Regierungsentwurf BT-Drs. 21/4594; Kabinettsbeschluss 11.2.2026; Sachverständigenanhörung Digitalausschuss 23.3.2026; Bundesrats-Stellungnahme BT-Drs. 21/5143 (1.4.2026).</li>
+<li>Inhalt/Status: noch im parlamentarischen Verfahren (nicht in Kraft). Benennt die Bundesnetzagentur (BNetzA) als zentrale Marktüberwachungs- und notifizierende Behörde; schafft das Koordinierungs- und Kompetenzzentrum KoKIVO (KI-Service-Desk, KI-Reallabor, einheitliche Rechtsauslegung); hybrider Ansatz unter Beibehaltung sektoraler Fachaufsicht. Keine neuen materiellen Pflichten (1:1-Durchführung). EU-Frist (2.8.2025) zur Behördenbenennung wurde verfehlt (Regierungsneubildung).</li>
+
+<p><strong>B.2 BDSG</strong></p>
+<li>Bundesdatenschutzgesetz; ergänzt die DSGVO (Öffnungsklauseln), u.a. Beschäftigtendatenschutz, behördliche Aufsicht.</li>
+
+<p><strong>B.3 Berufsrecht für Rechtsanwälte (Kernblock für den Nutzer)</strong></p>
+<li>BRAO § 43 (gewissenhafte Berufsausübung), § 43a Abs. 2 (Verschwiegenheit — absolut), § 43e (Inanspruchnahme von Dienstleistungen/IT-Outsourcing, Textform-Vertrag mit Verschwiegenheitsverpflichtung, sorgfältige Auswahl, Auslandsregelung Abs. 4), § 203 StGB (Offenbarungsverbot, flankierend), § 2 BORA.</li>
+<li>BRAK-Leitfaden „Hinweise zum Einsatz von künstlicher Intelligenz (KI)&quot; (Stand 12/2024): technologieneutrale Pflichten; eigenverantwortliche Endkontrolle des KI-Outputs; bei öffentlich zugänglichen Tools ist Eingabe von Mandatsdaten unzulässig (Anonymisierung erforderlich); EU-/DE-Serverstandorte bevorzugen.</li>
+<li>DAV-Initiativstellungnahme SN 32/2025: keine Pflicht zum KI-Einsatz; keine generelle Pflicht zur Vorab-Anonymisierung bei ordnungsgemäß nach § 43e verpflichteten Dienstleistern; „No-Training&quot;-Klausel, Lösch-/Exitregeln; kritische Prüfung der KI-Ergebnisse; keine generelle berufsrechtliche Pflicht zur Mandanteninformation (anders ggf. § 43e Abs. 5 bei mandatsbezogenem Einsatz).</li>
+<li>Querbezüge: Art. 4 KI-VO (KI-Kompetenzpflicht) gilt auch für Kanzleien; GeschGehG wird vom Berufsrecht überlagert; Urheberrecht bei Verarbeitung geschützter Fachliteratur.</li>
+
+<p><strong>B.4 Cybersecurity DE</strong></p>
+<li>NIS2-Umsetzungs- und Cybersicherheitsstärkungsgesetz (NIS2UmsuCG): vom Bundestag 13.11.2025 beschlossen, Bundesrat 21.11.2025, im BGBl. verkündet, in Kraft seit 6.12.2025 (BGBl. 2025 I Nr. 301). Ändert v.a. das BSIG (BSIG n.F.): „wichtige&quot;/„besonders wichtige Einrichtungen&quot;, Registrierungspflicht beim BSI, gestufte Meldepflichten (§ 32), Risikomanagement (§ 30), Geschäftsleiterhaftung (§ 38). Das Gesetz erweitert den Anwendungsbereich des bisherigen BSI-Gesetzes von ca. 4.500 KRITIS-Betreibern auf rund 29.500 Unternehmen in 18 Sektoren. Bußgelder bis 10 Mio. €/2 % Umsatz (§ 65). Ergänzend: KRITIS-Dachgesetz (in Kraft seit 17.3.2026, physische Resilienz).</li>
+
+<h3>C. USA</h3>
+
+<p><strong>C.1 Bundesebene — Executive Orders &amp; Strategie</strong></p>
+<li>EO 14148 „Initial Rescissions of Harmful Executive Orders and Actions&quot; (20.1.2025, 90 FR 8237): hebt Bidens EO 14110 („Safe, Secure, and Trustworthy Development and Use of AI&quot;, 30.10.2023) auf.</li>
+<li>EO 14179 „Removing Barriers to American Leadership in Artificial Intelligence&quot; (23.1.2025, 90 FR 8741, veröffentlicht 31.1.2025): Politik der „AI dominance&quot;; ordnet AI Action Plan an.</li>
+<li>„Winning the Race: America's AI Action Plan&quot; (23.7.2025): deregulatorisch; weist NIST an, das AI RMF um Bezüge zu „misinformation, DEI, climate change&quot; zu bereinigen; begleitet von EO 14319 „Preventing Woke AI in the Federal Government&quot; (Beschaffung).</li>
+<li>EO 14365 „Ensuring a National Policy Framework for Artificial Intelligence&quot; (11.12.2025, 90 FR 58499, veröffentlicht 16.12.2025): AI Litigation Task Force (DOJ) gegen Landesgesetze; Commerce-Evaluierung von State-Laws (90 Tage); Konditionierung diskretionärer Bundeszuschüsse (u.a. BEAD-Programm); FCC-Verfahren zu einem bundesweiten Reporting-/Disclosure-Standard und FTC-Policy-Statement zu Preemption. März 2026: White-House-„National Policy Framework: Legislative Recommendations&quot; an den Kongress (unverbindlich).</li>
+<li>Kein umfassendes Bundes-KI-Gesetz: Das State-AI-Moratorium wurde aus dem „One Big Beautiful Bill Act&quot; (7/2025) gestrichen; zahlreiche Entwürfe im 119. Kongress (u.a. Blackburns Diskussionsentwurf „TRUMP AMERICA AI Act&quot;, ~18.3.2026) nicht verabschiedet. Ansatz bleibt EO + sektoral + State-Law.</li>
+
+<p><strong>C.2 NIST-Rahmenwerke</strong></p>
+<li>AI RMF 1.0 (NIST.AI.100-1, Januar 2023): freiwillig; Funktionen Govern/Map/Measure/Manage. Trotz Revisionsauftrag aus dem AI Action Plan ist Stand Juni 2026 weiterhin Version 1.0 in Kraft (keine revidierte Fassung publiziert).</li>
+<li>Generative AI Profile (NIST AI 600-1, 26.7.2024; DOI 10.6028/NIST.AI.600-1): 12 GenAI-Risikokategorien; bietet mehr als 200 vorgeschlagene Maßnahmen über die zwölf Risikokategorien hinweg. Ergänzt durch ein agentisches Profil (NIST AI 100-5).</li>
+
+<p><strong>C.3 Bundesbehörden-Guidance</strong></p>
+<li>FTC: Section 5 FTC Act (15 U.S.C. 45) gegen unfaire/täuschende KI-Praktiken; EO 14365 ordnet FTC-Policy-Statement zu Preemption an.</li>
+<li>EEOC: Title VII/ADA/ADEA auf algorithmische Einstellungstools (frühere Biden-Guidance teils zurückgezogen; Statuten gelten fort).</li>
+<li>US Copyright Office: Bericht „Copyright and Artificial Intelligence&quot; Teil 1 (Digital Replicas, 7/2024), Teil 2 (Copyrightability, 1/2025), Teil 3 (Generative-AI-Training, Pre-Publication 9.5.2025).</li>
+
+<p><strong>C.4 Bundesstaatliche Gesetze (Auswahl)</strong></p>
+<li>Colorado AI Act (SB 24-205, 2024): erstes umfassendes State-Gesetz (Hochrisiko/algorithmische Diskriminierung). Inkrafttreten zunächst auf 30.6.2026 verschoben (SB 25B-004); Enforcement durch Bundesgericht am 27.4.2026 gestoppt (Klage xAI + DOJ-Intervention); durch SB 26-189 (unterzeichnet 14.5.2026) ersetzt — neues, schlankeres ADMT-Offenlegungsregime, wirksam 1.1.2027.</li>
+<li>Kalifornien: SB 53 „Transparency in Frontier Artificial Intelligence Act&quot; (wirksam 1.1.2026); AB 2013 (Trainingsdaten-Transparenz); SB 942 AI Transparency Act (durch AB 853 auf 2.8.2026 verschoben); CPPA-ADMT-Regeln.</li>
+<li>Texas: TRAIGA / Responsible AI Governance Act (HB 149), wirksam 1.1.2026 (verbotene „restricted purposes&quot;).</li>
+<li>Illinois: HB 3773 (Public Act 103-0804), Änderung des Human Rights Act (KI in Beschäftigung); BIPA als adjazenter Datenschutz.</li>
+<li>Datenschutz States: CCPA/CPRA (Kalifornien) u.a.</li>
+
+<h3>D. Internationale Standards (jurisdiktionsübergreifend)</h3>
+
+<p><strong>ISO/IEC (JTC 1/SC 42):</strong></p>
+<li>ISO/IEC 42001:2023 — AI-Managementsystem (zertifizierbar; Plan-Do-Check-Act).</li>
+<li>ISO/IEC 23894:2023 — AI Risk Management (Guidance).</li>
+<li>ISO/IEC 22989:2022 — Konzepte und Terminologie.</li>
+<li>ISO/IEC 23053:2022 — Framework für KI/ML-Systeme.</li>
+<li>ISO/IEC TR 24028:2020 — Trustworthiness-Überblick.</li>
+<li>Weitere: TR 24027 (Bias), TR 24029 (Robustheit neuronaler Netze), 25059 (Quality), 5338 (Lifecycle), 42005 (Impact Assessment), 38507 (Governance), 5259 (Datenqualität), 42006 (Zertifizierungsstellen).</li>
+
+<p><strong>NIST:</strong> AI RMF 1.0 + GenAI Profile (s. C.2).</p>
+
+<p><strong>Völker-/soft law:</strong></p>
+<li>Europarats-Rahmenkonvention zu KI und Menschenrechten, Demokratie, Rechtsstaatlichkeit (CETS Nr. 225): erster völkerrechtlich verbindlicher KI-Vertrag; angenommen 17.5.2024, zur Zeichnung aufgelegt in Vilnius 5.9.2024 (u.a. EU, USA, UK); Inkrafttreten nach 5 Ratifikationen; EU-Umsetzung über die KI-VO. EP-Zustimmung 2026 (A10-0007/2026).</li>
+<li>OECD AI Principles (2019, rev. Definition 8.11.2023).</li>
+<li>UNESCO Recommendation on the Ethics of AI (23.11.2021).</li>
+<li>G7 Hiroshima Process: International Guiding Principles + Code of Conduct (30.10.2023).</li>
+
+<h2>Recommendations (Vorschlag Lern-/Aufbaupfad für die Study-Roadmap)</h2>
+
+<p><strong>Cluster 1 — Fundament (zuerst):</strong> KI-VO (VO 2024/1689) als Anker; parallel DSGVO Art. 22 + Grundzüge. Verstehen: Risikoklassen, Adressaten, Definitionen, Zeitachse. Quelle: EUR-Lex-Volltext + Kommissions-Guidance.</p>
+
+<p><strong>Cluster 2 — Dynamik/Aktualität:</strong> AI-Omnibus (verschobene Fristen), KI-MIG (DE-Aufsicht), Colorado-Wende und EO 14365 (US). Diese zeigen den volatilen Status quo — regelmäßig nachverfolgen.</p>
+
+<p><strong>Cluster 3 — Haftung &amp; Produktrecht:</strong> Produkthaftungs-RL 2024/2853 (+ Rückzug AILD) und das Verhältnis KI-VO ↔ sektorale Produktvorschriften (MDR, Maschinen-VO) + CE-Kennzeichnung.</p>
+
+<p><strong>Cluster 4 — Adjacent (für den Nutzer besonders relevant):</strong> Anwaltliches Berufsrecht (BRAK-Leitfaden 12/2024 + DAV SN 32/2025 + §§ 43, 43a, 43e BRAO, § 203 StGB) — direkt praxisrelevant; danach Cyber (NIS2UmsuCG/BSIG, CRA) und Plattformrecht (DSA/DMA).</p>
+
+<p><strong>Cluster 5 — Standards &amp; International:</strong> ISO/IEC 42001 (Implementierungs-/Auditbasis) und NIST AI RMF als operative Brücken; CoE-Konvention/OECD/UNESCO als normativer Überbau.</p>
+
+<p><strong>Lernlogik:</strong> Cluster 1 ist Voraussetzung für alle anderen; Cluster 3 baut auf 1 auf; Cluster 4 verknüpft 1 (Art. 4 KI-VO) mit Berufs-/Datenschutzrecht; Standards (5) liefern die Compliance-Werkzeuge zu 1 und 3.</p>
+
+<p><strong>Schwellen, die die Roadmap ändern:</strong> (a) förmliche Annahme des AI-Omnibus → neue verbindliche Fristen; (b) Inkrafttreten KI-MIG → konkrete DE-Zuständigkeiten/Sanktionen; (c) Umsetzung PLD bis 12/2026 ins deutsche Recht; (d) etwaiges US-Bundesgesetz oder gerichtliche Klärung der Preemption-Frage.</p>
+
+<h2>Caveats</h2>
+<li>**Hohe Volatilität:** US-Bundeslage und einzelne State-Laws ändern sich schnell; mehrere Quellen sind Kanzlei-Blogs/Sekundärseiten — für Zitierzwecke stets Primärquellen (EUR-Lex, BGBl., Federal Register, NIST, ISO, Behörden) prüfen.</li>
+<li>**Status-Unsicherheit:** AI-Omnibus und KI-MIG sind zum Stand Juni 2026 noch nicht förmlich in Kraft; bis dahin gelten die ursprünglichen Fristen/Strukturen. Die NIST-AI-RMF-Revision ist angeordnet, aber noch nicht veröffentlicht.</li>
+<li>**Bewusst ohne Sekundärliteratur** (Aufsätze/Kommentare) entsprechend Nutzervorgabe; diese sind in einer späteren Vertiefungsstufe zu ergänzen.</li>
+<li>Einzelne ISO-Jahresangaben/Teilstände können je nach Ausgabe variieren; vor Verwendung gegen iso.org prüfen.</li>]]></description>
+    <content:encoded><![CDATA[<h1>Aufstellung der zentralen Rechtsquellen und Standards zur KI-Regulierung (EU, Deutschland, USA) — Stand Juni 2026</h1>
+
+<h2>TL;DR</h2>
+<li>Das Rückgrat der KI-Regulierung ist die **EU-KI-VO (VO (EU) 2024/1689)**; ihre Hochrisiko-Pflichten wurden durch den **AI-Omnibus** (provisorische politische Einigung 7.5.2026, nach gescheitertem Trilog vom 28.4. und Bestätigung im Rat am 13.5.2026) auf den 2.12.2027 (Anhang III) bzw. 2.8.2028 (Anhang I) verschoben — Deutschland flankiert dies mit dem noch im Verfahren befindlichen **KI-MIG** (Bundesnetzagentur als zentrale Aufsicht).</li>
+<li>Die **AI Liability Directive wurde im Oktober 2025 förmlich zurückgezogen**; AI-Haftung läuft nun über die neue **Produkthaftungs-RL (EU) 2024/2853** (Umsetzung bis 9.12.2026) plus nationales Deliktsrecht.</li>
+<li>Die **USA** verfolgen einen deregulatorischen, exekutiv-getriebenen Kurs (Biden-EO 14110 aufgehoben; Trump-EO 14179; AI Action Plan 7/2025; EO 14365 v. 11.12.2025 gegen Landesgesetze) — **kein umfassendes Bundes-KI-Gesetz**; Bindewirkung entsteht v.a. durch Landesgesetze und sektorale Aufsicht.</li>
+
+<h2>Key Findings</h2>
+<p>1. <strong>Risikobasierter EU-Ansatz mit gestaffelter Geltung.</strong> Die KI-VO ist seit 1.8.2024 in Kraft, gilt aber stufenweise; Verbote (Art. 5) + KI-Kompetenz (Art. 4) seit 2.2.2025, GPAI seit 2.8.2025, Hochrisiko verschoben (16-Monats-Deferral für Anhang III, von 2.8.2026 auf 2.12.2027).</p>
+<p>2. <strong>Deregulierungswelle 2025/26 auf beiden Seiten des Atlantiks.</strong> EU: AI-Omnibus, Rückzug AILD/ePrivacy. USA: Trump-Kehrtwende. Selbst Colorado hat sein KI-Gesetz vor Inkrafttreten ersetzt.</p>
+<p>3. <strong>Berufsrecht ist „technologieneutral&quot;.</strong> BRAK-Leitfaden (12/2024) und DAV-Stellungnahme SN 32/2025 betonen: § 43a Abs. 2 BRAO (Verschwiegenheit), § 203 StGB und § 43e BRAO (IT-Outsourcing) sind der Maßstab; öffentlich zugängliche Tools (z. B. ChatGPT-Free) sind für Mandatsdaten tabu.</p>
+<p>4. <strong>Standards als Brücke.</strong> ISO/IEC 42001 (Managementsystem) und NIST AI RMF 1.0 sind die zentralen freiwilligen Rahmenwerke; harmonisierte EU-Normen für Hochrisiko fehlen noch (Mitgrund der Fristverschiebung).</p>
+
+<h2>Details</h2>
+
+<h3>A. EU-Ebene</h3>
+
+<p>#### A.1 Querschnitt KI</p>
+<p><strong>KI-Verordnung / AI Act</strong></p>
+<li>Offizieller Name: Verordnung (EU) 2024/1689 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz; Abk. KI-VO / AI Act.</li>
+<li>Fundstelle: ABl. L, 2024/1689, 12.7.2024; Interinstitutionelles Dossier 2021/0106(COD); ELI: data.europa.eu/eli/reg/2024/1689/oj. 113 Artikel, 13 Anhänge.</li>
+<li>Anwendungsbereich: horizontal, risikobasiert; adressiert Anbieter, Betreiber (Deployer), Importeure, Händler, Bevollmächtigte; extraterritoriale Reichweite (Art. 2). Vier Risikoklassen: unannehmbar (Art. 5, verboten), hoch (Art. 6 i.V.m. Anhang I/III), begrenzt (Transparenz, Art. 50), minimal. GPAI-Modelle gesondert (Kap. V), inkl. Modelle mit systemischem Risiko (Art. 55).</li>
+<li>Status/Daten: in Kraft seit 1.8.2024. Geltungsbeginne: 2.2.2025 (Verbote Art. 5 + KI-Kompetenz Art. 4); 2.8.2025 (GPAI, Governance, Sanktionsrahmen — bis 35 Mio. €/7 % weltweiter Umsatz, höher als bei der DSGVO); 2.8.2026 (urspr. Hochrisiko Anhang III, Großteil); 2.8.2027 (Hochrisiko Anhang I). Durch AI-Omnibus verschoben (s.u.).</li>
+<li>Verhältnis: lex generalis für KI; verweist auf sektorale Produktvorschriften (Anhang I: u.a. Maschinen-VO, Medizinprodukte-VO/MDR, Spielzeug, Funkanlagen); Schnittstelle zur DSGVO.</li>
+
+<p><strong>AI-Omnibus (Digital Omnibus on AI)</strong></p>
+<li>Vorschlag der Kommission 19.11.2025; nach gescheitertem Trilog vom 28.4.2026 wurde am 6./7.5.2026 eine provisorische politische Einigung zwischen Parlament und Rat erreicht, am 13.5.2026 durch die Mitgliedstaaten im Rat bestätigt; förmliche Annahme + Veröffentlichung im ABl. vor dem 2.8.2026 erwartet (Inkrafttreten 3 Tage nach Veröffentlichung).</li>
+<li>Inhalt: Verschiebung Hochrisiko-Pflichten — 2.12.2027 (Standalone Anhang III; 16-Monats-Deferral von urspr. 2.8.2026), 2.8.2028 (in Produkte eingebettet, Anhang I; von urspr. 2.8.2027); neues Verbot von „Nudifier&quot;-/CSAM-Systemen (Art. 5, ab 2.12.2026; Verstöße können mit bis zu 35 Mio. €/7 % des weltweiten Jahresumsatzes geahndet werden); Verschiebung Watermarking Art. 50(2) auf 2.12.2026 (Schonfrist von urspr. 6 auf 3 Monate verkürzt); nationale Sandboxes bis 2.8.2027; Erleichterungen für KMU/Small Mid-Caps; Klärung Doppelregulierung mit sektoralem Recht; gestärkte Rolle des AI Office. Achtung: bis zur förmlichen Annahme bleibt 2.8.2026 rechtlich aktive Frist.</li>
+<li>Status: „close to adoption&quot; (provisorische Einigung); Teil des größeren „Digital Omnibus&quot;-Pakets (auch GDPR, ePrivacy, NIS2, Data Act).</li>
+
+<p><strong>Europäische KI-Behördenstruktur</strong></p>
+<li>AI Office (innerhalb GD CONNECT der Kommission, operativ seit Februar 2024): exklusive Durchsetzung der GPAI-Pflichten (Kap. V).</li>
+<li>European AI Board, wissenschaftliches Gremium, Beratungsforum.</li>
+<li>Guidance: Leitlinien zu verbotenen Praktiken (4.2.2025); GPAI Code of Practice (Juli 2025, freiwillig, „presumption of conformity&quot;); Leitlinien zum Anwendungsbereich der GPAI-Pflichten; Entwurfsleitlinien zur Klassifizierung von Hochrisiko-Systemen (Annex I + III).</li>
+
+<p>#### A.2 Haftung</p>
+<p><strong>Produkthaftungs-Richtlinie (Neufassung)</strong></p>
+<li>RL (EU) 2024/2853 über die Haftung für fehlerhafte Produkte; Abk. PLD (New PLD); ABl. 18.11.2024; ELI: data.europa.eu/eli/dir/2024/2853.</li>
+<li>Anwendungsbereich: verschuldensunabhängige Haftung; „Produkt&quot; umfasst nun ausdrücklich Software, KI-Systeme, digitale Bauteile und SaaS-nahe Dienste; erweiterte Haftungsadressaten (auch Fulfilment-Dienstleister, ggf. Online-Plattformen); Beweiserleichterungen (Offenlegungspflicht, Fehlervermutung); Open-Source außerhalb kommerzieller Tätigkeit ausgenommen.</li>
+<li>Status: in Kraft 9.12.2024; Umsetzung durch Mitgliedstaaten bis 9.12.2026; gilt für Produkte, die nach dem 9.12.2026 in Verkehr gebracht werden; alte RL 85/374/EWG aufgehoben mit Wirkung 9.12.2026. Deutscher Referentenentwurf September 2025, fristgerechte Umsetzung 2026 erwartet.</li>
+<li>Verhältnis: zentrale zivilrechtliche AI-Haftungsquelle nach Rückzug der AILD; komplementär zum Cyber Resilience Act und zur KI-VO (Nichteinhaltung von Sicherheitsvorgaben → Fehlervermutung).</li>
+
+<p><strong>KI-Haftungsrichtlinie (zurückgezogen)</strong></p>
+<li>Vorschlag KOM 28.9.2022, 2022/0303(COD); Abk. AILD.</li>
+<li>Status: ZURÜCKGEZOGEN. Ankündigung im Kommissions-Arbeitsprogramm 2025 (11.2.2025), förmlicher Rückzug im ABl. C/2025/5423 vom 6.10.2025 („no foreseeable agreement&quot;). Keine EU-Harmonisierung der verschuldensabhängigen KI-Haftung; insoweit gilt nationales Deliktsrecht.</li>
+
+<p>#### A.3 Datenschutz</p>
+<p><strong>DSGVO/GDPR</strong></p>
+<li>VO (EU) 2016/679; in Kraft/anwendbar seit 25.5.2018.</li>
+<li>Relevanz für KI: Rechtsgrundlagen für Trainings-/Verarbeitungsvorgänge; besondere Schnittstelle Art. 22 (automatisierte Entscheidungen im Einzelfall inkl. Profiling); Betroffenenrechte, DSFA. AI-Omnibus enthält Anpassungen (u.a. Verarbeitung sensibler Daten zur Bias-Korrektur, „strikt erforderlich&quot;).</li>
+<li>Verhältnis: bleibt voll anwendbar neben KI-VO und Data Act.</li>
+
+<p>#### A.4 Plattformregulierung</p>
+<p><strong>Digital Services Act (DSA)</strong></p>
+<li>VO (EU) 2022/2065; ABl. 27.10.2022; in Kraft 16.11.2022; allgemeine Geltung ab 17.2.2024; VLOPs/VLOSEs ab 25.8.2023 (nach Benennung).</li>
+<li>Anwendungsbereich: gestufte Pflichten für Vermittlungsdienste; strengste Pflichten für Very Large Online Platforms / Search Engines (&gt;45 Mio. monatliche Nutzer EU): Risikobewertung (Art. 34), Risikominderung (Art. 35), Audits, Transparenz. Durchsetzung VLOPs durch Kommission; sonst nationale Digital Services Coordinators. Bußgelder bis 6 % weltw. Umsatz.</li>
+
+<p><strong>Digital Markets Act (DMA)</strong></p>
+<li>VO (EU) 2022/1925; ABl. 12.10.2022; in Kraft 1.11.2022; anwendbar 2.5.2023; Gatekeeper-Compliance seit 7.3.2024.</li>
+<li>Anwendungsbereich: „Gatekeeper&quot; mit „Core Platform Services&quot;; Ge-/Verbote (Art. 5–7) zur Marktoffenheit; Bußgelder bis 10 % (Wiederholung 20 %) weltw. Umsatz. Benannte Gatekeeper u.a. Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft, Booking.</li>
+
+<p>#### A.5 Daten</p>
+<p><strong>Data Act</strong></p>
+<li>VO (EU) 2023/2854; in Kraft 11.1.2024; allgemein anwendbar ab 12.9.2025 (einzelne Vorgaben gestaffelt bis 2026/2027). Zugang zu/Nutzung von Daten vernetzter Produkte (IoT), Wechsel von Cloud-Diensten, faire Vertragsklauseln; GDPR bleibt vorrangig für personenbezogene Daten.</li>
+
+<p><strong>Data Governance Act</strong></p>
+<li>VO (EU) 2022/868; in Kraft 23.6.2022; anwendbar seit 24.9.2023. Rahmen für Datenweiterverwendung (öffentlicher Sektor), Datenintermediäre, Datenaltruismus.</li>
+
+<p>#### A.6 Cybersecurity</p>
+<p><strong>NIS2-Richtlinie</strong></p>
+<li>RL (EU) 2022/2555; Umsetzungsfrist 17.10.2024. Erweiterter Adressatenkreis (wesentliche/wichtige Einrichtungen); Risikomanagement, Meldepflichten. (Deutsche Umsetzung s. B.4.)</li>
+
+<p><strong>Cyber Resilience Act (CRA)</strong></p>
+<li>VO (EU) 2024/2847; ABl. 20.11.2024; in Kraft 10.12.2024. Anwendungsbereich: „Produkte mit digitalen Elementen&quot; (Hard-/Software, IoT); CE-Kennzeichnung um Cybersicherheit erweitert. Geltung: Meldepflichten für aktiv ausgenutzte Schwachstellen ab 11.9.2026; Notifizierung Konformitätsstellen ab 11.6.2026; Hauptpflichten ab 11.12.2027. Unmittelbar geltend, keine nationale Umsetzung nötig. Bußgelder bis 15 Mio. €/2,5 % Umsatz. Durchführungs-VO (EU) 2025/2392 (28.11.2025) zur Produktkategorisierung.</li>
+
+<h3>B. Deutschland</h3>
+
+<p><strong>B.1 KI-MIG (Durchführungsgesetz zur KI-VO)</strong></p>
+<li>KI-Marktüberwachungs- und Innovationsförderungsgesetz; Abk. KI-MIG. Regierungsentwurf BT-Drs. 21/4594; Kabinettsbeschluss 11.2.2026; Sachverständigenanhörung Digitalausschuss 23.3.2026; Bundesrats-Stellungnahme BT-Drs. 21/5143 (1.4.2026).</li>
+<li>Inhalt/Status: noch im parlamentarischen Verfahren (nicht in Kraft). Benennt die Bundesnetzagentur (BNetzA) als zentrale Marktüberwachungs- und notifizierende Behörde; schafft das Koordinierungs- und Kompetenzzentrum KoKIVO (KI-Service-Desk, KI-Reallabor, einheitliche Rechtsauslegung); hybrider Ansatz unter Beibehaltung sektoraler Fachaufsicht. Keine neuen materiellen Pflichten (1:1-Durchführung). EU-Frist (2.8.2025) zur Behördenbenennung wurde verfehlt (Regierungsneubildung).</li>
+
+<p><strong>B.2 BDSG</strong></p>
+<li>Bundesdatenschutzgesetz; ergänzt die DSGVO (Öffnungsklauseln), u.a. Beschäftigtendatenschutz, behördliche Aufsicht.</li>
+
+<p><strong>B.3 Berufsrecht für Rechtsanwälte (Kernblock für den Nutzer)</strong></p>
+<li>BRAO § 43 (gewissenhafte Berufsausübung), § 43a Abs. 2 (Verschwiegenheit — absolut), § 43e (Inanspruchnahme von Dienstleistungen/IT-Outsourcing, Textform-Vertrag mit Verschwiegenheitsverpflichtung, sorgfältige Auswahl, Auslandsregelung Abs. 4), § 203 StGB (Offenbarungsverbot, flankierend), § 2 BORA.</li>
+<li>BRAK-Leitfaden „Hinweise zum Einsatz von künstlicher Intelligenz (KI)&quot; (Stand 12/2024): technologieneutrale Pflichten; eigenverantwortliche Endkontrolle des KI-Outputs; bei öffentlich zugänglichen Tools ist Eingabe von Mandatsdaten unzulässig (Anonymisierung erforderlich); EU-/DE-Serverstandorte bevorzugen.</li>
+<li>DAV-Initiativstellungnahme SN 32/2025: keine Pflicht zum KI-Einsatz; keine generelle Pflicht zur Vorab-Anonymisierung bei ordnungsgemäß nach § 43e verpflichteten Dienstleistern; „No-Training&quot;-Klausel, Lösch-/Exitregeln; kritische Prüfung der KI-Ergebnisse; keine generelle berufsrechtliche Pflicht zur Mandanteninformation (anders ggf. § 43e Abs. 5 bei mandatsbezogenem Einsatz).</li>
+<li>Querbezüge: Art. 4 KI-VO (KI-Kompetenzpflicht) gilt auch für Kanzleien; GeschGehG wird vom Berufsrecht überlagert; Urheberrecht bei Verarbeitung geschützter Fachliteratur.</li>
+
+<p><strong>B.4 Cybersecurity DE</strong></p>
+<li>NIS2-Umsetzungs- und Cybersicherheitsstärkungsgesetz (NIS2UmsuCG): vom Bundestag 13.11.2025 beschlossen, Bundesrat 21.11.2025, im BGBl. verkündet, in Kraft seit 6.12.2025 (BGBl. 2025 I Nr. 301). Ändert v.a. das BSIG (BSIG n.F.): „wichtige&quot;/„besonders wichtige Einrichtungen&quot;, Registrierungspflicht beim BSI, gestufte Meldepflichten (§ 32), Risikomanagement (§ 30), Geschäftsleiterhaftung (§ 38). Das Gesetz erweitert den Anwendungsbereich des bisherigen BSI-Gesetzes von ca. 4.500 KRITIS-Betreibern auf rund 29.500 Unternehmen in 18 Sektoren. Bußgelder bis 10 Mio. €/2 % Umsatz (§ 65). Ergänzend: KRITIS-Dachgesetz (in Kraft seit 17.3.2026, physische Resilienz).</li>
+
+<h3>C. USA</h3>
+
+<p><strong>C.1 Bundesebene — Executive Orders &amp; Strategie</strong></p>
+<li>EO 14148 „Initial Rescissions of Harmful Executive Orders and Actions&quot; (20.1.2025, 90 FR 8237): hebt Bidens EO 14110 („Safe, Secure, and Trustworthy Development and Use of AI&quot;, 30.10.2023) auf.</li>
+<li>EO 14179 „Removing Barriers to American Leadership in Artificial Intelligence&quot; (23.1.2025, 90 FR 8741, veröffentlicht 31.1.2025): Politik der „AI dominance&quot;; ordnet AI Action Plan an.</li>
+<li>„Winning the Race: America's AI Action Plan&quot; (23.7.2025): deregulatorisch; weist NIST an, das AI RMF um Bezüge zu „misinformation, DEI, climate change&quot; zu bereinigen; begleitet von EO 14319 „Preventing Woke AI in the Federal Government&quot; (Beschaffung).</li>
+<li>EO 14365 „Ensuring a National Policy Framework for Artificial Intelligence&quot; (11.12.2025, 90 FR 58499, veröffentlicht 16.12.2025): AI Litigation Task Force (DOJ) gegen Landesgesetze; Commerce-Evaluierung von State-Laws (90 Tage); Konditionierung diskretionärer Bundeszuschüsse (u.a. BEAD-Programm); FCC-Verfahren zu einem bundesweiten Reporting-/Disclosure-Standard und FTC-Policy-Statement zu Preemption. März 2026: White-House-„National Policy Framework: Legislative Recommendations&quot; an den Kongress (unverbindlich).</li>
+<li>Kein umfassendes Bundes-KI-Gesetz: Das State-AI-Moratorium wurde aus dem „One Big Beautiful Bill Act&quot; (7/2025) gestrichen; zahlreiche Entwürfe im 119. Kongress (u.a. Blackburns Diskussionsentwurf „TRUMP AMERICA AI Act&quot;, ~18.3.2026) nicht verabschiedet. Ansatz bleibt EO + sektoral + State-Law.</li>
+
+<p><strong>C.2 NIST-Rahmenwerke</strong></p>
+<li>AI RMF 1.0 (NIST.AI.100-1, Januar 2023): freiwillig; Funktionen Govern/Map/Measure/Manage. Trotz Revisionsauftrag aus dem AI Action Plan ist Stand Juni 2026 weiterhin Version 1.0 in Kraft (keine revidierte Fassung publiziert).</li>
+<li>Generative AI Profile (NIST AI 600-1, 26.7.2024; DOI 10.6028/NIST.AI.600-1): 12 GenAI-Risikokategorien; bietet mehr als 200 vorgeschlagene Maßnahmen über die zwölf Risikokategorien hinweg. Ergänzt durch ein agentisches Profil (NIST AI 100-5).</li>
+
+<p><strong>C.3 Bundesbehörden-Guidance</strong></p>
+<li>FTC: Section 5 FTC Act (15 U.S.C. 45) gegen unfaire/täuschende KI-Praktiken; EO 14365 ordnet FTC-Policy-Statement zu Preemption an.</li>
+<li>EEOC: Title VII/ADA/ADEA auf algorithmische Einstellungstools (frühere Biden-Guidance teils zurückgezogen; Statuten gelten fort).</li>
+<li>US Copyright Office: Bericht „Copyright and Artificial Intelligence&quot; Teil 1 (Digital Replicas, 7/2024), Teil 2 (Copyrightability, 1/2025), Teil 3 (Generative-AI-Training, Pre-Publication 9.5.2025).</li>
+
+<p><strong>C.4 Bundesstaatliche Gesetze (Auswahl)</strong></p>
+<li>Colorado AI Act (SB 24-205, 2024): erstes umfassendes State-Gesetz (Hochrisiko/algorithmische Diskriminierung). Inkrafttreten zunächst auf 30.6.2026 verschoben (SB 25B-004); Enforcement durch Bundesgericht am 27.4.2026 gestoppt (Klage xAI + DOJ-Intervention); durch SB 26-189 (unterzeichnet 14.5.2026) ersetzt — neues, schlankeres ADMT-Offenlegungsregime, wirksam 1.1.2027.</li>
+<li>Kalifornien: SB 53 „Transparency in Frontier Artificial Intelligence Act&quot; (wirksam 1.1.2026); AB 2013 (Trainingsdaten-Transparenz); SB 942 AI Transparency Act (durch AB 853 auf 2.8.2026 verschoben); CPPA-ADMT-Regeln.</li>
+<li>Texas: TRAIGA / Responsible AI Governance Act (HB 149), wirksam 1.1.2026 (verbotene „restricted purposes&quot;).</li>
+<li>Illinois: HB 3773 (Public Act 103-0804), Änderung des Human Rights Act (KI in Beschäftigung); BIPA als adjazenter Datenschutz.</li>
+<li>Datenschutz States: CCPA/CPRA (Kalifornien) u.a.</li>
+
+<h3>D. Internationale Standards (jurisdiktionsübergreifend)</h3>
+
+<p><strong>ISO/IEC (JTC 1/SC 42):</strong></p>
+<li>ISO/IEC 42001:2023 — AI-Managementsystem (zertifizierbar; Plan-Do-Check-Act).</li>
+<li>ISO/IEC 23894:2023 — AI Risk Management (Guidance).</li>
+<li>ISO/IEC 22989:2022 — Konzepte und Terminologie.</li>
+<li>ISO/IEC 23053:2022 — Framework für KI/ML-Systeme.</li>
+<li>ISO/IEC TR 24028:2020 — Trustworthiness-Überblick.</li>
+<li>Weitere: TR 24027 (Bias), TR 24029 (Robustheit neuronaler Netze), 25059 (Quality), 5338 (Lifecycle), 42005 (Impact Assessment), 38507 (Governance), 5259 (Datenqualität), 42006 (Zertifizierungsstellen).</li>
+
+<p><strong>NIST:</strong> AI RMF 1.0 + GenAI Profile (s. C.2).</p>
+
+<p><strong>Völker-/soft law:</strong></p>
+<li>Europarats-Rahmenkonvention zu KI und Menschenrechten, Demokratie, Rechtsstaatlichkeit (CETS Nr. 225): erster völkerrechtlich verbindlicher KI-Vertrag; angenommen 17.5.2024, zur Zeichnung aufgelegt in Vilnius 5.9.2024 (u.a. EU, USA, UK); Inkrafttreten nach 5 Ratifikationen; EU-Umsetzung über die KI-VO. EP-Zustimmung 2026 (A10-0007/2026).</li>
+<li>OECD AI Principles (2019, rev. Definition 8.11.2023).</li>
+<li>UNESCO Recommendation on the Ethics of AI (23.11.2021).</li>
+<li>G7 Hiroshima Process: International Guiding Principles + Code of Conduct (30.10.2023).</li>
+
+<h2>Recommendations (Vorschlag Lern-/Aufbaupfad für die Study-Roadmap)</h2>
+
+<p><strong>Cluster 1 — Fundament (zuerst):</strong> KI-VO (VO 2024/1689) als Anker; parallel DSGVO Art. 22 + Grundzüge. Verstehen: Risikoklassen, Adressaten, Definitionen, Zeitachse. Quelle: EUR-Lex-Volltext + Kommissions-Guidance.</p>
+
+<p><strong>Cluster 2 — Dynamik/Aktualität:</strong> AI-Omnibus (verschobene Fristen), KI-MIG (DE-Aufsicht), Colorado-Wende und EO 14365 (US). Diese zeigen den volatilen Status quo — regelmäßig nachverfolgen.</p>
+
+<p><strong>Cluster 3 — Haftung &amp; Produktrecht:</strong> Produkthaftungs-RL 2024/2853 (+ Rückzug AILD) und das Verhältnis KI-VO ↔ sektorale Produktvorschriften (MDR, Maschinen-VO) + CE-Kennzeichnung.</p>
+
+<p><strong>Cluster 4 — Adjacent (für den Nutzer besonders relevant):</strong> Anwaltliches Berufsrecht (BRAK-Leitfaden 12/2024 + DAV SN 32/2025 + §§ 43, 43a, 43e BRAO, § 203 StGB) — direkt praxisrelevant; danach Cyber (NIS2UmsuCG/BSIG, CRA) und Plattformrecht (DSA/DMA).</p>
+
+<p><strong>Cluster 5 — Standards &amp; International:</strong> ISO/IEC 42001 (Implementierungs-/Auditbasis) und NIST AI RMF als operative Brücken; CoE-Konvention/OECD/UNESCO als normativer Überbau.</p>
+
+<p><strong>Lernlogik:</strong> Cluster 1 ist Voraussetzung für alle anderen; Cluster 3 baut auf 1 auf; Cluster 4 verknüpft 1 (Art. 4 KI-VO) mit Berufs-/Datenschutzrecht; Standards (5) liefern die Compliance-Werkzeuge zu 1 und 3.</p>
+
+<p><strong>Schwellen, die die Roadmap ändern:</strong> (a) förmliche Annahme des AI-Omnibus → neue verbindliche Fristen; (b) Inkrafttreten KI-MIG → konkrete DE-Zuständigkeiten/Sanktionen; (c) Umsetzung PLD bis 12/2026 ins deutsche Recht; (d) etwaiges US-Bundesgesetz oder gerichtliche Klärung der Preemption-Frage.</p>
+
+<h2>Caveats</h2>
+<li>**Hohe Volatilität:** US-Bundeslage und einzelne State-Laws ändern sich schnell; mehrere Quellen sind Kanzlei-Blogs/Sekundärseiten — für Zitierzwecke stets Primärquellen (EUR-Lex, BGBl., Federal Register, NIST, ISO, Behörden) prüfen.</li>
+<li>**Status-Unsicherheit:** AI-Omnibus und KI-MIG sind zum Stand Juni 2026 noch nicht förmlich in Kraft; bis dahin gelten die ursprünglichen Fristen/Strukturen. Die NIST-AI-RMF-Revision ist angeordnet, aber noch nicht veröffentlicht.</li>
+<li>**Bewusst ohne Sekundärliteratur** (Aufsätze/Kommentare) entsprechend Nutzervorgabe; diese sind in einer späteren Vertiefungsstufe zu ergänzen.</li>
+<li>Einzelne ISO-Jahresangaben/Teilstände können je nach Ausgabe variieren; vor Verwendung gegen iso.org prüfen.</li>]]></content:encoded>
+  </item>
   <item>
     <title>2026-06-08-Starter Story - I Built Two Apps That Make $120K-Month</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
