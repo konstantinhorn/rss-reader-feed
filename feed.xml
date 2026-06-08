@@ -7,8 +7,70 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 00:09:19 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>2026-06-08-Tina Huang - My Full Claude Cowork Setup (steal my workflows!)</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">2026-06-08-Tina Huang - My Full Claude Cowork Setup (steal my workflows!).md</guid>
+    <pubDate>Sun, 07 Jun 2026 20:09:11 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>This video demonstrates how to set up a personalized Claude co-worker system that automates daily tasks, manages investments, and even autonomously builds software. It guides users through configuring Claude's operating instructions, creating a detailed Product Requirement Document (PRD) as a blueprint, and executing the build plan step-by-step without requiring coding knowledge. The system aims to enhance productivity by integrating various data sources and enabling continuous development.</p>
+
+<h2>Key Points</h2>
+<li>  **Meta-Prompt Configuration**: Set up Claude's core operating instructions to prioritize PRD-first building, encourage pushback, aggressive note-taking, and confirmation for irreversible actions.</li>
+<li>  **PRD as Blueprint**: A comprehensive Product Requirement Document (PRD) is crucial for outlining the entire Claude system, including desired projects, architecture, and a detailed build plan.</li>
+<li>  **Core Projects**: Initial projects include an Investment Dashboard, a Daily Digest (morning brief), custom skills (Today, Research, Prep), and an Autonomous Builder.</li>
+<li>  **Data Layer Foundation**: The first step in building is establishing a &quot;data lake&quot; by setting up folder structures and data pipelines to ensure a constant flow of fresh information.</li>
+<li>  **Autonomous Building**: An advanced feature allows Claude to autonomously build new software or workflows overnight based on approved PRDs, checking a pending folder at scheduled intervals.</li>
+<li>  **Local Agent Persistence**: For continuous operation, the video recommends using a VPS (like Hostinger) to host the local AI agent, preventing it from dying when the laptop sleeps.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Configuring Claude Co-work Settings</strong>: The video begins by detailing how to set up Claude's foundational operating instructions using a &quot;meta-prompt.&quot; This prompt defines Claude's personality and workflow, emphasizing the importance of creating a Product Requirement Document (PRD) before any build, encouraging critical pushback and clarification, aggressive note-taking for memory management, and confirming irreversible actions.</p>
+
+<p><strong>Crafting the Initial PRD</strong>: This section highlights the PRD as the blueprint for the entire Claude system. It explains how to generate a custom PRD that outlines specific projects like an investment dashboard, a daily digest, various custom skills (e.g., for research or meeting prep), and an autonomous builder. It also covers the system's architecture, including local folder structures and a detailed hour-by-hour build plan.</p>
+
+<p><strong>Setting Up the Project Environment</strong>: A quick guide is provided on how to manually create the initial folder structure and integrate it with the Claude Co-work application. This involves creating a new project in Claude linked to a local folder and then instructing Claude to begin building based on the previously defined PRD.</p>
+
+<p><strong>Execution of the Build Plan</strong>: The video walks through the practical execution, starting with establishing the &quot;data layer foundation&quot; (the &quot;data lake&quot;) in the first hour. Subsequent hours are dedicated to building core projects such as the Investment Mission Control Dashboard and the Morning Brief, along with the custom skills suite. It acknowledges that some minor user intervention (permissions, tweaks) may be necessary during the process.</p>
+
+<p><strong>Implementing the Autonomous Builder</strong>: An advanced, optional section details how to set up Claude to autonomously build new projects. This involves Claude suggesting ideas, drafting PRDs for user approval, and then automatically picking up approved PRDs from a &quot;pending&quot; folder to build them, moving them through &quot;in progress&quot; to &quot;done&quot; or &quot;failed&quot; folders, and logging its activities.</p>
+
+<h2>Key Takeaways</h2>
+<li>  **PRD-First Approach**: Always start with a detailed Product Requirement Document (PRD) to ensure Claude builds exactly what you intend, saving time and preventing misaligned outcomes.</li>
+<li>  **Memory Management is Crucial**: Configure Claude for aggressive note-taking and consider advanced memory systems as your projects grow to prevent information bloat and forgetting.</li>
+<li>  **Leverage Custom Skills**: Define specific skills for recurring tasks (e.g., research, meeting prep) to streamline your daily workflows and get on-demand information.</li>
+<li>  **Embrace Autonomous Building**: For continuous improvement and development, set up an autonomous builder to have Claude create new software or workflows overnight, expanding your system's capabilities.</li>
+<li>  **Persistent Hosting for Local Agents**: If you rely on local AI agents, consider using a Virtual Private Server (VPS) to ensure your agent runs 24/7 without interruption, maximizing its utility and progress.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>This video demonstrates how to set up a personalized Claude co-worker system that automates daily tasks, manages investments, and even autonomously builds software. It guides users through configuring Claude's operating instructions, creating a detailed Product Requirement Document (PRD) as a blueprint, and executing the build plan step-by-step without requiring coding knowledge. The system aims to enhance productivity by integrating various data sources and enabling continuous development.</p>
+
+<h2>Key Points</h2>
+<li>  **Meta-Prompt Configuration**: Set up Claude's core operating instructions to prioritize PRD-first building, encourage pushback, aggressive note-taking, and confirmation for irreversible actions.</li>
+<li>  **PRD as Blueprint**: A comprehensive Product Requirement Document (PRD) is crucial for outlining the entire Claude system, including desired projects, architecture, and a detailed build plan.</li>
+<li>  **Core Projects**: Initial projects include an Investment Dashboard, a Daily Digest (morning brief), custom skills (Today, Research, Prep), and an Autonomous Builder.</li>
+<li>  **Data Layer Foundation**: The first step in building is establishing a &quot;data lake&quot; by setting up folder structures and data pipelines to ensure a constant flow of fresh information.</li>
+<li>  **Autonomous Building**: An advanced feature allows Claude to autonomously build new software or workflows overnight based on approved PRDs, checking a pending folder at scheduled intervals.</li>
+<li>  **Local Agent Persistence**: For continuous operation, the video recommends using a VPS (like Hostinger) to host the local AI agent, preventing it from dying when the laptop sleeps.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Configuring Claude Co-work Settings</strong>: The video begins by detailing how to set up Claude's foundational operating instructions using a &quot;meta-prompt.&quot; This prompt defines Claude's personality and workflow, emphasizing the importance of creating a Product Requirement Document (PRD) before any build, encouraging critical pushback and clarification, aggressive note-taking for memory management, and confirming irreversible actions.</p>
+
+<p><strong>Crafting the Initial PRD</strong>: This section highlights the PRD as the blueprint for the entire Claude system. It explains how to generate a custom PRD that outlines specific projects like an investment dashboard, a daily digest, various custom skills (e.g., for research or meeting prep), and an autonomous builder. It also covers the system's architecture, including local folder structures and a detailed hour-by-hour build plan.</p>
+
+<p><strong>Setting Up the Project Environment</strong>: A quick guide is provided on how to manually create the initial folder structure and integrate it with the Claude Co-work application. This involves creating a new project in Claude linked to a local folder and then instructing Claude to begin building based on the previously defined PRD.</p>
+
+<p><strong>Execution of the Build Plan</strong>: The video walks through the practical execution, starting with establishing the &quot;data layer foundation&quot; (the &quot;data lake&quot;) in the first hour. Subsequent hours are dedicated to building core projects such as the Investment Mission Control Dashboard and the Morning Brief, along with the custom skills suite. It acknowledges that some minor user intervention (permissions, tweaks) may be necessary during the process.</p>
+
+<p><strong>Implementing the Autonomous Builder</strong>: An advanced, optional section details how to set up Claude to autonomously build new projects. This involves Claude suggesting ideas, drafting PRDs for user approval, and then automatically picking up approved PRDs from a &quot;pending&quot; folder to build them, moving them through &quot;in progress&quot; to &quot;done&quot; or &quot;failed&quot; folders, and logging its activities.</p>
+
+<h2>Key Takeaways</h2>
+<li>  **PRD-First Approach**: Always start with a detailed Product Requirement Document (PRD) to ensure Claude builds exactly what you intend, saving time and preventing misaligned outcomes.</li>
+<li>  **Memory Management is Crucial**: Configure Claude for aggressive note-taking and consider advanced memory systems as your projects grow to prevent information bloat and forgetting.</li>
+<li>  **Leverage Custom Skills**: Define specific skills for recurring tasks (e.g., research, meeting prep) to streamline your daily workflows and get on-demand information.</li>
+<li>  **Embrace Autonomous Building**: For continuous improvement and development, set up an autonomous builder to have Claude create new software or workflows overnight, expanding your system's capabilities.</li>
+<li>  **Persistent Hosting for Local Agents**: If you rely on local AI agents, consider using a Virtual Private Server (VPS) to ensure your agent runs 24/7 without interruption, maximizing its utility and progress.</li>]]></content:encoded>
+  </item>
   <item>
     <title>2026-06-08-BUILTSIMPLE - After 20 Years of Training, I'd Only Do 5 Things</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
