@@ -7,8 +7,74 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:37:35 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>2026-06-08-Matt Pocock - Learn anything with the -teach skill</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">2026-06-08-Matt Pocock - Learn anything with the -teach skill.md</guid>
+    <pubDate>Mon, 08 Jun 2026 14:37:24 -0400</pubDate>
+    <description><![CDATA[<h2>Overview</h2>
+<p>The speaker, drawing on a decade of teaching experience, has developed an AI &quot;teach skill&quot; designed to facilitate learning any topic. This stateful skill acts as a personalized tutor, dynamically generating interactive lessons, tracking progress, and providing tailored feedback, as demonstrated by the speaker successfully learning to solve a Rubik's Cube. The core philosophy centers on delivering content within the learner's &quot;Zone of Proximal Development&quot; to ensure effective and engaging education.</p>
+
+<h2>Key Points</h2>
+<li>The &quot;teach skill&quot; is fundamentally **stateful**, meaning it retains memory of past interactions and learning progress, mimicking an effective human teacher.</li>
+<li>It creates a structured learning environment, starting with a **mission** to understand the learner's goal and curating **high-trust resources** from the web.</li>
+<li>Lessons are delivered as rich, interactive **HTML files**, allowing for diagrams, quizzes, and even dynamic practice elements, tailored to the learner's specific needs.</li>
+<li>The skill tracks progress through **learning records** and provides **reference materials** like glossaries and cheat sheets, making learning more efficient and self-contained.</li>
+<li>A key pedagogical principle is the **Zone of Proximal Development (ZPD)**, ensuring lessons are perfectly challenging but not overwhelming, fostering knowledge, skills, and ultimately delegating to communities for &quot;wisdom.&quot;</li>
+<li>The skill has significant potential for **developer onboarding** to codebases and for **personal learning** of diverse skills, from coding languages to hobbies.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Stateful vs. Stateless Skills:</strong> The video begins by explaining the crucial distinction between stateless skills (which have no memory of previous interactions) and stateful skills (which retain and utilize past information). It emphasizes why effective teaching, and thus the &quot;teach skill,&quot; must be stateful to provide a personalized and progressive learning experience.</p>
+
+<p><strong>Installation and Usage:</strong> The speaker demonstrates how to install the &quot;teach skill&quot; from their skills repository and initiate a learning session by simply asking the coding agent to teach a specific topic in an empty directory.</p>
+
+<p><strong>Learning Workflow and Artifacts:</strong> The video details the structured learning process facilitated by the skill. This includes creating a &quot;mission&quot; to define the learner's objective, dynamically gathering and updating high-quality web resources, generating numbered, interactive HTML lessons, and maintaining &quot;learning records&quot; to track progress. It also covers the creation of reference materials like glossaries for jargon and cheat sheets for quick recall, as well as internal notes for the agent.</p>
+
+<p><strong>Underlying Teaching Philosophy:</strong> A core aspect discussed is the pedagogical model embedded in the skill. This involves a progression from acquiring &quot;knowledge&quot; (through resources) to developing &quot;skills&quot; (through interactive lessons) and finally fostering &quot;wisdom&quot; (by encouraging interaction with real-world communities). The concept of the &quot;Zone of Proximal Development&quot; (ZPD) is highlighted as central to tailoring lessons to be optimally challenging for the learner.</p>
+
+<p><strong>Dynamic Lesson Generation:</strong> The speaker provides a live demonstration of how the skill adapts to user feedback. When a learner reports difficulty with a specific concept, the agent diagnoses the issue and dynamically creates a new, highly focused, and interactive HTML lesson, complete with mental models and practice elements, to address that precise challenge.</p>
+
+<p><strong>Potential Applications and Broader Vision:</strong> The video explores practical applications, such as streamlining developer onboarding to complex codebases by providing personalized, on-demand documentation and training. It also touches on personal learning for hobbies and the broader implication that developers, by working with AI in its strong suit (coding), are uniquely positioned to pioneer new AI-powered tools and skills for the wider world.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Embrace Stateful AI for Complex Tasks:** For anything requiring memory, progression, or personalization (like teaching), stateful AI skills are far superior to stateless ones.</li>
+<li>**Personalized Learning is Here:** The &quot;teach skill&quot; demonstrates how AI can act as a highly effective, personalized tutor, adapting to individual learning styles and progress.</li>
+<li>**HTML for Richer Interaction:** Leveraging HTML for AI-generated lessons unlocks a new level of interactivity and expressiveness beyond plain text or Markdown, enhancing the learning experience significantly.</li>
+<li>**Focus on the Zone of Proximal Development (ZPD):** Effective teaching, whether human or AI-driven, should always aim to challenge learners optimally without overwhelming them.</li>
+<li>**Developers as AI Pioneers:** As developers are at the forefront of applying AI to coding (where AI excels), they are uniquely positioned to build and disseminate valuable AI-powered tools and skills across various domains.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Overview</h2>
+<p>The speaker, drawing on a decade of teaching experience, has developed an AI &quot;teach skill&quot; designed to facilitate learning any topic. This stateful skill acts as a personalized tutor, dynamically generating interactive lessons, tracking progress, and providing tailored feedback, as demonstrated by the speaker successfully learning to solve a Rubik's Cube. The core philosophy centers on delivering content within the learner's &quot;Zone of Proximal Development&quot; to ensure effective and engaging education.</p>
+
+<h2>Key Points</h2>
+<li>The &quot;teach skill&quot; is fundamentally **stateful**, meaning it retains memory of past interactions and learning progress, mimicking an effective human teacher.</li>
+<li>It creates a structured learning environment, starting with a **mission** to understand the learner's goal and curating **high-trust resources** from the web.</li>
+<li>Lessons are delivered as rich, interactive **HTML files**, allowing for diagrams, quizzes, and even dynamic practice elements, tailored to the learner's specific needs.</li>
+<li>The skill tracks progress through **learning records** and provides **reference materials** like glossaries and cheat sheets, making learning more efficient and self-contained.</li>
+<li>A key pedagogical principle is the **Zone of Proximal Development (ZPD)**, ensuring lessons are perfectly challenging but not overwhelming, fostering knowledge, skills, and ultimately delegating to communities for &quot;wisdom.&quot;</li>
+<li>The skill has significant potential for **developer onboarding** to codebases and for **personal learning** of diverse skills, from coding languages to hobbies.</li>
+
+<h2>Topics Covered</h2>
+<p><strong>Stateful vs. Stateless Skills:</strong> The video begins by explaining the crucial distinction between stateless skills (which have no memory of previous interactions) and stateful skills (which retain and utilize past information). It emphasizes why effective teaching, and thus the &quot;teach skill,&quot; must be stateful to provide a personalized and progressive learning experience.</p>
+
+<p><strong>Installation and Usage:</strong> The speaker demonstrates how to install the &quot;teach skill&quot; from their skills repository and initiate a learning session by simply asking the coding agent to teach a specific topic in an empty directory.</p>
+
+<p><strong>Learning Workflow and Artifacts:</strong> The video details the structured learning process facilitated by the skill. This includes creating a &quot;mission&quot; to define the learner's objective, dynamically gathering and updating high-quality web resources, generating numbered, interactive HTML lessons, and maintaining &quot;learning records&quot; to track progress. It also covers the creation of reference materials like glossaries for jargon and cheat sheets for quick recall, as well as internal notes for the agent.</p>
+
+<p><strong>Underlying Teaching Philosophy:</strong> A core aspect discussed is the pedagogical model embedded in the skill. This involves a progression from acquiring &quot;knowledge&quot; (through resources) to developing &quot;skills&quot; (through interactive lessons) and finally fostering &quot;wisdom&quot; (by encouraging interaction with real-world communities). The concept of the &quot;Zone of Proximal Development&quot; (ZPD) is highlighted as central to tailoring lessons to be optimally challenging for the learner.</p>
+
+<p><strong>Dynamic Lesson Generation:</strong> The speaker provides a live demonstration of how the skill adapts to user feedback. When a learner reports difficulty with a specific concept, the agent diagnoses the issue and dynamically creates a new, highly focused, and interactive HTML lesson, complete with mental models and practice elements, to address that precise challenge.</p>
+
+<p><strong>Potential Applications and Broader Vision:</strong> The video explores practical applications, such as streamlining developer onboarding to complex codebases by providing personalized, on-demand documentation and training. It also touches on personal learning for hobbies and the broader implication that developers, by working with AI in its strong suit (coding), are uniquely positioned to pioneer new AI-powered tools and skills for the wider world.</p>
+
+<h2>Key Takeaways</h2>
+<li>**Embrace Stateful AI for Complex Tasks:** For anything requiring memory, progression, or personalization (like teaching), stateful AI skills are far superior to stateless ones.</li>
+<li>**Personalized Learning is Here:** The &quot;teach skill&quot; demonstrates how AI can act as a highly effective, personalized tutor, adapting to individual learning styles and progress.</li>
+<li>**HTML for Richer Interaction:** Leveraging HTML for AI-generated lessons unlocks a new level of interactivity and expressiveness beyond plain text or Markdown, enhancing the learning experience significantly.</li>
+<li>**Focus on the Zone of Proximal Development (ZPD):** Effective teaching, whether human or AI-driven, should always aim to challenge learners optimally without overwhelming them.</li>
+<li>**Developers as AI Pioneers:** As developers are at the forefront of applying AI to coding (where AI excels), they are uniquely positioned to build and disseminate valuable AI-powered tools and skills across various domains.</li>]]></content:encoded>
+  </item>
   <item>
     <title>Aufstellung der zentralen Rechtsquellen und Standards zur KI-Regulierung (EU, Deutschland, USA) — Stand Juni 2026</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
