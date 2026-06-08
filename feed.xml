@@ -7,8 +7,64 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 19:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 19:45:30 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>2026-06-08-Jerad Hill - How I Manage My Entire Life with a Custom App I Built in Claude Code</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">2026-06-08-Jerad Hill - How I Manage My Entire Life with a Custom App I Built in Claude Code.md</guid>
+    <pubDate>Mon, 08 Jun 2026 15:45:21 -0400</pubDate>
+    <description><![CDATA[<h2>Context</h2>
+<p>The video showcases a custom, AI-powered productivity system built by the speaker in &quot;Claude Code&quot; to manage various aspects of his personal and professional life, addressing the limitations of off-the-shelf tools.</p>
+
+<h2>Key Points and Takeaways</h2>
+<li>  **Frictionless Information Capture:** The system prioritizes easy data entry through voice commands (Apple Watch, phone web app) and text input (keyboard shortcuts), leveraging AI to transcribe, filter, rewrite, and intelligently assign information to the correct categories.</li>
+<li>  **Comprehensive Integration:** It unifies tasks, routines, projects (both one-time and ongoing retainers), content creation, a personal CRM, and a knowledge library into a single, interconnected dashboard.</li>
+<li>  **AI-Enhanced Organization &amp; Retrieval:** AI automatically categorizes inputs, identifies action items for review, and allows natural language querying of all stored data, providing context-aware answers from the user's personal database.</li>
+<li>  **Proactive Management Features:** The system includes a &quot;Slipping&quot; area to highlight neglected projects or tasks, routine streak trackers, and a &quot;Resurfacing&quot; section that rotates journal entries, quotes, or notes flagged for review, ensuring important items are not forgotten.</li>
+<li>  **Customization &amp; Flexibility:** Designed to adapt to diverse personal and professional workflows, it offers a level of flexibility and integration that the speaker found impossible with standard project management or note-taking applications.</li>
+
+<h2>Topics Covered</h2>
+
+<li>  **Information Capture and Processing:** The system supports voice input via an Apple Watch shortcut or the phone's web app, which is transcribed and processed by AI to filter out filler words, rewrite for clarity, and automatically assign to relevant sections (e.g., tasks, journal entries). Text input is also available through keyboard shortcuts on the computer and phone.</li>
+<li>  **Dashboard and Daily Overview:** The &quot;Today&quot; screen displays top three tasks, integrates with Google Calendar, lists all open tasks sorted by due date, and features a &quot;Slipping&quot; area that notifies users if projects or tasks haven't been engaged with for a set period. It also includes a separate routine checklist with a streak tracker and a &quot;Resurfacing&quot; section that rotates journal entries, quotes, or notes flagged for review. Notifications are sent for new tasks and missed routine items.</li>
+<li>  **Core Modules:**</li>
+<p>    *   <strong>Tasks:</strong> Tasks can be connected to specific projects or life areas, assigned priorities, linked to content items, and set with reminders that send push notifications via the Pushover app. Recurring tasks are also supported.</p>
+<p>    *   <strong>Routines:</strong> Distinct from general tasks, routines can be scheduled for morning, afternoon, evening, or anytime, with options for notifications and tracking as ongoing streaks or for specific timeframes (e.g., 30-day challenges).</p>
+<p>    *   <strong>Projects &amp; Areas:</strong> The system differentiates between one-time projects (with milestones, linked tasks, templated checklists, and time tracking) and retainers (ongoing work with automatically recurring tasks and checklists). &quot;Areas&quot; provide a high-level organizational structure for personal life domains.</p>
+<p>    *   <strong>Content Management:</strong> A dedicated section for creators to track the status of videos, articles, podcasts, or newsletters, including outlines (supporting Markdown), associated tasks, and linking to specific channels or domains.</p>
+<p>    *   <strong>People (Personal CRM):</strong> A database to log important facts (birthdays, interests) and interactions with individuals, making it easy to recall personal details.</p>
+<p>    *   <strong>Library:</strong> A central hub for notes, journal entries, quotes, and book highlights. Notes can have sources and tags. Quotes include personal thoughts and a feed for revisiting ideas. Journal entries support voice input and photos. Book highlights are automatically pulled from Kindle and linked to individual quotes, allowing for further reflection.</p>
+<p>    *   <strong>Inventory (Planned Feature):</strong> A future module to track owned items with photos and details, useful for insurance purposes or managing possessions.</p>
+<p>    *   <strong>Domain Areas:</strong> The highest organizational level, categorizing all projects, tasks, and routines under specific life or business domains (e.g., &quot;Home,&quot; &quot;Hill Media Group&quot;).</p>
+<li>  **Development Process and Technology:** The system was built using &quot;Claude Code&quot; (an AI-assisted development platform). The process began with conceptualization and spec document creation in &quot;Claude chat,&quot; followed by UI/UX design in &quot;Claude Design.&quot; The project is hosted on ExCloud (NodeJS) with data stored in Superbase and is accessible via a secure web interface. It leverages the Anthropic API for AI-powered global search and natural language querying of all stored data within the system.</li>
+<li>  **Advice for Building Custom Systems:** The speaker advises starting by engaging with an AI (like &quot;Claude chat&quot;) to articulate current productivity challenges, frustrations, and desired outcomes. This conversation helps in defining a comprehensive specification document, which should then be carefully reviewed to ensure the proposed system genuinely solves problems rather than introducing new points of friction.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Context</h2>
+<p>The video showcases a custom, AI-powered productivity system built by the speaker in &quot;Claude Code&quot; to manage various aspects of his personal and professional life, addressing the limitations of off-the-shelf tools.</p>
+
+<h2>Key Points and Takeaways</h2>
+<li>  **Frictionless Information Capture:** The system prioritizes easy data entry through voice commands (Apple Watch, phone web app) and text input (keyboard shortcuts), leveraging AI to transcribe, filter, rewrite, and intelligently assign information to the correct categories.</li>
+<li>  **Comprehensive Integration:** It unifies tasks, routines, projects (both one-time and ongoing retainers), content creation, a personal CRM, and a knowledge library into a single, interconnected dashboard.</li>
+<li>  **AI-Enhanced Organization &amp; Retrieval:** AI automatically categorizes inputs, identifies action items for review, and allows natural language querying of all stored data, providing context-aware answers from the user's personal database.</li>
+<li>  **Proactive Management Features:** The system includes a &quot;Slipping&quot; area to highlight neglected projects or tasks, routine streak trackers, and a &quot;Resurfacing&quot; section that rotates journal entries, quotes, or notes flagged for review, ensuring important items are not forgotten.</li>
+<li>  **Customization &amp; Flexibility:** Designed to adapt to diverse personal and professional workflows, it offers a level of flexibility and integration that the speaker found impossible with standard project management or note-taking applications.</li>
+
+<h2>Topics Covered</h2>
+
+<li>  **Information Capture and Processing:** The system supports voice input via an Apple Watch shortcut or the phone's web app, which is transcribed and processed by AI to filter out filler words, rewrite for clarity, and automatically assign to relevant sections (e.g., tasks, journal entries). Text input is also available through keyboard shortcuts on the computer and phone.</li>
+<li>  **Dashboard and Daily Overview:** The &quot;Today&quot; screen displays top three tasks, integrates with Google Calendar, lists all open tasks sorted by due date, and features a &quot;Slipping&quot; area that notifies users if projects or tasks haven't been engaged with for a set period. It also includes a separate routine checklist with a streak tracker and a &quot;Resurfacing&quot; section that rotates journal entries, quotes, or notes flagged for review. Notifications are sent for new tasks and missed routine items.</li>
+<li>  **Core Modules:**</li>
+<p>    *   <strong>Tasks:</strong> Tasks can be connected to specific projects or life areas, assigned priorities, linked to content items, and set with reminders that send push notifications via the Pushover app. Recurring tasks are also supported.</p>
+<p>    *   <strong>Routines:</strong> Distinct from general tasks, routines can be scheduled for morning, afternoon, evening, or anytime, with options for notifications and tracking as ongoing streaks or for specific timeframes (e.g., 30-day challenges).</p>
+<p>    *   <strong>Projects &amp; Areas:</strong> The system differentiates between one-time projects (with milestones, linked tasks, templated checklists, and time tracking) and retainers (ongoing work with automatically recurring tasks and checklists). &quot;Areas&quot; provide a high-level organizational structure for personal life domains.</p>
+<p>    *   <strong>Content Management:</strong> A dedicated section for creators to track the status of videos, articles, podcasts, or newsletters, including outlines (supporting Markdown), associated tasks, and linking to specific channels or domains.</p>
+<p>    *   <strong>People (Personal CRM):</strong> A database to log important facts (birthdays, interests) and interactions with individuals, making it easy to recall personal details.</p>
+<p>    *   <strong>Library:</strong> A central hub for notes, journal entries, quotes, and book highlights. Notes can have sources and tags. Quotes include personal thoughts and a feed for revisiting ideas. Journal entries support voice input and photos. Book highlights are automatically pulled from Kindle and linked to individual quotes, allowing for further reflection.</p>
+<p>    *   <strong>Inventory (Planned Feature):</strong> A future module to track owned items with photos and details, useful for insurance purposes or managing possessions.</p>
+<p>    *   <strong>Domain Areas:</strong> The highest organizational level, categorizing all projects, tasks, and routines under specific life or business domains (e.g., &quot;Home,&quot; &quot;Hill Media Group&quot;).</p>
+<li>  **Development Process and Technology:** The system was built using &quot;Claude Code&quot; (an AI-assisted development platform). The process began with conceptualization and spec document creation in &quot;Claude chat,&quot; followed by UI/UX design in &quot;Claude Design.&quot; The project is hosted on ExCloud (NodeJS) with data stored in Superbase and is accessible via a secure web interface. It leverages the Anthropic API for AI-powered global search and natural language querying of all stored data within the system.</li>
+<li>  **Advice for Building Custom Systems:** The speaker advises starting by engaging with an AI (like &quot;Claude chat&quot;) to articulate current productivity challenges, frustrations, and desired outcomes. This conversation helps in defining a comprehensive specification document, which should then be carefully reviewed to ensure the proposed system genuinely solves problems rather than introducing new points of friction.</li>]]></content:encoded>
+  </item>
   <item>
     <title>2026-06-08-Matt Pocock - Learn anything with the -teach skill</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
