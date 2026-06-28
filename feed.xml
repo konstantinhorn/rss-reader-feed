@@ -7,161 +7,59 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Sun, 28 Jun 2026 07:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:41:37 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>2026-06-20-Howon Noh - How I Achieved Top 1% Health In 2 Years</title>
+    <title>2026-06-28-technik inside - Ist DAS die perfekte Klimaanlage für Mieter- – Midea PortaSplit im Test</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
-    <guid isPermaLink="false">2026-06-20-Howon Noh - How I Achieved Top 1% Health In 2 Years.md</guid>
-    <pubDate>Sat, 20 Jun 2026 18:32:04 +0200</pubDate>
+    <guid isPermaLink="false">2026-06-28-technik inside - Ist DAS die perfekte Klimaanlage für Mieter- – Midea PortaSplit im Test.md</guid>
+    <pubDate>Sun, 28 Jun 2026 19:41:29 +0200</pubDate>
     <description><![CDATA[<h2>Context</h2>
-<p>This video outlines eight key lessons and actionable strategies for optimizing health, moving beyond common misconceptions to achieve top-tier physical well-being.</p>
+<p>This video provides a detailed review and test of the Midea Porter Split mobile air conditioner, focusing on its performance, power consumption, noise levels, and usability in a rental apartment.</p>
 
 <h2>Key Points and Takeaways</h2>
-<li>**Train What You're Bad At:** Focus on improving your weakest areas across the five pillars of physical health (strength, muscular endurance, speed, cardiovascular endurance, flexibility) using a cyclical training approach.</li>
-<li>**Circadian Rhythm Controls Everything:** Align your daily activities, especially exercise, light exposure, and food timing, with your body's natural high-stress morning and low-stress evening pattern.</li>
-<li>**Don't Copy Protocols, Copy Methodology:** Instead of blindly following others' health routines, adopt a data-driven approach of measuring, interpreting, synthesizing, and iterating based on your own body's responses.</li>
-<li>**The Single Vector Problem:** Recognize that health is multivariate; avoid optimizing individual metrics in isolation, as fixing one area can negatively impact another if not viewed holistically.</li>
-<li>**Find Your Bottlenecks and Ignore Everything Else:** Prioritize and address your top three biggest health constraints for 90-day cycles, rather than attempting to optimize everything at once.</li>
-<li>**Discipline is Overrated (Build Systems):** Create systems and routines (e.g., meal prep, night-before tasks) that remove daily decisions and friction, making healthy habits sustainable.</li>
-<li>**You Will Not Do This Alone:** Your environment and the people around you are the biggest predictors of long-term health; seek accountability and surround yourself with supportive individuals.</li>
-<li>**The Robot Fallacy:** Design a health protocol that is adaptable to real life, prioritizing consistency and rhythm over theoretical perfection, even if it means making non-optimal choices occasionally.</li>
+<li>  **Effective Cooling:** The Midea Porter Split significantly cools rooms quickly (e.g., 4°C in 40 minutes for a 15m² room), making living spaces comfortable even in extreme heat.</li>
+<li>  **Energy Efficiency:** As a split unit, it's more efficient than monoblock ACs, consuming 250-850W on average, up to 1200W initially, but settling around 800W. Maintaining temperature uses 150-350W in Silent mode.</li>
+<li>  **Noise Level:** While powerful, the unit is generally too loud for sleeping, especially the outdoor unit in Silent mode (50 dB) and the irregular condensate pumping sound. Pre-cooling a room and then using a quiet fan for the night is recommended.</li>
+<li>  **Installation &amp; Portability:** Designed for rental apartments, it's relatively easy to install at windows or balconies using included accessories, without damaging the window. It weighs 45kg, but the outdoor unit is only 10kg.</li>
+<li>  **Multi-functional:** It can cool, heat (untested in video), and dehumidify effectively (e.g., 10% humidity reduction in an hour).</li>
+<li>  **Smart Features:** Controllable via remote (with iSense function as an external thermostat) and a comprehensive app (Midea Air), offering detailed settings, sleep mode, Eco mode, and energy monitoring. Home Assistant integration is possible via a custom component.</li>
+<li>  **Limitations:** The 2m hose and 1.8m power cable limit placement. The open window during operation poses a security risk. Cooling multiple, larger, or convoluted rooms effectively with one unit is challenging.</li>
 
 <h2>Topics Covered</h2>
-<p><strong>1. Train What You're Bad At</strong></p>
-<p>Most people focus on their strengths, neglecting their weaknesses in the five areas of physical health: strength, muscular endurance, speed, cardiovascular endurance, and flexibility. To improve overall health, identify your weakest areas (rate yourself 1-10) and prioritize them. Implement a 90-day rotational cycle (e.g., Winter for muscular endurance, Spring for VO2 max/speed, Summer for strength, Fall for cardiovascular endurance/HRV), while maintaining flexibility year-round with dynamic warm-ups and static stretching.</p>
-
-<p><strong>2. Your Circadian Rhythm Controls Everything</strong></p>
-<p>The circadian rhythm dictates hormone release, fat burning, mental sharpness, and recovery. Aim for high stress in the morning and low stress at night. Achieve this by:</p>
-<li>  **Exercise:** Train in the morning to align with your natural stress peak. On rest days, perform brief, intense activity (e.g., burpees, assault bike sprints) to briefly raise stress.</li>
-<li>  **Light:** Get morning sunlight (30-60 minutes after waking) to trigger the day's cycle. At night, dim lights and switch to warm tones 2 hours before bed.</li>
-<li>  **Food Timing:** Eat larger meals earlier in the day when your body processes nutrients more efficiently. Avoid large meals at least 5 hours before bed to prevent metabolic stress during recovery.</li>
-<li>  **Wind-down:** Follow a consistent evening routine including a shower 90 minutes before bed, preparing for the next day, stretching, journaling, meditating, and avoiding screens 15 minutes before bed.</li>
-
-<p><strong>3. Don't Copy Protocols, Copy Methodology</strong></p>
-<p>Blindly following someone else's health protocol can lead to negative outcomes because it's not tailored to your unique data. Instead, adopt the methodology of &quot;measure, interpret, synthesize, and iterate.&quot; Track your own metrics daily, quarterly, and yearly to understand your body's specific needs and responses.</p>
-
-<p><strong>4. The Single Vector Problem</strong></p>
-<p>Health is interconnected. Focusing on one metric or area (e.g., cardiovascular health without considering hormones) can lead to unintended negative consequences. It's crucial to integrate all your data to identify connections and understand how different aspects of your health influence each other.</p>
-
-<p><strong>5. Find Your Bottlenecks and Ignore Everything Else</strong></p>
-<p>Resist the urge to optimize everything simultaneously, as this creates noise and hinders progress. Identify your top three biggest health constraints (bottlenecks) and focus intensely on addressing them for 90-day periods. After 90 days, retest and identify the next set of bottlenecks. This focused approach leads to faster and more meaningful improvements.</p>
-
-<p><strong>6. Discipline is Overrated (Build Systems)</strong></p>
-<p>Sustainable health comes from building systems that remove daily decisions and friction, rather than relying solely on willpower.</p>
-<li>  **Meal Prep:** Categorize meals into &quot;fixed&quot; (daily, data-driven) and &quot;flexible.&quot; Dedicate 1.5 hours on Sunday to prep fixed meals and ingredients for the week.</li>
-<li>  **Night Before:** Establish a routine of running the dishwasher, refilling water, and writing a to-do list for the next day to free up morning decision-making capacity.</li>
-<li>  **Bulk Buying:** Purchase shelf-stable foods in bulk annually and consider grocery delivery to save time.</li>
-
-<p><strong>7. You Will Not Do This Alone</strong></p>
-<p>Your environment and social circle significantly influence your health outcomes. Surround yourself with people who encourage and hold you accountable for your health goals. Engaging in &quot;handshake deals&quot; or shared routines with partners can provide external motivation and reveal inconsistencies in your habits.</p>
-
-<p><strong>8. The Robot Fallacy</strong></p>
-<p>Avoid creating an &quot;optimally perfect&quot; protocol that is unsustainable for real life. Instead, build a flexible protocol that accounts for life's unpredictability. For example, if you get home late, wake up at your usual time, get morning light, do a lighter session, and take a short nap later, rather than sleeping in and disrupting your circadian rhythm. Prioritize consistent rhythms and adaptability over rigid perfection.</p>]]></description>
+<li>  **Pre-Air Conditioner Measures:** Before using the AC, the reviewer tried insulating pleats (insufficient) and UV film on the outside of windows. The UV film significantly reduced heat buildup, suggesting it can save energy for the AC.</li>
+<li>  **Midea Porter Split Overview:** The unit weighs 45 kg and comes with indoor/outdoor units, remote, window bracket, and sealing. It's larger than it appears in videos but has a sturdy design. Split units are more efficient than monoblocks, prevent negative pressure, and are suitable for apartments with gas meters.</li>
+<li>  **Installation Process:** Installation involves attaching a window sealing fabric with Velcro to the window frame and using a bracket for the outdoor unit (10kg, IPX4 certified). The outdoor unit is secured with a steel cable. The flat hose allows the window to close to 7-8 cm. Window sealing is recommended for efficiency. Operating with an open window poses a security risk, and the outdoor unit can be removed in about 2 minutes.</li>
+<li>  **Functions and Controls:** The Porter Split can cool, heat, and dehumidify. Settings are available on the unit, via remote (with iSense function as an external thermostat), or the Midea Air app. The app offers fine-tuned fan speed, a turbo mode, sleep mode (customizable temperature curve), an AI-powered Eco mode for efficiency, and an &quot;Ion function&quot; to reduce odors.</li>
+<li>  **Cooling Performance Test:** A 15m² room cooled from 26.7°C to 22.7°C in 40 minutes (4°C drop). Reaching 21°C took over 5 hours as the AC regulated down prematurely due to local temperature readings. In Turbo mode, it initially drew 1200W (at 35°C ambient), settling at 800W after an hour. Daily consumption was 4-5.8 kWh. To maintain temperature, it uses 150-350W in Silent mode. Cooling multiple, larger, or convoluted rooms effectively with one unit was largely ineffective. After cooling, the room temperature rose by 2°C in one hour and 4°C in five hours. Continuous operation on hot days is recommended.</li>
+<li>  **Noise Levels:** In Turbo mode, the indoor unit measured 56 dB and the outdoor unit 60 dB. In Silent mode (with 1% fan speed via app), the indoor unit was 47 dB and the outdoor unit 50 dB. The outdoor unit is noticeably louder than the indoor unit in Silent mode. An irregular condensate pumping noise occurs approximately every 30 minutes, which can be disruptive for sleep.</li>
+<li>  **Dehumidifying Performance:** In a 21m² living room, humidity dropped from 58% to 48% in one hour, consuming about 240W.</li>
+<li>  **Smart Home Integration:** The Midea Air app allows remote control and energy monitoring. Home Assistant integration is possible via the &quot;Midea AC LAN&quot; custom component (cloud-based, local control possible with a separate stick).</li>
+<li>  **Price and Availability:** The unit is currently hard to find, with prices varying significantly (e.g., €780 at hardware stores vs. €1200 online). Early purchase is advised.</li>
+<li>  **Conclusion:** The Midea Porter Split is effective for cooling and improving comfort in hot weather. Installation is straightforward, and electricity costs are manageable. However, its noise level, particularly the outdoor unit and condensate pumping, makes it unsuitable for sleeping with it running. Minor improvements like a temperature offset, quieter sleep mode, and a longer, replaceable power cable would enhance the product.</li>]]></description>
     <content:encoded><![CDATA[<h2>Context</h2>
-<p>This video outlines eight key lessons and actionable strategies for optimizing health, moving beyond common misconceptions to achieve top-tier physical well-being.</p>
+<p>This video provides a detailed review and test of the Midea Porter Split mobile air conditioner, focusing on its performance, power consumption, noise levels, and usability in a rental apartment.</p>
 
 <h2>Key Points and Takeaways</h2>
-<li>**Train What You're Bad At:** Focus on improving your weakest areas across the five pillars of physical health (strength, muscular endurance, speed, cardiovascular endurance, flexibility) using a cyclical training approach.</li>
-<li>**Circadian Rhythm Controls Everything:** Align your daily activities, especially exercise, light exposure, and food timing, with your body's natural high-stress morning and low-stress evening pattern.</li>
-<li>**Don't Copy Protocols, Copy Methodology:** Instead of blindly following others' health routines, adopt a data-driven approach of measuring, interpreting, synthesizing, and iterating based on your own body's responses.</li>
-<li>**The Single Vector Problem:** Recognize that health is multivariate; avoid optimizing individual metrics in isolation, as fixing one area can negatively impact another if not viewed holistically.</li>
-<li>**Find Your Bottlenecks and Ignore Everything Else:** Prioritize and address your top three biggest health constraints for 90-day cycles, rather than attempting to optimize everything at once.</li>
-<li>**Discipline is Overrated (Build Systems):** Create systems and routines (e.g., meal prep, night-before tasks) that remove daily decisions and friction, making healthy habits sustainable.</li>
-<li>**You Will Not Do This Alone:** Your environment and the people around you are the biggest predictors of long-term health; seek accountability and surround yourself with supportive individuals.</li>
-<li>**The Robot Fallacy:** Design a health protocol that is adaptable to real life, prioritizing consistency and rhythm over theoretical perfection, even if it means making non-optimal choices occasionally.</li>
+<li>  **Effective Cooling:** The Midea Porter Split significantly cools rooms quickly (e.g., 4°C in 40 minutes for a 15m² room), making living spaces comfortable even in extreme heat.</li>
+<li>  **Energy Efficiency:** As a split unit, it's more efficient than monoblock ACs, consuming 250-850W on average, up to 1200W initially, but settling around 800W. Maintaining temperature uses 150-350W in Silent mode.</li>
+<li>  **Noise Level:** While powerful, the unit is generally too loud for sleeping, especially the outdoor unit in Silent mode (50 dB) and the irregular condensate pumping sound. Pre-cooling a room and then using a quiet fan for the night is recommended.</li>
+<li>  **Installation &amp; Portability:** Designed for rental apartments, it's relatively easy to install at windows or balconies using included accessories, without damaging the window. It weighs 45kg, but the outdoor unit is only 10kg.</li>
+<li>  **Multi-functional:** It can cool, heat (untested in video), and dehumidify effectively (e.g., 10% humidity reduction in an hour).</li>
+<li>  **Smart Features:** Controllable via remote (with iSense function as an external thermostat) and a comprehensive app (Midea Air), offering detailed settings, sleep mode, Eco mode, and energy monitoring. Home Assistant integration is possible via a custom component.</li>
+<li>  **Limitations:** The 2m hose and 1.8m power cable limit placement. The open window during operation poses a security risk. Cooling multiple, larger, or convoluted rooms effectively with one unit is challenging.</li>
 
 <h2>Topics Covered</h2>
-<p><strong>1. Train What You're Bad At</strong></p>
-<p>Most people focus on their strengths, neglecting their weaknesses in the five areas of physical health: strength, muscular endurance, speed, cardiovascular endurance, and flexibility. To improve overall health, identify your weakest areas (rate yourself 1-10) and prioritize them. Implement a 90-day rotational cycle (e.g., Winter for muscular endurance, Spring for VO2 max/speed, Summer for strength, Fall for cardiovascular endurance/HRV), while maintaining flexibility year-round with dynamic warm-ups and static stretching.</p>
-
-<p><strong>2. Your Circadian Rhythm Controls Everything</strong></p>
-<p>The circadian rhythm dictates hormone release, fat burning, mental sharpness, and recovery. Aim for high stress in the morning and low stress at night. Achieve this by:</p>
-<li>  **Exercise:** Train in the morning to align with your natural stress peak. On rest days, perform brief, intense activity (e.g., burpees, assault bike sprints) to briefly raise stress.</li>
-<li>  **Light:** Get morning sunlight (30-60 minutes after waking) to trigger the day's cycle. At night, dim lights and switch to warm tones 2 hours before bed.</li>
-<li>  **Food Timing:** Eat larger meals earlier in the day when your body processes nutrients more efficiently. Avoid large meals at least 5 hours before bed to prevent metabolic stress during recovery.</li>
-<li>  **Wind-down:** Follow a consistent evening routine including a shower 90 minutes before bed, preparing for the next day, stretching, journaling, meditating, and avoiding screens 15 minutes before bed.</li>
-
-<p><strong>3. Don't Copy Protocols, Copy Methodology</strong></p>
-<p>Blindly following someone else's health protocol can lead to negative outcomes because it's not tailored to your unique data. Instead, adopt the methodology of &quot;measure, interpret, synthesize, and iterate.&quot; Track your own metrics daily, quarterly, and yearly to understand your body's specific needs and responses.</p>
-
-<p><strong>4. The Single Vector Problem</strong></p>
-<p>Health is interconnected. Focusing on one metric or area (e.g., cardiovascular health without considering hormones) can lead to unintended negative consequences. It's crucial to integrate all your data to identify connections and understand how different aspects of your health influence each other.</p>
-
-<p><strong>5. Find Your Bottlenecks and Ignore Everything Else</strong></p>
-<p>Resist the urge to optimize everything simultaneously, as this creates noise and hinders progress. Identify your top three biggest health constraints (bottlenecks) and focus intensely on addressing them for 90-day periods. After 90 days, retest and identify the next set of bottlenecks. This focused approach leads to faster and more meaningful improvements.</p>
-
-<p><strong>6. Discipline is Overrated (Build Systems)</strong></p>
-<p>Sustainable health comes from building systems that remove daily decisions and friction, rather than relying solely on willpower.</p>
-<li>  **Meal Prep:** Categorize meals into &quot;fixed&quot; (daily, data-driven) and &quot;flexible.&quot; Dedicate 1.5 hours on Sunday to prep fixed meals and ingredients for the week.</li>
-<li>  **Night Before:** Establish a routine of running the dishwasher, refilling water, and writing a to-do list for the next day to free up morning decision-making capacity.</li>
-<li>  **Bulk Buying:** Purchase shelf-stable foods in bulk annually and consider grocery delivery to save time.</li>
-
-<p><strong>7. You Will Not Do This Alone</strong></p>
-<p>Your environment and social circle significantly influence your health outcomes. Surround yourself with people who encourage and hold you accountable for your health goals. Engaging in &quot;handshake deals&quot; or shared routines with partners can provide external motivation and reveal inconsistencies in your habits.</p>
-
-<p><strong>8. The Robot Fallacy</strong></p>
-<p>Avoid creating an &quot;optimally perfect&quot; protocol that is unsustainable for real life. Instead, build a flexible protocol that accounts for life's unpredictability. For example, if you get home late, wake up at your usual time, get morning light, do a lighter session, and take a short nap later, rather than sleeping in and disrupting your circadian rhythm. Prioritize consistent rhythms and adaptability over rigid perfection.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>2026-06-18-Ali Abdaal - The 3 Skills I'd Learn In the Age of AI</title>
-    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
-    <guid isPermaLink="false">2026-06-18-Ali Abdaal - The 3 Skills I'd Learn In the Age of AI.md</guid>
-    <pubDate>Thu, 18 Jun 2026 23:59:10 +0200</pubDate>
-    <description><![CDATA[<h2>Context</h2>
-<p>This video discusses three essential skills individuals should cultivate to succeed and remain valuable in a future shaped by artificial intelligence.</p>
-
-<h2>Key Points and Takeaways</h2>
-<li>  **Master AI Usage:** Actively learn and apply AI tools to stay competitive and leverage new technologies effectively.</li>
-<li>  **Prioritize Revenue Generation:** Focus on roles and activities that directly contribute to making money for a business, as these will be less susceptible to AI automation.</li>
-<li>  **Cultivate a Personal Brand:** Build a strong professional reputation, both through word-of-mouth and online content creation, to be recognized as a thought leader and go-to expert in your field.</li>
-
-<h2>Topics Covered</h2>
-<li>  **Proficiency in AI Tools:** The video emphasizes the importance of staying current with AI developments, understanding various tools (e.g., Claude, Perplexity), and actively applying them to work or business. This involves continuous learning, following industry conversations, and watching expert talks to grasp how AI can be integrated for practical benefit, much like early adoption of the internet.</li>
-<li>  **Proximity to Revenue Generation:** It highlights that jobs can be categorized into making money (winning work), doing the work, and administration. The video argues that AI will increasingly automate &quot;doing the work&quot; and &quot;administration,&quot; making roles directly involved in generating revenue (e.g., sales, marketing, client success that increases customer retention and lifetime value) more secure and valuable. Individuals should strive to become &quot;profit centers&quot; rather than &quot;cost centers&quot; by demonstrating a clear link between their efforts and the business's financial success.</li>
-<li>  **Developing a Personal Brand:** The content stresses the value of being known for your competence and contributions. This includes building an internal reputation within your company (stakeholder management, visibility) and an external one through online content (e.g., LinkedIn posts, newsletters, YouTube videos). By sharing knowledge and experiences, individuals can establish themselves as thought leaders in their niche, influencing human decisions regarding resource allocation and opportunities in an AI-driven landscape. This &quot;teaching&quot; approach builds credibility and makes you the go-to person for specific expertise.</li>]]></description>
-    <content:encoded><![CDATA[<h2>Context</h2>
-<p>This video discusses three essential skills individuals should cultivate to succeed and remain valuable in a future shaped by artificial intelligence.</p>
-
-<h2>Key Points and Takeaways</h2>
-<li>  **Master AI Usage:** Actively learn and apply AI tools to stay competitive and leverage new technologies effectively.</li>
-<li>  **Prioritize Revenue Generation:** Focus on roles and activities that directly contribute to making money for a business, as these will be less susceptible to AI automation.</li>
-<li>  **Cultivate a Personal Brand:** Build a strong professional reputation, both through word-of-mouth and online content creation, to be recognized as a thought leader and go-to expert in your field.</li>
-
-<h2>Topics Covered</h2>
-<li>  **Proficiency in AI Tools:** The video emphasizes the importance of staying current with AI developments, understanding various tools (e.g., Claude, Perplexity), and actively applying them to work or business. This involves continuous learning, following industry conversations, and watching expert talks to grasp how AI can be integrated for practical benefit, much like early adoption of the internet.</li>
-<li>  **Proximity to Revenue Generation:** It highlights that jobs can be categorized into making money (winning work), doing the work, and administration. The video argues that AI will increasingly automate &quot;doing the work&quot; and &quot;administration,&quot; making roles directly involved in generating revenue (e.g., sales, marketing, client success that increases customer retention and lifetime value) more secure and valuable. Individuals should strive to become &quot;profit centers&quot; rather than &quot;cost centers&quot; by demonstrating a clear link between their efforts and the business's financial success.</li>
-<li>  **Developing a Personal Brand:** The content stresses the value of being known for your competence and contributions. This includes building an internal reputation within your company (stakeholder management, visibility) and an external one through online content (e.g., LinkedIn posts, newsletters, YouTube videos). By sharing knowledge and experiences, individuals can establish themselves as thought leaders in their niche, influencing human decisions regarding resource allocation and opportunities in an AI-driven landscape. This &quot;teaching&quot; approach builds credibility and makes you the go-to person for specific expertise.</li>]]></content:encoded>
-  </item>
-  <item>
-    <title>2026-06-16-Starter Story - The Underdog- From $10-hr to $1.5M-Year</title>
-    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
-    <guid isPermaLink="false">2026-06-16-Starter Story - The Underdog- From $10-hr to $1.5M-Year.md</guid>
-    <pubDate>Tue, 16 Jun 2026 23:11:11 +0200</pubDate>
-    <description><![CDATA[<h2>Context</h2>
-<p>Mark Lou shares his journey and actionable strategies for building a successful solopreneur business after numerous failures, emphasizing a lean and rapid approach to product development and market validation.</p>
-
-<h2>Key Points and Takeaways</h2>
-<li>  **Prioritize validation and sales over building:** Before investing significant time in development, ensure there's a problem to solve and a willingness to pay. This can involve cold outreach to validate ideas and even secure payment before the product is fully built.</li>
-<li>  **Adopt a &quot;solopreneur&quot; mindset:** Avoid traditional startup paths like raising capital or hiring employees. Focus on individual output, rapid iteration, and maintaining full control over projects.</li>
-<li>  **Embrace rapid iteration and &quot;small bets&quot;:** Launch minimal viable products quickly rather than spending months on a single idea. Each project should be treated as a small, testable bet.</li>
-<li>  **Develop &quot;painkiller&quot; apps with clear monetization:** Create solutions for known, acute problems that users actively seek and are willing to pay for, as opposed to &quot;vitamin&quot; (nice-to-have) apps. Ensure products have a paywall.</li>
-<li>  **Build reusable components:** Create foundational codebases or templates (e.g., &quot;ShipFast&quot;) that can be reused across multiple projects to significantly accelerate development and launch speed.</li>
-<li>  **Build and share in public:** Document and share your entrepreneurial journey and projects publicly to gain an audience, gather feedback, and create a platform for future launches. Utilize platforms where you are comfortable sharing (e.g., Twitter, TikTok, Instagram).</li>
-<li>  **Persistence is key:** View every failure not as an end, but as a learning experience or a &quot;frustration for a future success.&quot; Success often comes to those who don't quit before they win.</li>
-<li>  **Start now and ship fast:** Overcome overthinking and analysis paralysis by taking the first step and launching the smallest possible version of your idea quickly.</li>]]></description>
-    <content:encoded><![CDATA[<h2>Context</h2>
-<p>Mark Lou shares his journey and actionable strategies for building a successful solopreneur business after numerous failures, emphasizing a lean and rapid approach to product development and market validation.</p>
-
-<h2>Key Points and Takeaways</h2>
-<li>  **Prioritize validation and sales over building:** Before investing significant time in development, ensure there's a problem to solve and a willingness to pay. This can involve cold outreach to validate ideas and even secure payment before the product is fully built.</li>
-<li>  **Adopt a &quot;solopreneur&quot; mindset:** Avoid traditional startup paths like raising capital or hiring employees. Focus on individual output, rapid iteration, and maintaining full control over projects.</li>
-<li>  **Embrace rapid iteration and &quot;small bets&quot;:** Launch minimal viable products quickly rather than spending months on a single idea. Each project should be treated as a small, testable bet.</li>
-<li>  **Develop &quot;painkiller&quot; apps with clear monetization:** Create solutions for known, acute problems that users actively seek and are willing to pay for, as opposed to &quot;vitamin&quot; (nice-to-have) apps. Ensure products have a paywall.</li>
-<li>  **Build reusable components:** Create foundational codebases or templates (e.g., &quot;ShipFast&quot;) that can be reused across multiple projects to significantly accelerate development and launch speed.</li>
-<li>  **Build and share in public:** Document and share your entrepreneurial journey and projects publicly to gain an audience, gather feedback, and create a platform for future launches. Utilize platforms where you are comfortable sharing (e.g., Twitter, TikTok, Instagram).</li>
-<li>  **Persistence is key:** View every failure not as an end, but as a learning experience or a &quot;frustration for a future success.&quot; Success often comes to those who don't quit before they win.</li>
-<li>  **Start now and ship fast:** Overcome overthinking and analysis paralysis by taking the first step and launching the smallest possible version of your idea quickly.</li>]]></content:encoded>
+<li>  **Pre-Air Conditioner Measures:** Before using the AC, the reviewer tried insulating pleats (insufficient) and UV film on the outside of windows. The UV film significantly reduced heat buildup, suggesting it can save energy for the AC.</li>
+<li>  **Midea Porter Split Overview:** The unit weighs 45 kg and comes with indoor/outdoor units, remote, window bracket, and sealing. It's larger than it appears in videos but has a sturdy design. Split units are more efficient than monoblocks, prevent negative pressure, and are suitable for apartments with gas meters.</li>
+<li>  **Installation Process:** Installation involves attaching a window sealing fabric with Velcro to the window frame and using a bracket for the outdoor unit (10kg, IPX4 certified). The outdoor unit is secured with a steel cable. The flat hose allows the window to close to 7-8 cm. Window sealing is recommended for efficiency. Operating with an open window poses a security risk, and the outdoor unit can be removed in about 2 minutes.</li>
+<li>  **Functions and Controls:** The Porter Split can cool, heat, and dehumidify. Settings are available on the unit, via remote (with iSense function as an external thermostat), or the Midea Air app. The app offers fine-tuned fan speed, a turbo mode, sleep mode (customizable temperature curve), an AI-powered Eco mode for efficiency, and an &quot;Ion function&quot; to reduce odors.</li>
+<li>  **Cooling Performance Test:** A 15m² room cooled from 26.7°C to 22.7°C in 40 minutes (4°C drop). Reaching 21°C took over 5 hours as the AC regulated down prematurely due to local temperature readings. In Turbo mode, it initially drew 1200W (at 35°C ambient), settling at 800W after an hour. Daily consumption was 4-5.8 kWh. To maintain temperature, it uses 150-350W in Silent mode. Cooling multiple, larger, or convoluted rooms effectively with one unit was largely ineffective. After cooling, the room temperature rose by 2°C in one hour and 4°C in five hours. Continuous operation on hot days is recommended.</li>
+<li>  **Noise Levels:** In Turbo mode, the indoor unit measured 56 dB and the outdoor unit 60 dB. In Silent mode (with 1% fan speed via app), the indoor unit was 47 dB and the outdoor unit 50 dB. The outdoor unit is noticeably louder than the indoor unit in Silent mode. An irregular condensate pumping noise occurs approximately every 30 minutes, which can be disruptive for sleep.</li>
+<li>  **Dehumidifying Performance:** In a 21m² living room, humidity dropped from 58% to 48% in one hour, consuming about 240W.</li>
+<li>  **Smart Home Integration:** The Midea Air app allows remote control and energy monitoring. Home Assistant integration is possible via the &quot;Midea AC LAN&quot; custom component (cloud-based, local control possible with a separate stick).</li>
+<li>  **Price and Availability:** The unit is currently hard to find, with prices varying significantly (e.g., €780 at hardware stores vs. €1200 online). Early purchase is advised.</li>
+<li>  **Conclusion:** The Midea Porter Split is effective for cooling and improving comfort in hot weather. Installation is straightforward, and electricity costs are manageable. However, its noise level, particularly the outdoor unit and condensate pumping, makes it unsuitable for sleeping with it running. Minor improvements like a temperature offset, quieter sleep mode, and a longer, replaceable power cable would enhance the product.</li>]]></content:encoded>
   </item>
   <item>
     <title>Aufstellung der zentralen Rechtsquellen und Standards zur KI-Regulierung (EU, Deutschland, USA) — Stand Juni 2026</title>
