@@ -7,8 +7,46 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Sun, 12 Jul 2026 06:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 12:44:12 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>2026-07-12-Nick Saraev - Fable 5 Is Back. Use It To Print With These $10K Websites</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">2026-07-12-Nick Saraev - Fable 5 Is Back. Use It To Print With These $10K Websites.md</guid>
+    <pubDate>Sun, 12 Jul 2026 14:44:02 +0200</pubDate>
+    <description><![CDATA[<h2>Context</h2>
+<p>This video demonstrates how to leverage Claude Fable 5 to autonomously design and host a multitude of progressively improving, high-quality websites.</p>
+
+<h2>Key Points and Takeaways</h2>
+<li>The core principle for generating advanced websites with Fable 5 is to design a comprehensive prompt that guides the AI, rather than attempting to design the sites manually.</li>
+<li>Fable 5 can autonomously create diverse websites incorporating advanced visual techniques like 3D tactics, complex animations, unique color palettes, and novel font styles.</li>
+<li>A well-structured prompt should define the number of websites, the desired aesthetic and technical complexity, specify tools for asset generation (e.g., Pinterest for inspiration, Higsfield MCP for image/video pipelines), and include instructions for hosting (e.g., Netlify) and iterative design passes.</li>
+<li>The model can parallelize work, generating multiple distinct websites rapidly (e.g., 25 sites in 20-25 minutes).</li>
+<li>For verification, users of terminal environments can provide Fable access to tools like Chrome DevTools MCP, while the Claude desktop app offers built-in visualization and verification.</li>
+
+<h2>Topics Covered</h2>
+<li>**The &quot;Design the Prompt&quot; Philosophy:** The video emphasizes that the key to unlocking Fable's web design capabilities is to articulate a clear desire and give the model autonomy, rather than micromanaging the design process. The model's inherent &quot;taste&quot; often surpasses human input.</li>
+<li>**Detailed Prompt Structure:** The speaker shares the exact prompt used, which instructs Fable to build 25 distinct websites, showcasing its extreme capabilities. It specifies advanced visual techniques (high quality 3D tactics, otherworldly beautiful animations, exceptional color palettes, novel interesting font styles), suggests workflows (downloading from Pinterest, generating with GBT image 2, animating with Higsfield), grants total creative freedom, and mandates hosting on Netlify with a `/guide` route for instructions, and at least three iteration passes per site.</li>
+<li>**Autonomous Execution and Tooling:** Fable 5 utilizes distinct sub-agents to parallelize work. It can be given access to external tools like Pinterest for design inspiration and Higsfield MCP for generating high-quality, stylized image and video assets, including custom fonts and game elements.</li>
+<li>**Examples of AI-Generated Websites:** The video showcases a variety of impressive sites created by Fable, including those with 3D particle swarms, integrated mini-games, variable font weights, real-time shaders, audio-reactive elements, procedural 3D cityscapes, nostalgic designs, and AI-generated 3D product models.</li>
+<li>**Verification and Deployment:** The process includes instructing Fable to host the completed websites on a service like Netlify. Verification can be done through built-in features of the Claude desktop app or by providing access to tools like Chrome DevTools MCP in terminal environments.</li>]]></description>
+    <content:encoded><![CDATA[<h2>Context</h2>
+<p>This video demonstrates how to leverage Claude Fable 5 to autonomously design and host a multitude of progressively improving, high-quality websites.</p>
+
+<h2>Key Points and Takeaways</h2>
+<li>The core principle for generating advanced websites with Fable 5 is to design a comprehensive prompt that guides the AI, rather than attempting to design the sites manually.</li>
+<li>Fable 5 can autonomously create diverse websites incorporating advanced visual techniques like 3D tactics, complex animations, unique color palettes, and novel font styles.</li>
+<li>A well-structured prompt should define the number of websites, the desired aesthetic and technical complexity, specify tools for asset generation (e.g., Pinterest for inspiration, Higsfield MCP for image/video pipelines), and include instructions for hosting (e.g., Netlify) and iterative design passes.</li>
+<li>The model can parallelize work, generating multiple distinct websites rapidly (e.g., 25 sites in 20-25 minutes).</li>
+<li>For verification, users of terminal environments can provide Fable access to tools like Chrome DevTools MCP, while the Claude desktop app offers built-in visualization and verification.</li>
+
+<h2>Topics Covered</h2>
+<li>**The &quot;Design the Prompt&quot; Philosophy:** The video emphasizes that the key to unlocking Fable's web design capabilities is to articulate a clear desire and give the model autonomy, rather than micromanaging the design process. The model's inherent &quot;taste&quot; often surpasses human input.</li>
+<li>**Detailed Prompt Structure:** The speaker shares the exact prompt used, which instructs Fable to build 25 distinct websites, showcasing its extreme capabilities. It specifies advanced visual techniques (high quality 3D tactics, otherworldly beautiful animations, exceptional color palettes, novel interesting font styles), suggests workflows (downloading from Pinterest, generating with GBT image 2, animating with Higsfield), grants total creative freedom, and mandates hosting on Netlify with a `/guide` route for instructions, and at least three iteration passes per site.</li>
+<li>**Autonomous Execution and Tooling:** Fable 5 utilizes distinct sub-agents to parallelize work. It can be given access to external tools like Pinterest for design inspiration and Higsfield MCP for generating high-quality, stylized image and video assets, including custom fonts and game elements.</li>
+<li>**Examples of AI-Generated Websites:** The video showcases a variety of impressive sites created by Fable, including those with 3D particle swarms, integrated mini-games, variable font weights, real-time shaders, audio-reactive elements, procedural 3D cityscapes, nostalgic designs, and AI-generated 3D product models.</li>
+<li>**Verification and Deployment:** The process includes instructing Fable to host the completed websites on a service like Netlify. Verification can be done through built-in features of the Claude desktop app or by providing access to tools like Chrome DevTools MCP in terminal environments.</li>]]></content:encoded>
+  </item>
   <item>
     <title>2026-07-08-Mario Lochner - “Das ist einmalig”- So schlimm ist die Aktienblase wirklich -- Christian Fuchs mit Klartext</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
