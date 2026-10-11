@@ -7,8 +7,68 @@
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
     <description>Artikel aus der persönlichen Leseliste</description>
     <language>de</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:07:14 +0000</lastBuildDate>
     <atom:link href="https://konstantinhorn.github.io/rss-reader-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>2026-10-11-Nick Saraev - AI HARNESS- An In-Depth Explanation</title>
+    <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
+    <guid isPermaLink="false">2026-10-11-Nick Saraev - AI HARNESS- An In-Depth Explanation.md</guid>
+    <pubDate>Sun, 11 Oct 2026 15:07:06 +0200</pubDate>
+    <description><![CDATA[<h2>Context</h2>
+<p>This video explains AI harnesses, which are the essential infrastructure that enables artificial intelligence models to perform real-world tasks and generate value beyond just text prediction.</p>
+
+<h2>Key Points and Takeaways</h2>
+<li>AI harnesses are wrappers around core AI models (like Claude or ChatGPT) that enable them to perform real work, not just generate text.</li>
+<li>The performance of an AI model is significantly influenced by the harness it operates within; a good harness can make even a mediocre model effective.</li>
+<li>AI progress occurs in both the underlying intelligence of models and the sophistication of their harnesses.</li>
+<li>Key components of an AI harness include Context, Memory, Tools, Verification, and Permissions, each addressing limitations of raw AI models.</li>
+<li>Future advancements in AI agent development will focus on multi-agent collaboration, parallel execution of tasks, and evolutionary frameworks that self-improve based on performance.</li>
+
+<h2>Topics Covered</h2>
+
+<p><strong>AI Models vs. AI Harnesses</strong></p>
+<p>AI models are described as &quot;brains in a jar,&quot; initially trained to predict text without memory, external awareness, or the ability to act. AI harnesses are the infrastructure (like a saddle for a powerful horse) built around these models to guide them towards useful goals, enabling them to interact with the real world and perform complex tasks. Examples include Claude Code (Anthropic) and Codex (OpenAI), which are wrappers around their respective model families.</p>
+
+<p><strong>Components of an AI Harness</strong></p>
+<p>1.  <strong>Context:</strong> Provides the model with initial information about the project, file structure, recent changes, and available tools, allowing it to make relevant decisions. This information is typically hidden from the user but accessible to the model, often through files like <code>CLAUDE.md</code> or <code>AGENTS.md</code> containing instructions.</p>
+<p>2.  <strong>Memory (and Compression):</strong> Addresses the fixed context window limitation of models. Memory systems condense past interactions, goals, and errors into a concise, high-density representation, freeing up the context window and allowing models to operate effectively over longer sessions. Changelogs for files are also a form of memory, similar to version control.</p>
+<p>3.  <strong>Tools:</strong> Act as the &quot;motor cortex&quot; for AI models, translating specific text outputs into real-world actions. The harness identifies tool calls (e.g., searching a file) and connects them to software applications, enabling the model to operate beyond text generation. Innovations like the Model Context Protocol (MCP) schema enhance tool integration.</p>
+<p>4.  <strong>Verification:</strong> Allows the model to check its own work, as models lack inherent validation. This involves integrating verification tools (e.g., code testers, calculators) into the harness, which then feed results back to the AI to confirm accuracy, much like humans use external aids for complex tasks.</p>
+<p>5.  <strong>Permissions (and Sandbox):</strong> A control system that checks tool calls and sequences of actions to prevent unwanted or risky operations. Permissions can prompt user approval for unusual actions. Sandboxes are virtual environments that contain the model's operations, limiting potential damage from errors or unintended behaviors and ensuring actions align with user intent.</p>
+
+<p><strong>The Agent Cycle (React Cycle)</strong></p>
+<p>Most modern AI agent systems operate on an iterative &quot;React cycle&quot; (Thought + Action). This cycle involves the model thinking, deciding the next step, taking action (often via a tool call), undergoing permission checks, executing in a sandbox, trimming results, analyzing outcomes, and then concluding before repeating the process until the goal is achieved. Reasoning, where the model re-evaluates its initial ideas (e.g., by adding &quot;but&quot; to its thought process), is also built into this cycle to improve output quality.</p>
+
+<p><strong>Future Trends in AI Agent Development</strong></p>
+<p>Future developments include broader integration of Model Context Protocol (MCP) for tool connectivity, the emergence of multi-agent teams that delegate tasks and share context, frameworks that try multiple solutions in parallel and select the best one, and evolutionary frameworks that learn from mistakes to continuously improve the harness itself, optimizing for efficiency and accuracy.</p>]]></description>
+    <content:encoded><![CDATA[<h2>Context</h2>
+<p>This video explains AI harnesses, which are the essential infrastructure that enables artificial intelligence models to perform real-world tasks and generate value beyond just text prediction.</p>
+
+<h2>Key Points and Takeaways</h2>
+<li>AI harnesses are wrappers around core AI models (like Claude or ChatGPT) that enable them to perform real work, not just generate text.</li>
+<li>The performance of an AI model is significantly influenced by the harness it operates within; a good harness can make even a mediocre model effective.</li>
+<li>AI progress occurs in both the underlying intelligence of models and the sophistication of their harnesses.</li>
+<li>Key components of an AI harness include Context, Memory, Tools, Verification, and Permissions, each addressing limitations of raw AI models.</li>
+<li>Future advancements in AI agent development will focus on multi-agent collaboration, parallel execution of tasks, and evolutionary frameworks that self-improve based on performance.</li>
+
+<h2>Topics Covered</h2>
+
+<p><strong>AI Models vs. AI Harnesses</strong></p>
+<p>AI models are described as &quot;brains in a jar,&quot; initially trained to predict text without memory, external awareness, or the ability to act. AI harnesses are the infrastructure (like a saddle for a powerful horse) built around these models to guide them towards useful goals, enabling them to interact with the real world and perform complex tasks. Examples include Claude Code (Anthropic) and Codex (OpenAI), which are wrappers around their respective model families.</p>
+
+<p><strong>Components of an AI Harness</strong></p>
+<p>1.  <strong>Context:</strong> Provides the model with initial information about the project, file structure, recent changes, and available tools, allowing it to make relevant decisions. This information is typically hidden from the user but accessible to the model, often through files like <code>CLAUDE.md</code> or <code>AGENTS.md</code> containing instructions.</p>
+<p>2.  <strong>Memory (and Compression):</strong> Addresses the fixed context window limitation of models. Memory systems condense past interactions, goals, and errors into a concise, high-density representation, freeing up the context window and allowing models to operate effectively over longer sessions. Changelogs for files are also a form of memory, similar to version control.</p>
+<p>3.  <strong>Tools:</strong> Act as the &quot;motor cortex&quot; for AI models, translating specific text outputs into real-world actions. The harness identifies tool calls (e.g., searching a file) and connects them to software applications, enabling the model to operate beyond text generation. Innovations like the Model Context Protocol (MCP) schema enhance tool integration.</p>
+<p>4.  <strong>Verification:</strong> Allows the model to check its own work, as models lack inherent validation. This involves integrating verification tools (e.g., code testers, calculators) into the harness, which then feed results back to the AI to confirm accuracy, much like humans use external aids for complex tasks.</p>
+<p>5.  <strong>Permissions (and Sandbox):</strong> A control system that checks tool calls and sequences of actions to prevent unwanted or risky operations. Permissions can prompt user approval for unusual actions. Sandboxes are virtual environments that contain the model's operations, limiting potential damage from errors or unintended behaviors and ensuring actions align with user intent.</p>
+
+<p><strong>The Agent Cycle (React Cycle)</strong></p>
+<p>Most modern AI agent systems operate on an iterative &quot;React cycle&quot; (Thought + Action). This cycle involves the model thinking, deciding the next step, taking action (often via a tool call), undergoing permission checks, executing in a sandbox, trimming results, analyzing outcomes, and then concluding before repeating the process until the goal is achieved. Reasoning, where the model re-evaluates its initial ideas (e.g., by adding &quot;but&quot; to its thought process), is also built into this cycle to improve output quality.</p>
+
+<p><strong>Future Trends in AI Agent Development</strong></p>
+<p>Future developments include broader integration of Model Context Protocol (MCP) for tool connectivity, the emergence of multi-agent teams that delegate tasks and share context, frameworks that try multiple solutions in parallel and select the best one, and evolutionary frameworks that learn from mistakes to continuously improve the harness itself, optimizing for efficiency and accuracy.</p>]]></content:encoded>
+  </item>
   <item>
     <title>2026-10-11-Dominik Lebersorger - Meine 8 Einkommensquellen mit 28</title>
     <link>https://konstantinhorn.github.io/rss-reader-feed/</link>
